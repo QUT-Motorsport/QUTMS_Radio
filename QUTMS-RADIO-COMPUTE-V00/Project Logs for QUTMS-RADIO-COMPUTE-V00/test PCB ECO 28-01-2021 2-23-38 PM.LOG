@@ -1,0 +1,32 @@
+Added Component: Designator=J1(MX120G)
+Added Component: Designator=J2(MX120G)
+Added Pin To Net: NetName=12V Pin=J1-4
+Added Pin To Net: NetName=12V Pin=J1-5
+Added Pin To Net: NetName=12V Pin=J1-10
+Added Pin To Net: NetName=12V Pin=J1-11
+Added Pin To Net: NetName=12V Pin=J2-4
+Added Pin To Net: NetName=12V Pin=J2-5
+Added Pin To Net: NetName=12V Pin=J2-10
+Added Pin To Net: NetName=12V Pin=J2-11
+Added Net: Name=12V
+Added Pin To Net: NetName=CANH Pin=J1-2
+Added Pin To Net: NetName=CANH Pin=J1-8
+Added Pin To Net: NetName=CANH Pin=J2-2
+Added Pin To Net: NetName=CANH Pin=J2-8
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=J1-1
+Added Pin To Net: NetName=CANL Pin=J1-7
+Added Pin To Net: NetName=CANL Pin=J2-1
+Added Pin To Net: NetName=CANL Pin=J2-7
+Added Net: Name=CANL
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Net: Name=GND
+Added Class: Name=RADC-Connectors-S01-V00
+Added Room: Name=RADC-Connectors-S01-V00
