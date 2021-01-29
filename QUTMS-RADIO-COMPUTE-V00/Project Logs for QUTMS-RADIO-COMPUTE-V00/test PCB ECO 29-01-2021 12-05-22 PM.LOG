@@ -1,0 +1,356 @@
+Removed Pin From Net: NetName=CANL Pin=J2-1
+Removed Pin From Net: NetName=CANH Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=12V Pin=J2-4
+Removed Pin From Net: NetName=12V Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-6
+Removed Pin From Net: NetName=CANL Pin=J2-7
+Removed Pin From Net: NetName=CANH Pin=J2-8
+Removed Pin From Net: NetName=GND Pin=J2-9
+Removed Pin From Net: NetName=12V Pin=J2-10
+Removed Pin From Net: NetName=12V Pin=J2-11
+Removed Pin From Net: NetName=GND Pin=J2-12
+Change Component Footprint: Designator=J2 Old Footprint=MX120G New Footprint=2305018-2
+Change Component Comment : Designator=J2 Old Comment=MX120G New Comment=2305018-2
+Added Component: Designator=C1(Cap_Ceramic_0603)
+Added Component: Designator=C2(Cap_Ceramic_0603)
+Added Component: Designator=C3(Cap_Ceramic_0603)
+Added Component: Designator=C4(Cap_Ceramic_0603)
+Added Component: Designator=C5(Cap_Ceramic_1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/tdk-corporation/C3216X5R1V226M160AC/445-8045-1-ND/2792165"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap_Ceramic_1210)
+Added Component: Designator=D1(SC-47)
+Added Component: Designator=D2(NUP2105L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.cn/PowerSolutions/document/NUP2105L-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/TVS_ON-Semiconductor-NUP2105LT1G_C14486.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com.au/product-detail/en/on-semiconductor/SZNUP2105LT1G/SZNUP2105LT1GOSCT-ND/3487669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/vishay-semiconductor-diodes-division/BZT52B3V3-G3-08/BZT52B3V3-G3-08GICT-ND/8284035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/83340/bzt52g.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SMA)
+Added Component: Designator=D5(SMA)
+Added Component: Designator=D6(SMA)
+Added Component: Designator=D7(SOD123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/vishay-semiconductor-diodes-division/BZT52B3V3-G3-08/BZT52B3V3-G3-08GICT-ND/8284035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/83340/bzt52g.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SMA)
+Added Component: Designator=DS1(LED BLUE 0603)
+Added Component: Designator=DS2(LED BLUE 0603)
+Added Component: Designator=DS3(LED GREEN 0603)
+Added Component: Designator=DS4(LED RED 0603)
+Added Component: Designator=DS5(LED RED 0603)
+Added Component: Designator=DS6(LED GREEN 0603)
+Added Component: Designator=DS7(LED GREEN 0603)
+Added Component: Designator=DS8(LED GREEN 0603)
+Added Component: Designator=DS9(LED GREEN 0603)
+Added Component: Designator=F1(1206 Fuse)
+Added Component: Designator=J3(MX120G)
+Added Component: Designator=J4(Jumper_2Way_Pin)
+Added Component: Designator=J5(PJ-102A/AH)
+Added Component: Designator=L1(Inductor_6x6mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/74404064221/732-7261-1-ND/5353241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_Sunlord-SWPA6045S221MT_C91047.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMNR6045-221MT_C467145.html"; VariantName = "[No Variations]"
+Added Component: Designator=M1A(Keystone 24883)
+Added Component: Designator=M1B(Keystone 24883)
+Added Component: Designator=M2A(Keystone 24883)
+Added Component: Designator=M2B(Keystone 24883)
+Added Component: Designator=R1(Res_ThinFilm_0603)
+Added Component: Designator=R2(Res_ThinFilm_0603)
+Added Component: Designator=R3(Res_ThinFilm_0603)
+Added Component: Designator=R4(Res_ThinFilm_0603)
+Added Component: Designator=R5(Res_ThinFilm_1210)
+Added Component: Designator=R6(Res_ThinFilm_0603)
+Added Component: Designator=R7(Res_ThinFilm_0603)
+Added Component: Designator=R8(Res_ThinFilm_0603)
+Added Component: Designator=R9(Res_ThinFilm_0603)
+Added Component: Designator=R10(Res_ThinFilm_0603)
+Added Component: Designator=R11(Res_ThinFilm_0603)
+Added Component: Designator=R12(Res_ThinFilm_0603)
+Added Component: Designator=R13(Res_ThinFilm_0603)
+Added Component: Designator=R14(Res_ThinFilm_0603)
+Added Component: Designator=R15(Res_ThinFilm_0603)
+Added Component: Designator=R16(Res_ThinFilm_0603)
+Added Component: Designator=R17(Res_ThinFilm_0603)
+Added Component: Designator=R18(Res_ThinFilm_0603)
+Added Component: Designator=R19(Res_ThinFilm_0603)
+Added Component: Designator=R20(Res_ThinFilm_0603)
+Added Component: Designator=R21(Res_ThinFilm_0603)
+Added Component: Designator=R22(Res_ThinFilm_0603)
+Added Component: Designator=R23(Res_ThinFilm_0603)
+Added Component: Designator=R24(Res_ThinFilm_0603)
+Added Component: Designator=R25(Res_ThinFilm_0603)
+Added Component: Designator=R26(Res_ThinFilm_0603)
+Added Component: Designator=R27(Res_ThinFilm_0603)
+Added Component: Designator=TP1(TestPointSMD)
+Added Component: Designator=TP2(TestPointSMD)
+Added Component: Designator=TP3(TestPointSMD)
+Added Component: Designator=TP4(TestPointSMD)
+Added Component: Designator=U1(SN65HVD233DR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/CAN-ICs_Texas-Instruments_SN65HVD233DRG4_Texas-Instruments-Texas-Instruments-SN65HVD233DRG4_C61643.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com.au/product-detail/en/texas-instruments/SN65HVD233DR/296-35967-1-ND/4134960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.ti.com/lit/ds/symlink/sn65hvd233.pdf?ts=1588560888178"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Ti Product Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.ti.com/product/SN65HVD233"; VariantName = "[No Variations]"
+Added Component: Designator=U2(10-Pin TDFN EP)
+Added Component: Designator=U3(LMR14010)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=12V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=CANL Pin=D2-1
+Added Pin To Net: NetName=CANH Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D2-3
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=GND Pin=D5-A
+Added Pin To Net: NetName=GND Pin=D7-A
+Added Pin To Net: NetName=GND Pin=DS3-2
+Added Pin To Net: NetName=GND Pin=DS6-2
+Added Pin To Net: NetName=GND Pin=DS7-2
+Added Pin To Net: NetName=GND Pin=DS8-2
+Added Pin To Net: NetName=GND Pin=DS9-2
+Added Pin To Net: NetName=GND Pin=J2-A1
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=GND Pin=J2-B1
+Added Pin To Net: NetName=GND Pin=J2-B12
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G2
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND Pin=J2-S3
+Added Pin To Net: NetName=GND Pin=J2-S4
+Added Pin To Net: NetName=CANL Pin=J3-1
+Added Pin To Net: NetName=CANH Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=12V Pin=J3-4
+Added Pin To Net: NetName=12V Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=CANL Pin=J3-7
+Added Pin To Net: NetName=CANH Pin=J3-8
+Added Pin To Net: NetName=GND Pin=J3-9
+Added Pin To Net: NetName=12V Pin=J3-10
+Added Pin To Net: NetName=12V Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=CANH Pin=J4-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=CANL Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=12V Pin=R7-2
+Added Pin To Net: NetName=12V Pin=R8-2
+Added Pin To Net: NetName=12V Pin=R9-2
+Added Pin To Net: NetName=12V Pin=R10-2
+Added Pin To Net: NetName=12V Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=CANH Pin=TP1-1
+Added Pin To Net: NetName=CANL Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=CANL Pin=U1-6
+Added Pin To Net: NetName=CANH Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=12V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=12VP Pin=C3-2
+Added Pin To Net: NetName=12VP Pin=D6-A
+Added Pin To Net: NetName=12VP Pin=R12-2
+Added Pin To Net: NetName=12VP Pin=U2-10
+Added Net: Name=12VP
+Added Pin To Net: NetName=CAN LBK Pin=R6-2
+Added Pin To Net: NetName=CAN LBK Pin=U1-5
+Added Net: Name=CAN LBK
+Added Pin To Net: NetName=CAN LED Pin=C1-2
+Added Pin To Net: NetName=CAN LED Pin=C6-2
+Added Pin To Net: NetName=CAN LED Pin=DS1-1
+Added Pin To Net: NetName=CAN LED Pin=DS2-1
+Added Pin To Net: NetName=CAN LED Pin=L1-2
+Added Pin To Net: NetName=CAN LED Pin=R13-2
+Added Pin To Net: NetName=CAN LED Pin=R23-2
+Added Pin To Net: NetName=CAN LED Pin=R24-2
+Added Pin To Net: NetName=CAN LED Pin=U1-3
+Added Net: Name=CAN LED
+Added Pin To Net: NetName=CAN RX LED Pin=DS2-2
+Added Pin To Net: NetName=CAN RX LED Pin=R4-2
+Added Net: Name=CAN RX LED
+Added Pin To Net: NetName=CAN RX Pin=R4-1
+Added Pin To Net: NetName=CAN RX Pin=TP4-1
+Added Pin To Net: NetName=CAN RX Pin=U1-4
+Added Net: Name=CAN RX
+Added Pin To Net: NetName=CAN TX LED Pin=DS1-2
+Added Pin To Net: NetName=CAN TX LED Pin=R3-2
+Added Net: Name=CAN TX LED
+Added Pin To Net: NetName=CAN TX Pin=R3-1
+Added Pin To Net: NetName=CAN TX Pin=TP2-1
+Added Pin To Net: NetName=CAN TX Pin=U1-1
+Added Net: Name=CAN TX
+Added Pin To Net: NetName=NetD3_K Pin=D3-K
+Added Pin To Net: NetName=NetD3_K Pin=J5-3
+Added Pin To Net: NetName=NetD3_K Pin=R13-1
+Added Pin To Net: NetName=NetD3_K Pin=R16-1
+Added Net: Name=NetD3_K
+Added Pin To Net: NetName=NetD7_K Pin=D7-K
+Added Pin To Net: NetName=NetD7_K Pin=R21-1
+Added Pin To Net: NetName=NetD7_K Pin=R25-1
+Added Pin To Net: NetName=NetD7_K Pin=R26-2
+Added Net: Name=NetD7_K
+Added Pin To Net: NetName=NetDS8_1 Pin=DS8-1
+Added Pin To Net: NetName=NetDS8_1 Pin=R22-1
+Added Net: Name=NetDS8_1
+Added Pin To Net: NetName=NetDS9_1 Pin=DS9-1
+Added Pin To Net: NetName=NetDS9_1 Pin=R24-1
+Added Net: Name=NetDS9_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R5-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=PWR CB 3V3 Pin=C4-1
+Added Pin To Net: NetName=PWR CB 3V3 Pin=U3-1
+Added Net: Name=PWR CB 3V3
+Added Pin To Net: NetName=PWR CLMODE Pin=R20-2
+Added Pin To Net: NetName=PWR CLMODE Pin=U2-4
+Added Net: Name=PWR CLMODE
+Added Pin To Net: NetName=PWR EN 12V Pin=R15-1
+Added Pin To Net: NetName=PWR EN 12V Pin=U2-5
+Added Net: Name=PWR EN 12V
+Added Pin To Net: NetName=PWR FB 3V3 Pin=R23-1
+Added Pin To Net: NetName=PWR FB 3V3 Pin=R27-2
+Added Pin To Net: NetName=PWR FB 3V3 Pin=U3-3
+Added Net: Name=PWR FB 3V3
+Added Pin To Net: NetName=PWR FLAG Pin=DS5-2
+Added Pin To Net: NetName=PWR FLAG Pin=U2-6
+Added Net: Name=PWR FLAG
+Added Pin To Net: NetName=PWR LED 12VP Pin=DS6-1
+Added Pin To Net: NetName=PWR LED 12VP Pin=R12-1
+Added Net: Name=PWR LED 12VP
+Added Pin To Net: NetName=PWR LED 12V Pin=DS3-1
+Added Pin To Net: NetName=PWR LED 12V Pin=R7-1
+Added Net: Name=PWR LED 12V
+Added Pin To Net: NetName=PWR LED EXT Pin=DS7-1
+Added Pin To Net: NetName=PWR LED EXT Pin=R14-1
+Added Net: Name=PWR LED EXT
+Added Pin To Net: NetName=PWR LED FLAG Pin=DS5-1
+Added Pin To Net: NetName=PWR LED FLAG Pin=R11-1
+Added Net: Name=PWR LED FLAG
+Added Pin To Net: NetName=PWR LED UVOV Pin=DS4-1
+Added Pin To Net: NetName=PWR LED UVOV Pin=R10-1
+Added Net: Name=PWR LED UVOV
+Added Pin To Net: NetName=PWR OVLO Pin=R9-1
+Added Pin To Net: NetName=PWR OVLO Pin=R18-2
+Added Pin To Net: NetName=PWR OVLO Pin=U2-3
+Added Net: Name=PWR OVLO
+Added Pin To Net: NetName=PWR SETI Pin=R19-2
+Added Pin To Net: NetName=PWR SETI Pin=U2-8
+Added Net: Name=PWR SETI
+Added Pin To Net: NetName=PWR SW 3V3 Pin=C4-2
+Added Pin To Net: NetName=PWR SW 3V3 Pin=D5-K
+Added Pin To Net: NetName=PWR SW 3V3 Pin=L1-1
+Added Pin To Net: NetName=PWR SW 3V3 Pin=U3-6
+Added Net: Name=PWR SW 3V3
+Added Pin To Net: NetName=PWR UVLO Pin=R8-1
+Added Pin To Net: NetName=PWR UVLO Pin=R17-2
+Added Pin To Net: NetName=PWR UVLO Pin=U2-2
+Added Net: Name=PWR UVLO
+Added Pin To Net: NetName=PWR UVOV Pin=DS4-2
+Added Pin To Net: NetName=PWR UVOV Pin=U2-7
+Added Net: Name=PWR UVOV
+Added Pin To Net: NetName=USB CC1 Pin=J2-A5
+Added Pin To Net: NetName=USB CC1 Pin=R1-2
+Added Net: Name=USB CC1
+Added Pin To Net: NetName=USB CC2 Pin=J2-B5
+Added Pin To Net: NetName=USB CC2 Pin=R2-2
+Added Net: Name=USB CC2
+Added Pin To Net: NetName=USB D_N Pin=D1-1
+Added Pin To Net: NetName=USB D_N Pin=D1-1
+Added Pin To Net: NetName=USB D_N Pin=D1-1
+Added Pin To Net: NetName=USB D_N Pin=D1-1
+Added Pin To Net: NetName=USB D_N Pin=D1-1
+Added Pin To Net: NetName=USB D_N Pin=D1-1
+Added Pin To Net: NetName=USB D_N Pin=J2-A7
+Added Pin To Net: NetName=USB D_N Pin=J2-B7
+Added Net: Name=USB D_N
+Added Pin To Net: NetName=USB D_P Pin=J2-A6
+Added Pin To Net: NetName=USB D_P Pin=J2-B6
+Added Net: Name=USB D_P
+Added Pin To Net: NetName=USB RX1_N Pin=J2-B10
+Added Net: Name=USB RX1_N
+Added Pin To Net: NetName=USB RX1_P Pin=J2-B11
+Added Net: Name=USB RX1_P
+Added Pin To Net: NetName=USB RX2_N Pin=J2-A10
+Added Net: Name=USB RX2_N
+Added Pin To Net: NetName=USB RX2_P Pin=J2-A11
+Added Net: Name=USB RX2_P
+Added Pin To Net: NetName=USB SBU1 Pin=J2-A8
+Added Net: Name=USB SBU1
+Added Pin To Net: NetName=USB SBU2 Pin=J2-B8
+Added Net: Name=USB SBU2
+Added Pin To Net: NetName=USB TX1_N Pin=J2-A3
+Added Net: Name=USB TX1_N
+Added Pin To Net: NetName=USB TX1_P Pin=J2-A2
+Added Net: Name=USB TX1_P
+Added Pin To Net: NetName=USB TX2_N Pin=J2-B3
+Added Net: Name=USB TX2_N
+Added Pin To Net: NetName=USB TX2_P Pin=J2-B2
+Added Net: Name=USB TX2_P
+Added Pin To Net: NetName=VBUSF Pin=D4-A
+Added Pin To Net: NetName=VBUSF Pin=F1-2
+Added Net: Name=VBUSF
+Added Pin To Net: NetName=VBUS Pin=F1-1
+Added Pin To Net: NetName=VBUS Pin=J2-A4
+Added Pin To Net: NetName=VBUS Pin=J2-A9
+Added Pin To Net: NetName=VBUS Pin=J2-B4
+Added Pin To Net: NetName=VBUS Pin=J2-B9
+Added Pin To Net: NetName=VBUS Pin=R22-2
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=D4-K
+Added Pin To Net: NetName=VCC Pin=D6-K
+Added Pin To Net: NetName=VCC Pin=D8-K
+Added Pin To Net: NetName=VCC Pin=R21-2
+Added Pin To Net: NetName=VCC Pin=U3-4
+Added Pin To Net: NetName=VCC Pin=U3-5
+Added Net: Name=VCC
+Added Pin To Net: NetName=VEXT Pin=D8-A
+Added Pin To Net: NetName=VEXT Pin=J5-2
+Added Pin To Net: NetName=VEXT Pin=R14-2
+Added Net: Name=VEXT
+Added Class: Name=CANBUS Transciver
+Added Class: Name=Connectors
+Added Class: Name=ModuleConnect1
+Added Class: Name=ModuleConnect2
+Added Class: Name=Power Supply (12V -> 5V -> 3V3)
+Added Class: Name=RADC-ModuleConnect-S06-V00
+Added Room: Name=CANBUS Transciver
+Added Room: Name=Connectors
+Added Room: Name=ModuleConnect1
+Added Room: Name=ModuleConnect2
+Added Room: Name=Power Supply (12V -> 5V -> 3V3)

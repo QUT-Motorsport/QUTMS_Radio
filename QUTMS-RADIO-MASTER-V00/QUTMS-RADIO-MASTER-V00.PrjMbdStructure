@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=RADM-Master-S00-V00.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\QUTMS-RADIO-GPS-V00\QUTMS-RADIO-GPS-V00.PrjPcb
+Record=SubProject|SourceDocument=RADM-Master-S00-V00.MbsDoc|ProjectPath=..\QUTMS-RADIO-GPS-V00\QUTMS-RADIO-GPS-V00.PrjPcb
+Record=DiagramHierarchy|SourceDocument=RADM-Master-S00-V00.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\QUTMS-RADIO-M2M-V00\QUTMS-RADIO-M2M-V00.PrjPcb
+Record=SubProject|SourceDocument=RADM-Master-S00-V00.MbsDoc|ProjectPath=..\QUTMS-RADIO-M2M-V00\QUTMS-RADIO-M2M-V00.PrjPcb
+Record=DiagramHierarchy|SourceDocument=RADM-Master-S00-V00.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\QUTMS-RADIO-COMPUTE-V00\QUTMS-RADIO-COMPUTE-V00.PrjPcb
+Record=SubProject|SourceDocument=RADM-Master-S00-V00.MbsDoc|ProjectPath=..\QUTMS-RADIO-COMPUTE-V00\QUTMS-RADIO-COMPUTE-V00.PrjPcb
