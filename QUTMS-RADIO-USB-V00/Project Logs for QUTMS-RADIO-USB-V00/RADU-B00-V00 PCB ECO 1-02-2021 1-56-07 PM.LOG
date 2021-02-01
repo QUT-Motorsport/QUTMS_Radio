@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=RADU-Master-S00-V00 Member=M3
+Removed Member From Class: ClassName=RADU-Master-S00-V00 Member=M4
+Change Component Kind : Designator=M2 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=M1 Old Kind=Standard New Kind=Standard (No BOM)
+Added Room: Name=RADU-Master-S00-V00

@@ -1,0 +1,56 @@
+Added Component: Designator=J1(USB4115-03-C)
+Added Component: Designator=J2(10129380-904002ALF)
+Added Component: Designator=M1(M3.2 UNPLATED)
+Added Component: Designator=M2(M3.2 UNPLATED)
+Added Component: Designator=M3(M3.2 UNPLATED)
+Added Component: Designator=M4(M3.2 UNPLATED)
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B1
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=USB CC1 Pin=J1-A5
+Added Net: Name=USB CC1
+Added Pin To Net: NetName=USB CC2 Pin=J1-B5
+Added Net: Name=USB CC2
+Added Pin To Net: NetName=USB D_N Pin=J1-A7
+Added Pin To Net: NetName=USB D_N Pin=J1-B7
+Added Pin To Net: NetName=USB D_N Pin=J2-3
+Added Net: Name=USB D_N
+Added Pin To Net: NetName=USB D_P Pin=J1-A6
+Added Pin To Net: NetName=USB D_P Pin=J1-B6
+Added Pin To Net: NetName=USB D_P Pin=J2-2
+Added Net: Name=USB D_P
+Added Pin To Net: NetName=USB RX1_N Pin=J1-B10
+Added Net: Name=USB RX1_N
+Added Pin To Net: NetName=USB RX1_P Pin=J1-B11
+Added Net: Name=USB RX1_P
+Added Pin To Net: NetName=USB RX2_N Pin=J1-A10
+Added Net: Name=USB RX2_N
+Added Pin To Net: NetName=USB RX2_P Pin=J1-A11
+Added Net: Name=USB RX2_P
+Added Pin To Net: NetName=USB SBU1 Pin=J1-A8
+Added Net: Name=USB SBU1
+Added Pin To Net: NetName=USB SBU2 Pin=J1-B8
+Added Net: Name=USB SBU2
+Added Pin To Net: NetName=USB TX1_N Pin=J1-A3
+Added Net: Name=USB TX1_N
+Added Pin To Net: NetName=USB TX1_P Pin=J1-A2
+Added Net: Name=USB TX1_P
+Added Pin To Net: NetName=USB TX2_N Pin=J1-B3
+Added Net: Name=USB TX2_N
+Added Pin To Net: NetName=USB TX2_P Pin=J1-B2
+Added Net: Name=USB TX2_P
+Added Pin To Net: NetName=VBUS Pin=J1-A4
+Added Pin To Net: NetName=VBUS Pin=J1-A9
+Added Pin To Net: NetName=VBUS Pin=J1-B4
+Added Pin To Net: NetName=VBUS Pin=J1-B9
+Added Pin To Net: NetName=VBUS Pin=J2-1
+Added Net: Name=VBUS
+Added Class: Name=RADU-Master-S00-V00
+Added Room: Name=RADU-Master-S00-V00
