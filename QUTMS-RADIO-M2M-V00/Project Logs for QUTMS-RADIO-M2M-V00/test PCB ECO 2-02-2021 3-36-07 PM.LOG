@@ -1,0 +1,117 @@
+Added Component: Designator=C1(Cap_Ceramic_0603)
+Added Component: Designator=C2(Cap_Ceramic_0603)
+Added Component: Designator=C3(Cap_Ceramic_1206)
+Added Component: Designator=C4(Cap_Ceramic_1206)
+Added Component: Designator=D1(SC-47)
+Added Component: Designator=DS1(LED GREEN 0603)
+Added Component: Designator=DS2(LED GREEN 0603)
+Added Component: Designator=DS3(LED RED 0603)
+Added Component: Designator=DS4(LED ORANGE 0603)
+Added Component: Designator=DS5(LED ORANGE 0603)
+Added Component: Designator=DS6(LED YELLOW 0603)
+Added Component: Designator=DS7(LED YELLOW 0603)
+Added Component: Designator=DS8(LED GREEN 0603)
+Added Component: Designator=DS9(LED GREEN 0603)
+Added Component: Designator=F1(1206 Fuse)
+Added Component: Designator=FL1(NFE31PT101C1E9L)
+Added Component: Designator=J1(12401610E4#2A)
+Added Component: Designator=R1(Res_ThinFilm_0603)
+Added Component: Designator=R2(Res_ThinFilm_0603)
+Added Component: Designator=R3(Res_ThinFilm_0603)
+Added Component: Designator=R4(Res_ThinFilm_0603)
+Added Component: Designator=R5(Res_ThinFilm_0603)
+Added Component: Designator=U1(XBee_1W_Base)
+Added Component: Designator=U2(SOT-223)
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=FL1-3
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=DS2-2
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B1
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Net: Name=GND
+Added Pin To Net: NetName=N3V3 Pin=C2-2
+Added Pin To Net: NetName=N3V3 Pin=FL1-1
+Added Pin To Net: NetName=N3V3 Pin=U2-2
+Added Net: Name=N3V3
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=F1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R1-1
+Added Net: Name=NetDS1_1
+Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
+Added Pin To Net: NetName=NetDS2_1 Pin=R2-1
+Added Net: Name=NetDS2_1
+Added Pin To Net: NetName=NGND Pin=C1-1
+Added Pin To Net: NetName=NGND Pin=C2-1
+Added Pin To Net: NetName=NGND Pin=DS1-2
+Added Pin To Net: NetName=NGND Pin=FL1-2
+Added Pin To Net: NetName=NGND Pin=FL1-2
+Added Pin To Net: NetName=NGND Pin=R3-1
+Added Pin To Net: NetName=NGND Pin=U2-1
+Added Net: Name=NGND
+Added Pin To Net: NetName=USB CC1 Pin=J1-A5
+Added Pin To Net: NetName=USB CC1 Pin=R4-2
+Added Net: Name=USB CC1
+Added Pin To Net: NetName=USB CC2 Pin=J1-B5
+Added Pin To Net: NetName=USB CC2 Pin=R5-2
+Added Net: Name=USB CC2
+Added Pin To Net: NetName=USB D_N Pin=D1-1
+Added Pin To Net: NetName=USB D_N Pin=D1-6
+Added Pin To Net: NetName=USB D_N Pin=J1-A7
+Added Pin To Net: NetName=USB D_N Pin=J1-B7
+Added Net: Name=USB D_N
+Added Pin To Net: NetName=USB D_P Pin=D1-3
+Added Pin To Net: NetName=USB D_P Pin=D1-4
+Added Pin To Net: NetName=USB D_P Pin=J1-A6
+Added Pin To Net: NetName=USB D_P Pin=J1-B6
+Added Net: Name=USB D_P
+Added Pin To Net: NetName=USB RX1_N Pin=J1-B10
+Added Net: Name=USB RX1_N
+Added Pin To Net: NetName=USB RX1_P Pin=J1-B11
+Added Net: Name=USB RX1_P
+Added Pin To Net: NetName=USB RX2_N Pin=J1-A10
+Added Net: Name=USB RX2_N
+Added Pin To Net: NetName=USB RX2_P Pin=J1-A11
+Added Net: Name=USB RX2_P
+Added Pin To Net: NetName=USB SBU1 Pin=J1-A8
+Added Net: Name=USB SBU1
+Added Pin To Net: NetName=USB SBU2 Pin=J1-B8
+Added Net: Name=USB SBU2
+Added Pin To Net: NetName=USB TX1_N Pin=J1-A3
+Added Net: Name=USB TX1_N
+Added Pin To Net: NetName=USB TX1_P Pin=J1-A2
+Added Net: Name=USB TX1_P
+Added Pin To Net: NetName=USB TX2_N Pin=J1-B3
+Added Net: Name=USB TX2_N
+Added Pin To Net: NetName=USB TX2_P Pin=J1-B2
+Added Net: Name=USB TX2_P
+Added Pin To Net: NetName=VBUS Pin=D1-5
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VUSB Pin=F1-1
+Added Pin To Net: NetName=VUSB Pin=J1-A4
+Added Pin To Net: NetName=VUSB Pin=J1-A9
+Added Pin To Net: NetName=VUSB Pin=J1-B4
+Added Pin To Net: NetName=VUSB Pin=J1-B9
+Added Net: Name=VUSB
+Added Class: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -669,23 +669,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LAXOCELM
 
 [Document38]
-DocumentPath=RADC-CANBUS-S03-V00.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SUYYFNGI
-
-[Document39]
 DocumentPath=RADC-CANBUS-S03-V00.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -702,24 +685,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
-DocumentPath=RADC-Power-S04-V00.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZSREYLHO
-
-[Document41]
+[Document39]
 DocumentPath=QUTMS_USBLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -736,7 +702,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHMXIQOY
 
-[Document42]
+[Document40]
 DocumentPath=QUTMS_USBLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -753,7 +719,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYOMOMNA
 
-[Document43]
+[Document41]
 DocumentPath=QUTMS_PCIConnectorLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -770,7 +736,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGZUHXQS
 
-[Document44]
+[Document42]
 DocumentPath=QUTMS_PCIConnectorLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -787,7 +753,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJNFQAWH
 
-[Document45]
+[Document43]
 DocumentPath=QUTMS_FuseLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -804,7 +770,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFACSIUS
 
-[Document46]
+[Document44]
 DocumentPath=QUTMS_FuseLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,7 +787,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVCLQXKP
 
-[Document47]
+[Document45]
 DocumentPath=QUTMS_LogicLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -838,7 +804,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document46]
 DocumentPath=QUTMS_LogicLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -855,7 +821,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document47]
 DocumentPath=QUTMS_MicrofitLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -872,7 +838,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document48]
 DocumentPath=QUTMS_MicrofitLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -889,7 +855,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document49]
 DocumentPath=QUTMS_MuliplexerLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -906,7 +872,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document50]
 DocumentPath=QUTMS_MuliplexerLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -923,7 +889,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document51]
 DocumentPath=QUTMS_OpAmpLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -940,7 +906,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document52]
 DocumentPath=QUTMS_OpAmpLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -957,7 +923,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document53]
 DocumentPath=QUTMS_OpAmps.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -974,7 +940,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document54]
 DocumentPath=QUTMS_OpAmps.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -991,41 +957,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
-DocumentPath=RADC-Peripherals-S05-V00.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XKJJSYCI
-
-[Document58]
-DocumentPath=RADC-ModuleConnect-S06-V00.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EYSWJLLB
-
-[Document59]
+[Document55]
 DocumentPath=QUTMS_PeripheralConnectivity.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1042,7 +974,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document56]
 DocumentPath=QUTMS_PeripheralConnectivity.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1059,8 +991,93 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLKLXDWE
 
+[Document57]
+DocumentPath=RADC-ModuleConnect-S07-V00.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EYSWJLLB
+
+[Document58]
+DocumentPath=RADC-Peripherals-S06-V00.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XKJJSYCI
+
+[Document59]
+DocumentPath=RADC-Power-S05-V00.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UXWTITDG
+
+[Document60]
+DocumentPath=RADC-Peripherals-S06-V00.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document61]
-DocumentPath=RADC-Peripherals-S05-V00.Harness
+DocumentPath=RADC-CANBUS-S03-V00.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SUYYFNGI
+
+[Document62]
+DocumentPath=RADC-ModuleConnect-S07-V00.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
