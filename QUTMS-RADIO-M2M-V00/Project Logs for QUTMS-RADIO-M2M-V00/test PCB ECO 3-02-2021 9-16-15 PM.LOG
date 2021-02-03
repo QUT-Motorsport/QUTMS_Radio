@@ -1,0 +1,202 @@
+Removed Pin From Net: NetName=3V3 Pin=C4-2
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=3V3 Pin=FL1-3
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Removed Pin From Net: NetName=3V3 Pin=R9-1
+Removed Pin From Net: NetName=3V3 Pin=R10-1
+Removed Pin From Net: NetName=3V3 Pin=U1-2
+Removed Pin From Net: NetName=3V3 Pin=U1-2
+Change Component Footprint: Designator=C3 Old Footprint=Cap_Ceramic_1206 New Footprint=Cap_Ceramic_0603
+Change Component Footprint: Designator=C4 Old Footprint=Cap_Ceramic_1206 New Footprint=Cap_Ceramic_0603
+Change Component Comment : Designator=C3 Old Comment=10uF 1206 New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=10uF 1206 New Comment=100nF
+Change Component Comment : Designator=R6 Old Comment=220R 5% 0603 New Comment=10k
+Added Component: Designator=DS11(LED YELLOW 0603)
+Added Component: Designator=DS12(LED ORANGE 0603)
+Added Component: Designator=J3(Jumper_2Way_Solderable)
+Added Component: Designator=Q1(SOT23-3)
+Added Component: Designator=R25(Res_ThinFilm_0603)
+Added Component: Designator=R26(Res_ThinFilm_0603)
+Added Component: Designator=R27(Res_ThinFilm_0603)
+Added Component: Designator=R28(Res_ThinFilm_0603)
+Added Component: Designator=R29(Res_ThinFilm_0603)
+Added Component: Designator=R30(Res_ThinFilm_0603)
+Added Component: Designator=R31(Res_ThinFilm_0603)
+Added Component: Designator=R32(Res_ThinFilm_0603)
+Added Component: Designator=R33(Res_ThinFilm_0603)
+Added Component: Designator=R34(Res_ThinFilm_0603)
+Added Component: Designator=R35(Res_ThinFilm_0603)
+Added Component: Designator=R36(Res_ThinFilm_0603)
+Added Component: Designator=R37(Res_ThinFilm_0603)
+Added Component: Designator=R38(Res_ThinFilm_0603)
+Added Component: Designator=U7(TSSOP-14)
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=NGND Pin=DS11-2
+Added Pin To Net: NetName=NGND Pin=DS12-2
+Added Pin To Net: NetName=3V3 Pin=FL1-1
+Added Pin To Net: NetName=3V3 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=3V3 Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-14
+Change Net Name : Old Net Name=3V3 New Net Name=N3V3
+Change Net Name : Old Net Name=NetC11_2 New Net Name=U3V3
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=3V3 Pin=FL1-3
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=BUF EN A Pin=J3-1
+Added Pin To Net: NetName=BUF EN A Pin=U7-1
+Added Pin To Net: NetName=BUF EN A Pin=U7-4
+Added Pin To Net: NetName=BUF EN A Pin=U7-10
+Added Pin To Net: NetName=BUF EN A Pin=U7-13
+Added Net: Name=BUF EN A
+Added Pin To Net: NetName=CON ASSOC Pin=R32-2
+Added Pin To Net: NetName=CON ASSOC Pin=U7-8
+Added Net: Name=CON ASSOC
+Added Pin To Net: NetName=CON RSSI Pin=U7-3
+Added Net: Name=CON RSSI
+Added Pin To Net: NetName=CON SLEEP Pin=R35-2
+Added Pin To Net: NetName=CON SLEEP Pin=U7-11
+Added Net: Name=CON SLEEP
+Added Pin To Net: NetName=GRAPH RSSI Pin=R24-2
+Added Pin To Net: NetName=GRAPH RSSI Pin=U7-6
+Added Net: Name=GRAPH RSSI
+Added Pin To Net: NetName=NetDS11_1 Pin=DS11-1
+Added Pin To Net: NetName=NetDS11_1 Pin=R32-1
+Added Net: Name=NetDS11_1
+Added Pin To Net: NetName=NetDS12_1 Pin=DS12-1
+Added Pin To Net: NetName=NetDS12_1 Pin=R35-1
+Added Net: Name=NetDS12_1
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=R25-2
+Added Pin To Net: NetName=NetQ1_G Pin=R26-2
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Net: Name=NetR31_1
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR34_1 Pin=R34-1
+Added Net: Name=NetR34_1
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Net: Name=NetR38_1
+Added Pin To Net: NetName=USB DCD Pin=U3-8
+Added Net: Name=USB DCD
+Added Pin To Net: NetName=USB DSR Pin=U3-7
+Added Net: Name=USB DSR
+Added Pin To Net: NetName=USB RI Pin=U3-5
+Added Net: Name=USB RI
+Added Pin To Net: NetName=XBEE ASSOC Pin=U1-28
+Added Pin To Net: NetName=XBEE ASSOC Pin=U1-28
+Added Pin To Net: NetName=XBEE ASSOC Pin=U7-9
+Added Net: Name=XBEE ASSOC
+Added Pin To Net: NetName=XBEE CTS Pin=R36-2
+Added Pin To Net: NetName=XBEE CTS Pin=U1-25
+Added Pin To Net: NetName=XBEE CTS Pin=U1-25
+Added Pin To Net: NetName=XBEE CTS Pin=U3-9
+Added Net: Name=XBEE CTS
+Added Pin To Net: NetName=XBEE DIN Pin=R34-2
+Added Pin To Net: NetName=XBEE DIN Pin=U1-4
+Added Pin To Net: NetName=XBEE DIN Pin=U1-4
+Added Pin To Net: NetName=XBEE DIN Pin=U3-20
+Added Net: Name=XBEE DIN
+Added Pin To Net: NetName=XBEE DIO0 Pin=U1-33
+Added Pin To Net: NetName=XBEE DIO0 Pin=U1-33
+Added Net: Name=XBEE DIO0
+Added Pin To Net: NetName=XBEE DIO1 Pin=U1-32
+Added Pin To Net: NetName=XBEE DIO1 Pin=U1-32
+Added Net: Name=XBEE DIO1
+Added Pin To Net: NetName=XBEE DIO2 Pin=U1-31
+Added Pin To Net: NetName=XBEE DIO2 Pin=U1-31
+Added Net: Name=XBEE DIO2
+Added Pin To Net: NetName=XBEE DIO3 Pin=U1-30
+Added Pin To Net: NetName=XBEE DIO3 Pin=U1-30
+Added Net: Name=XBEE DIO3
+Added Pin To Net: NetName=XBEE DIO4 Pin=U1-24
+Added Pin To Net: NetName=XBEE DIO4 Pin=U1-24
+Added Net: Name=XBEE DIO4
+Added Pin To Net: NetName=XBEE DOUT Pin=R33-2
+Added Pin To Net: NetName=XBEE DOUT Pin=U1-3
+Added Pin To Net: NetName=XBEE DOUT Pin=U1-3
+Added Pin To Net: NetName=XBEE DOUT Pin=U3-4
+Added Net: Name=XBEE DOUT
+Added Pin To Net: NetName=XBEE DTR Pin=R38-2
+Added Pin To Net: NetName=XBEE DTR Pin=U1-10
+Added Pin To Net: NetName=XBEE DTR Pin=U1-10
+Added Pin To Net: NetName=XBEE DTR Pin=U3-1
+Added Net: Name=XBEE DTR
+Added Pin To Net: NetName=XBEE PWM Pin=U1-8
+Added Pin To Net: NetName=XBEE PWM Pin=U1-8
+Added Net: Name=XBEE PWM
+Added Pin To Net: NetName=XBEE RESET Pin=Q1-D
+Added Pin To Net: NetName=XBEE RESET Pin=R6-1
+Added Pin To Net: NetName=XBEE RESET Pin=U1-6
+Added Pin To Net: NetName=XBEE RESET Pin=U1-6
+Added Net: Name=XBEE RESET
+Added Pin To Net: NetName=XBEE RSSI Pin=U1-7
+Added Pin To Net: NetName=XBEE RSSI Pin=U1-7
+Added Pin To Net: NetName=XBEE RSSI Pin=U7-2
+Added Pin To Net: NetName=XBEE RSSI Pin=U7-5
+Added Net: Name=XBEE RSSI
+Added Pin To Net: NetName=XBEE RTS Pin=R37-2
+Added Pin To Net: NetName=XBEE RTS Pin=U1-29
+Added Pin To Net: NetName=XBEE RTS Pin=U1-29
+Added Pin To Net: NetName=XBEE RTS Pin=U3-2
+Added Net: Name=XBEE RTS
+Added Pin To Net: NetName=XBEE SLEEP Pin=U1-26
+Added Pin To Net: NetName=XBEE SLEEP Pin=U1-26
+Added Pin To Net: NetName=XBEE SLEEP Pin=U7-12
+Added Net: Name=XBEE SLEEP
+Added Pin To Net: NetName=XBEE SPI ATTN Pin=R27-2
+Added Pin To Net: NetName=XBEE SPI ATTN Pin=U1-12
+Added Pin To Net: NetName=XBEE SPI ATTN Pin=U1-12
+Added Net: Name=XBEE SPI ATTN
+Added Pin To Net: NetName=XBEE SPI CLK Pin=R30-2
+Added Pin To Net: NetName=XBEE SPI CLK Pin=U1-14
+Added Pin To Net: NetName=XBEE SPI CLK Pin=U1-14
+Added Net: Name=XBEE SPI CLK
+Added Pin To Net: NetName=XBEE SPI CS Pin=R31-2
+Added Pin To Net: NetName=XBEE SPI CS Pin=U1-15
+Added Pin To Net: NetName=XBEE SPI CS Pin=U1-15
+Added Net: Name=XBEE SPI CS
+Added Pin To Net: NetName=XBEE SPI MISO Pin=R28-2
+Added Pin To Net: NetName=XBEE SPI MISO Pin=U1-17
+Added Pin To Net: NetName=XBEE SPI MISO Pin=U1-17
+Added Net: Name=XBEE SPI MISO
+Added Pin To Net: NetName=XBEE SPI MOSI Pin=R29-2
+Added Pin To Net: NetName=XBEE SPI MOSI Pin=U1-16
+Added Pin To Net: NetName=XBEE SPI MOSI Pin=U1-16
+Added Net: Name=XBEE SPI MOSI
+Added Pin To Net: NetName=XBEE VREF Pin=U1-27
+Added Pin To Net: NetName=XBEE VREF Pin=U1-27
+Added Net: Name=XBEE VREF
+Change Class Name : Old Net Name=Designator New Net Name=USB Connectivity (FTDI)
+Added Class: Name=PCIE Connector
+Added Class: Name=Power Supply (Filtering, Regulation)
+Added Class: Name=Radio Module (Digi SX Radio 900Mhz)
+Added Class: Name=Supporting Circuity (RSSI Indicator)

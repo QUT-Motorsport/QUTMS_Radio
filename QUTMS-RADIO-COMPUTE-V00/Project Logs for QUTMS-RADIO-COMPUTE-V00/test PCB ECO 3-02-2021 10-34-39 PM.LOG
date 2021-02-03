@@ -1,0 +1,20 @@
+Added Component: Designator=J9A(IDC 1.27MM 10P)
+Added Component: Designator=J9B(IDC 1.27MM 10P)
+Added Component: Designator=J10A(IDC 1.27MM 10P)
+Added Component: Designator=J10B(IDC 1.27MM 10P)
+Added Component: Designator=TP1A(TestPointSMD)
+Added Component: Designator=TP2A(TestPointSMD)
+Added Component: Designator=TP3A(TestPointSMD)
+Added Component: Designator=TP4A(TestPointSMD)
+Added Pin To Net: NetName=CAN2H Pin=TP1A-1
+Added Pin To Net: NetName=CAN TXA Pin=TP2A-1
+Added Pin To Net: NetName=CAN2L Pin=TP3A-1
+Added Pin To Net: NetName=CAN RXA Pin=TP4A-1
+Added Member To Class: ClassName=Card Module A Member=Component J9A (J9) IDC 10P 2x5 1.27mm
+Added Member To Class: ClassName=Card Module B Member=Component J9B (J9) IDC 10P 2x5 1.27mm
+Added Member To Class: ClassName=Card Module A Member=Component J10A (J10) IDC 10P 2x5 1.27mm
+Added Member To Class: ClassName=Card Module B Member=Component J10B (J10) IDC 10P 2x5 1.27mm
+Added Member To Class: ClassName=CANBUS1 Member=Component TP1A (TP1) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP2A (TP2) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP3A (TP3) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP4A (TP4) TestPoint_SMD

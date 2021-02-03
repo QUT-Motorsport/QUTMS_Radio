@@ -1,0 +1,76 @@
+Added Component: Designator=BAT1(Keystone 2898)
+Added Component: Designator=BAT2(Keystone 2898)
+Added Component: Designator=FID1(FIDUCIAL 1MM)
+Added Component: Designator=FID2(FIDUCIAL 1MM)
+Added Component: Designator=FID3(FIDUCIAL 1MM)
+Added Component: Designator=FID4(FIDUCIAL 1MM)
+Added Component: Designator=LOGO1(QUTMS LOGO 30MM)
+Added Component: Designator=LYID1(LAYER IDENT 2)
+Added Component: Designator=M3(M3.5 UNPLATED)
+Added Component: Designator=M4(M3.5 UNPLATED)
+Added Component: Designator=M5(M3.5 UNPLATED)
+Added Component: Designator=M6(M3.5 UNPLATED)
+Added Pin To Net: NetName=RTC Pin=BAT1-1
+Added Pin To Net: NetName=RTC Pin=BAT1-1
+Added Pin To Net: NetName=GND Pin=BAT1-2
+Added Pin To Net: NetName=RTC Pin=BAT2-1
+Added Pin To Net: NetName=RTC Pin=BAT2-1
+Added Pin To Net: NetName=GND Pin=BAT2-2
+Added Pin To Net: NetName=VUSB Pin=D1-5
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Pin To Net: NetName=NetJ6A_A02 Pin=J6A-A02
+Added Net: Name=NetJ6A_A02
+Added Pin To Net: NetName=NetJ6A_A03 Pin=J6A-A03
+Added Net: Name=NetJ6A_A03
+Added Pin To Net: NetName=NetJ6A_A04 Pin=J6A-A04
+Added Net: Name=NetJ6A_A04
+Added Pin To Net: NetName=NetJ6A_A05 Pin=J6A-A05
+Added Net: Name=NetJ6A_A05
+Added Pin To Net: NetName=NetJ6A_A07 Pin=J6A-A07
+Added Net: Name=NetJ6A_A07
+Added Pin To Net: NetName=NetJ6A_A08 Pin=J6A-A08
+Added Net: Name=NetJ6A_A08
+Added Pin To Net: NetName=NetJ6A_B03 Pin=J6A-B03
+Added Net: Name=NetJ6A_B03
+Added Pin To Net: NetName=NetJ6A_B04 Pin=J6A-B04
+Added Net: Name=NetJ6A_B04
+Added Pin To Net: NetName=NetJ6A_B06 Pin=J6A-B06
+Added Net: Name=NetJ6A_B06
+Added Pin To Net: NetName=NetJ6A_B07 Pin=J6A-B07
+Added Net: Name=NetJ6A_B07
+Added Pin To Net: NetName=NetJ6A_B08 Pin=J6A-B08
+Added Net: Name=NetJ6A_B08
+Added Pin To Net: NetName=NetJ6A_B09 Pin=J6A-B09
+Added Net: Name=NetJ6A_B09
+Added Pin To Net: NetName=NetJ6A_B10 Pin=J6A-B10
+Added Net: Name=NetJ6A_B10
+Added Pin To Net: NetName=NetJ6B_A02 Pin=J6B-A02
+Added Net: Name=NetJ6B_A02
+Added Pin To Net: NetName=NetJ6B_A03 Pin=J6B-A03
+Added Net: Name=NetJ6B_A03
+Added Pin To Net: NetName=NetJ6B_A04 Pin=J6B-A04
+Added Net: Name=NetJ6B_A04
+Added Pin To Net: NetName=NetJ6B_A05 Pin=J6B-A05
+Added Net: Name=NetJ6B_A05
+Added Pin To Net: NetName=NetJ6B_A07 Pin=J6B-A07
+Added Net: Name=NetJ6B_A07
+Added Pin To Net: NetName=NetJ6B_A08 Pin=J6B-A08
+Added Net: Name=NetJ6B_A08
+Added Pin To Net: NetName=NetJ6B_B03 Pin=J6B-B03
+Added Net: Name=NetJ6B_B03
+Added Pin To Net: NetName=NetJ6B_B04 Pin=J6B-B04
+Added Net: Name=NetJ6B_B04
+Added Pin To Net: NetName=NetJ6B_B06 Pin=J6B-B06
+Added Net: Name=NetJ6B_B06
+Added Pin To Net: NetName=NetJ6B_B07 Pin=J6B-B07
+Added Net: Name=NetJ6B_B07
+Added Pin To Net: NetName=NetJ6B_B08 Pin=J6B-B08
+Added Net: Name=NetJ6B_B08
+Added Pin To Net: NetName=NetJ6B_B09 Pin=J6B-B09
+Added Net: Name=NetJ6B_B09
+Added Pin To Net: NetName=NetJ6B_B10 Pin=J6B-B10
+Added Net: Name=NetJ6B_B10
+Added Class: Name=RADC-Master-S00-V00
+Added Class: Name=REPEAT(Backup Power1,2)
