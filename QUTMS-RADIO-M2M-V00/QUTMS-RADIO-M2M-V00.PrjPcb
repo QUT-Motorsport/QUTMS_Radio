@@ -258,7 +258,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VQWHGEQN
 
 [Document14]
 DocumentPath=QUTMS_PCBLibrary.SchLib
@@ -873,40 +873,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document50]
-DocumentPath=QUTMS_OpAmps.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document51]
-DocumentPath=QUTMS_OpAmps.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document52]
 DocumentPath=QUTMS_PCIConnectorLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -923,7 +889,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJNFQAWH
 
-[Document53]
+[Document51]
 DocumentPath=QUTMS_PCIConnectorLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -940,7 +906,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGZUHXQS
 
-[Document54]
+[Document52]
 DocumentPath=QUTMS_PeripheralConnectivity.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -957,7 +923,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document53]
 DocumentPath=QUTMS_PeripheralConnectivity.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -974,7 +940,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document54]
 DocumentPath=QUTMS_USBLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -991,7 +957,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document55]
 DocumentPath=QUTMS_USBLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1008,7 +974,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document56]
 DocumentPath=RADM-USB-S03-V00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1025,7 +991,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWKJUFAU
 
-[Document59]
+[Document57]
 DocumentPath=RADM-SupportingCircuity-S04-V00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1042,7 +1008,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULXEHXHX
 
-[Document60]
+[Document58]
 DocumentPath=RADM-Connector-S05-V00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1059,7 +1025,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRVLXOXT
 
-[Document61]
+[Document59]
 DocumentPath=test.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1076,7 +1042,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKWGQVSA
 
-[Document62]
+[Document60]
 DocumentPath=RADM-RadioModule-S01-V00.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1093,7 +1059,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document61]
 DocumentPath=RADM-USB-S03-V00.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1123,7 +1089,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1229,7 +1195,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1307,7 +1273,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1329,7 +1295,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1401,7 +1367,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1438,7 +1404,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1546,7 +1512,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1590,7 +1556,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1651,7 +1617,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -2041,6 +2007,14 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=$006E6EFF
+Net2=NetName=5V|NetColor=$00FF6EFF
+Net3=NetName=N3V3|NetColor=$00336699
+Net4=NetName=NetC8_2|NetColor=$00FF6EFF
+Net5=NetName=U3V3|NetColor=$00336699
+Net6=NetName=VUSB|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

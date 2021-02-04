@@ -1,0 +1,180 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=N3V3 Pin=C3-2
+Removed Pin From Net: NetName=CON ASSOC LED Pin=DS11-1
+Removed Pin From Net: NetName=NGND Pin=DS11-2
+Removed Pin From Net: NetName=CON SLEEP LED Pin=DS12-1
+Removed Pin From Net: NetName=NGND Pin=DS12-2
+Removed Pin From Net: NetName=N3V3 Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=Q1-S
+Removed Pin From Net: NetName=NetQ1_G Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=XBEE SPI ATTN Pin=R27-2
+Removed Pin From Net: NetName=XBEE SPI MISO Pin=R28-2
+Removed Pin From Net: NetName=XBEE SPI MOSI Pin=R29-2
+Removed Pin From Net: NetName=XBEE SPI CLK Pin=R30-2
+Removed Pin From Net: NetName=XBEE SPI CS Pin=R31-2
+Removed Pin From Net: NetName=CON ASSOC LED Pin=R32-1
+Removed Pin From Net: NetName=CON ASSOC Pin=R32-2
+Removed Pin From Net: NetName=XBEE DOUT Pin=R33-2
+Removed Pin From Net: NetName=XBEE DIN Pin=R34-2
+Removed Pin From Net: NetName=CON SLEEP LED Pin=R35-1
+Removed Pin From Net: NetName=CON SLEEP Pin=R35-2
+Removed Pin From Net: NetName=XBEE CTS Pin=R36-2
+Removed Pin From Net: NetName=XBEE RTS Pin=R37-2
+Removed Pin From Net: NetName=XBEE DTR Pin=R38-2
+Removed Pin From Net: NetName=XBEE RSSI Pin=U7-2
+Removed Pin From Net: NetName=CON RSSI Pin=U7-3
+Removed Pin From Net: NetName=XBEE RSSI Pin=U7-5
+Removed Pin From Net: NetName=N3V3 Pin=U7-7
+Removed Pin From Net: NetName=CON ASSOC Pin=U7-8
+Removed Pin From Net: NetName=XBEE ASSOC Pin=U7-9
+Removed Pin From Net: NetName=CON SLEEP Pin=U7-11
+Removed Pin From Net: NetName=XBEE SLEEP Pin=U7-12
+Removed Pin From Net: NetName=GND Pin=U7-14
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=C3
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=DS11
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=DS12
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=J3
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R25
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R27
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R28
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R29
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R30
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R31
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R32
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R33
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R34
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R35
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R36
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R37
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R38
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=U7
+Added Component: Designator=DS?(LED ORANGE 0603)
+Added Component: Designator=DS?(LED YELLOW 0603)
+Added Component: Designator=FID?(FIDUCIAL 1MM)
+Added Component: Designator=FID?(FIDUCIAL 1MM)
+Added Component: Designator=LOGO?(QUTMS LOGO 30MM)
+Added Component: Designator=LYID?(LAYER IDENT 2)
+Added Component: Designator=M?(M3.5 UNPLATED)
+Added Component: Designator=M?(M3.5 UNPLATED)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Pin To Net: NetName=CON ASSOC LED Pin=DS?-1
+Added Pin To Net: NetName=CON SLEEP LED Pin=DS?-1
+Added Pin To Net: NetName=NGND Pin=DS?-2
+Added Pin To Net: NetName=NGND Pin=DS?-2
+Added Pin To Net: NetName=NGND Pin=Q1-S
+Added Pin To Net: NetName=CON RSSI Pin=R24-2
+Added Pin To Net: NetName=NGND Pin=R26-1
+Added Pin To Net: NetName=CON ASSOC Pin=R?-1
+Added Pin To Net: NetName=CON ASSOC LED Pin=R?-1
+Added Pin To Net: NetName=CON RSSI Pin=R?-1
+Added Pin To Net: NetName=CON SLEEP Pin=R?-1
+Added Pin To Net: NetName=CON SLEEP LED Pin=R?-1
+Added Pin To Net: NetName=CON ASSOC Pin=R?-2
+Added Pin To Net: NetName=CON SLEEP Pin=R?-2
+Added Pin To Net: NetName=NetQ1_G Pin=R?-2
+Added Pin To Net: NetName=XBEE ASSOC Pin=R?-2
+Added Pin To Net: NetName=XBEE CTS Pin=R?-2
+Added Pin To Net: NetName=XBEE DIN Pin=R?-2
+Added Pin To Net: NetName=XBEE DOUT Pin=R?-2
+Added Pin To Net: NetName=XBEE DTR Pin=R?-2
+Added Pin To Net: NetName=XBEE RSSI Pin=R?-2
+Added Pin To Net: NetName=XBEE RTS Pin=R?-2
+Added Pin To Net: NetName=XBEE SLEEP Pin=R?-2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=RSSI FILT
+Change Net Name : Old Net Name=NetDS5_1 New Net Name=RSSI 90 LED
+Change Net Name : Old Net Name=NetDS5_2 New Net Name=RSSI 90
+Change Net Name : Old Net Name=NetDS6_1 New Net Name=RSSI 80 LED
+Change Net Name : Old Net Name=NetDS6_2 New Net Name=RSSI 80
+Change Net Name : Old Net Name=NetDS7_1 New Net Name=RSSI 70 LED
+Change Net Name : Old Net Name=NetDS7_2 New Net Name=RSSI 70
+Change Net Name : Old Net Name=NetDS8_1 New Net Name=RSSI 60 LED
+Change Net Name : Old Net Name=NetDS8_2 New Net Name=RSSI 60
+Change Net Name : Old Net Name=NetDS9_1 New Net Name=RSSI 50 LED
+Change Net Name : Old Net Name=NetDS9_2 New Net Name=RSSI 50
+Change Net Name : Old Net Name=NetDS10_1 New Net Name=RSSI 40 LED
+Change Net Name : Old Net Name=NetDS10_2 New Net Name=RSSI 40
+Change Net Name : Old Net Name=NetR11_1 New Net Name=RSSI 90 R
+Change Net Name : Old Net Name=NetR13_1 New Net Name=RSSI 80 R
+Change Net Name : Old Net Name=NetR15_1 New Net Name=RSSI 70 R
+Change Net Name : Old Net Name=NetR17_1 New Net Name=RSSI 60 R
+Change Net Name : Old Net Name=NetR19_1 New Net Name=RSSI 50 R
+Change Net Name : Old Net Name=NetR21_1 New Net Name=RSSI 40 R
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 102, 51)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 102, 51)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Pin To Net: NetName=CON ATTN Pin=R?-1
+Added Net: Name=CON ATTN
+Added Pin To Net: NetName=CON CLK Pin=R?-1
+Added Net: Name=CON CLK
+Added Pin To Net: NetName=CON CS Pin=R?-1
+Added Net: Name=CON CS
+Added Pin To Net: NetName=CON CTS Pin=R?-1
+Added Net: Name=CON CTS
+Added Pin To Net: NetName=CON DTR Pin=R?-1
+Added Net: Name=CON DTR
+Added Pin To Net: NetName=CON MISO Pin=R?-1
+Added Net: Name=CON MISO
+Added Pin To Net: NetName=CON MOSI Pin=R?-1
+Added Net: Name=CON MOSI
+Added Pin To Net: NetName=CON RTS Pin=R?-1
+Added Net: Name=CON RTS
+Added Pin To Net: NetName=CON RXD Pin=R?-1
+Added Net: Name=CON RXD
+Added Pin To Net: NetName=CON TXD Pin=R?-1
+Added Net: Name=CON TXD
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=XBEE ATTN Pin=R?-2
+Added Net: Name=XBEE ATTN
+Added Pin To Net: NetName=XBEE CLK Pin=R?-2
+Added Net: Name=XBEE CLK
+Added Pin To Net: NetName=XBEE CS Pin=R?-2
+Added Net: Name=XBEE CS
+Added Pin To Net: NetName=XBEE MISO Pin=R?-2
+Added Net: Name=XBEE MISO
+Added Pin To Net: NetName=XBEE MOSI Pin=R?-2
+Added Net: Name=XBEE MOSI
+Added Class: Name=RADM-Master-S00-V00
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS? LED Orange 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS? LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R? 1k
+Added Room: Name=PCIE Connector
+Added Room: Name=Power Supply (Filtering, Regulation)
+Added Room: Name=Radio Module (Digi SX Radio 900Mhz)
+Added Room: Name=RADM-Master-S00-V00
+Added Room: Name=Supporting Circuity (RSSI Indicator)
+Added Room: Name=USB Connectivity (FTDI)

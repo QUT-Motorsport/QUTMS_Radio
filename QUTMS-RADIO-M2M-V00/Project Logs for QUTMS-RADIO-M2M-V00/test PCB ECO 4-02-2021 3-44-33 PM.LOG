@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=DS? NewDesignator=DS11
+Change Component Designator: OldDesignator=DS? NewDesignator=DS12
+Change Component Designator: OldDesignator=FID? NewDesignator=FID1
+Change Component Designator: OldDesignator=FID? NewDesignator=FID2
+Change Component Designator: OldDesignator=LOGO? NewDesignator=LOGO1
+Change Component Designator: OldDesignator=LYID? NewDesignator=LYID1
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=M? NewDesignator=M2
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR25_1
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS11 LED Yellow 0603
+Added Member To Class: ClassName=RADM-Master-S00-V00 Member=Component FID2 Fiducial 1MM
+Added Member To Class: ClassName=RADM-Master-S00-V00 Member=Component M2 Hole M3 Loose Unplated
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R25 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R27 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R28 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R29 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R30 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R31 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R32 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R33 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R34 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R35 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R36 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R37 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R38 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R40 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R41 33R

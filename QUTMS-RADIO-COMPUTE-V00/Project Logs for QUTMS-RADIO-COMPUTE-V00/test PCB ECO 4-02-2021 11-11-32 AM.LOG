@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RTC Pin=J6A-B02
+Removed Pin From Net: NetName=RTC Pin=J6B-B02
+Added Component: Designator=D10(SMA)
+Added Component: Designator=R33(Res_ThinFilm_0603)
+Added Pin To Net: NetName=3V3 Pin=R33-1
+Added Pin To Net: NetName=BACKUP Pin=D10-K
+Added Pin To Net: NetName=BACKUP Pin=J6A-B02
+Added Pin To Net: NetName=BACKUP Pin=J6B-B02
+Added Net: Name=BACKUP
+Added Pin To Net: NetName=NetD10_A Pin=D10-A
+Added Pin To Net: NetName=NetD10_A Pin=R33-2
+Added Net: Name=NetD10_A
+Added Member To Class: ClassName=REPEAT(Backup Power1,2) Member=Component D10 B260A-13-F
+Added Member To Class: ClassName=REPEAT(Backup Power1,2) Member=Component R33 220R 5% 0603

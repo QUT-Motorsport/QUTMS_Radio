@@ -1,0 +1,36 @@
+Change Net Name : Old Net Name=NetDS1_1 New Net Name=5V LED
+Change Net Name : Old Net Name=NetDS2_1 New Net Name=3V3 LED
+Added Pin To Net: NetName=USB CBUS0 Pin=U3-18
+Added Net: Name=USB CBUS0
+Added Pin To Net: NetName=USB CBUS3 Pin=U3-19
+Added Net: Name=USB CBUS3
+Added Pin To Net: NetName=XBEE RESERVED0 Pin=U1-5
+Added Pin To Net: NetName=XBEE RESERVED0 Pin=U1-5
+Added Net: Name=XBEE RESERVED0
+Added Pin To Net: NetName=XBEE RESERVED1 Pin=U1-9
+Added Pin To Net: NetName=XBEE RESERVED1 Pin=U1-9
+Added Net: Name=XBEE RESERVED1
+Added Pin To Net: NetName=XBEE RESERVED2 Pin=U1-18
+Added Pin To Net: NetName=XBEE RESERVED2 Pin=U1-18
+Added Net: Name=XBEE RESERVED2
+Added Pin To Net: NetName=XBEE RESERVED3 Pin=U1-19
+Added Pin To Net: NetName=XBEE RESERVED3 Pin=U1-19
+Added Net: Name=XBEE RESERVED3
+Added Pin To Net: NetName=XBEE RESERVED4 Pin=U1-20
+Added Pin To Net: NetName=XBEE RESERVED4 Pin=U1-20
+Added Net: Name=XBEE RESERVED4
+Added Pin To Net: NetName=XBEE RESERVED5 Pin=U1-21
+Added Pin To Net: NetName=XBEE RESERVED5 Pin=U1-21
+Added Net: Name=XBEE RESERVED5
+Added Pin To Net: NetName=XBEE RESERVED6 Pin=U1-23
+Added Pin To Net: NetName=XBEE RESERVED6 Pin=U1-23
+Added Net: Name=XBEE RESERVED6
+Added Pin To Net: NetName=XBEE RESERVED7 Pin=U1-34
+Added Pin To Net: NetName=XBEE RESERVED7 Pin=U1-34
+Added Net: Name=XBEE RESERVED7
+Added Pin To Net: NetName=XBEE RESERVED8 Pin=U1-37
+Added Pin To Net: NetName=XBEE RESERVED8 Pin=U1-37
+Added Net: Name=XBEE RESERVED8
+Added Pin To Net: NetName=XBEE RF Pin=U1-36
+Added Pin To Net: NetName=XBEE RF Pin=U1-36
+Added Net: Name=XBEE RF

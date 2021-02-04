@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J2 Old Footprint=10129380-904002ALF New Footprint=JST PH 4x RIGHT SMD
+Change Component Comment : Designator=J2 Old Comment=10129380-904002ALF New Comment=JST PH 4x RIGHT SMD
+Added Component: Designator=R1(Res_ThinFilm_0603)
+Added Component: Designator=R2(Res_ThinFilm_0603)
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=USB CC1 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=USB CC2 Pin=R2-2
+Change Net Name : Old Net Name=VBUS New Net Name=VUSB
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Member To Class: ClassName=RADU-Master-S00-V00 Member=Component R1 5k1 1%
+Added Member To Class: ClassName=RADU-Master-S00-V00 Member=Component R2 5k1 1%

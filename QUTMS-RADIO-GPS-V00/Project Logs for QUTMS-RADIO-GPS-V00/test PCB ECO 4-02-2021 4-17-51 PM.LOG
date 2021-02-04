@@ -1,0 +1,361 @@
+Removed Pin From Net: NetName=5V Pin=C1-2
+Removed Pin From Net: NetName=5V Pin=C5-2
+Removed Pin From Net: NetName=USB D_P Pin=R1-1
+Removed Pin From Net: NetName=USB D_N Pin=R2-1
+Removed Pin From Net: NetName=USB DP_N Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=USB CC1 Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=USB CC2 Pin=R4-2
+Removed Pin From Net: NetName=5V Pin=R5-2
+Removed Pin From Net: NetName=5V Pin=U1-38
+Removed Pin From Net: NetName=NGND Pin=U3-1
+Removed Pin From Net: NetName=N3V3 Pin=U3-2
+Removed Pin From Net: NetName=5V Pin=U3-3
+Removed Member From Class: ClassName=GPS Module Member=D1
+Removed Member From Class: ClassName=Designator Member=DS1
+Removed Member From Class: ClassName=GPS Module Member=J2
+Removed Member From Class: ClassName=Designator Member=R5
+Removed Member From Class: ClassName=GPS Module Member=U2
+Change Component Footprint: Designator=DS1 Old Footprint=LED GREEN 0603 New Footprint=LED YELLOW 0603
+Change Component Footprint: Designator=U3 Old Footprint=SOT-223 New Footprint=SOT-223-5
+Change Component Footprint: Designator=U2 Old Footprint=TSSOP-14 New Footprint=SOT-223-5
+Change Component Comment : Designator=R5 Old Comment=1k New Comment=33R
+Change Component Comment : Designator=C5 Old Comment=1uF New Comment=10nF
+Change Component Comment : Designator=R3 Old Comment=5k1 1% New Comment=33R
+Change Component Comment : Designator=R4 Old Comment=5k1 1% New Comment=33R
+Change Component Comment : Designator=C9 Old Comment=10nF New Comment=1uF
+Change Component Comment : Designator=R1 Old Comment=22R New Comment=33R
+Change Component Comment : Designator=R2 Old Comment=22R New Comment=33R
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=1uF
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=1uF
+Change Component Comment : Designator=U3 Old Comment=AZ1117C-3V3 New Comment=MCP1826T-3302E/DC
+Change Component Comment : Designator=DS1 Old Comment=LED Green 0603 New Comment=LED Yellow 0603
+Change Component Comment : Designator=U2 Old Comment=SN74LVC125APWR New Comment=MCP1826T-3302E/DC
+Added Component: Designator=C10(Cap_Ceramic_0603)
+Added Component: Designator=C11(Cap_Ceramic_0603)
+Added Component: Designator=DS3(LED YELLOW 0603)
+Added Component: Designator=DS4(LED YELLOW 0603)
+Added Component: Designator=DS5(LED GREEN 0603)
+Added Component: Designator=FID1(FIDUCIAL 1MM)
+Added Component: Designator=FID2(FIDUCIAL 1MM)
+Added Component: Designator=LOGO1(QUTMS LOGO 30MM)
+Added Component: Designator=LYID1(LAYER IDENT 2)
+Added Component: Designator=M1(M3.5 UNPLATED)
+Added Component: Designator=M2(M3.5 UNPLATED)
+Added Component: Designator=Q1(SOT23-3)
+Added Component: Designator=Q2(SOT23-3)
+Added Component: Designator=R8(Res_ThinFilm_0603)
+Added Component: Designator=R9(Res_ThinFilm_0603)
+Added Component: Designator=R10(Res_ThinFilm_0603)
+Added Component: Designator=R11(Res_ThinFilm_0603)
+Added Component: Designator=R12(Res_ThinFilm_0603)
+Added Component: Designator=R13(Res_ThinFilm_0603)
+Added Component: Designator=R14(Res_ThinFilm_0603)
+Added Component: Designator=R15(Res_ThinFilm_0603)
+Added Component: Designator=R16(Res_ThinFilm_0603)
+Added Component: Designator=R17(Res_ThinFilm_0603)
+Added Component: Designator=R18(Res_ThinFilm_0603)
+Added Component: Designator=R19(Res_ThinFilm_0603)
+Added Component: Designator=R20(Res_ThinFilm_0603)
+Added Component: Designator=R21(Res_ThinFilm_0603)
+Added Component: Designator=R22(Res_ThinFilm_0603)
+Added Component: Designator=R23(Res_ThinFilm_0603)
+Added Component: Designator=R24(Res_ThinFilm_0603)
+Added Component: Designator=R25(Res_ThinFilm_0603)
+Added Component: Designator=R26(Res_ThinFilm_0603)
+Added Component: Designator=R27(Res_ThinFilm_0603)
+Added Component: Designator=R28(Res_ThinFilm_0603)
+Added Component: Designator=R29(Res_ThinFilm_0603)
+Added Component: Designator=R30(Res_ThinFilm_0603)
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=NGND Pin=C10-1
+Added Pin To Net: NetName=5V Pin=C10-2
+Added Pin To Net: NetName=NGND Pin=C11-1
+Added Pin To Net: NetName=NGND Pin=DS3-2
+Added Pin To Net: NetName=NGND Pin=DS4-2
+Added Pin To Net: NetName=NGND Pin=DS5-2
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=NGND Pin=Q2-S
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=3V3 Pin=R20-2
+Added Pin To Net: NetName=NGND Pin=R22-1
+Added Pin To Net: NetName=5V Pin=R23-2
+Added Pin To Net: NetName=N3V3 Pin=R24-2
+Added Pin To Net: NetName=5V Pin=R25-1
+Added Pin To Net: NetName=USB D_P Pin=R27-1
+Added Pin To Net: NetName=USB DP_N Pin=R27-2
+Added Pin To Net: NetName=USB D_N Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=USB CC1 Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=USB CC2 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-2
+Added Pin To Net: NetName=NGND Pin=U2-3
+Added Pin To Net: NetName=N3V3 Pin=U2-4
+Added Pin To Net: NetName=5V Pin=U3-2
+Added Pin To Net: NetName=NGND Pin=U3-3
+Change Net Name : Old Net Name=NetDS2_1 New Net Name=3V3 LED
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=GPS RF IN
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 102, 51)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Pin To Net: NetName=5V LED Pin=DS5-1
+Added Pin To Net: NetName=5V LED Pin=R23-1
+Added Net: Name=5V LED
+Added Pin To Net: NetName=CON DSEL M Pin=Q1-G
+Added Pin To Net: NetName=CON DSEL M Pin=R12-1
+Added Pin To Net: NetName=CON DSEL M Pin=R14-2
+Added Net: Name=CON DSEL M
+Added Pin To Net: NetName=CON DSEL Pin=R12-2
+Added Net: Name=CON DSEL
+Added Pin To Net: NetName=CON EXTINT Pin=R11-1
+Added Net: Name=CON EXTINT
+Added Pin To Net: NetName=CON GEOFENCE Pin=R15-1
+Added Pin To Net: NetName=CON GEOFENCE Pin=R18-2
+Added Net: Name=CON GEOFENCE
+Added Pin To Net: NetName=CON RESET M Pin=Q2-G
+Added Pin To Net: NetName=CON RESET M Pin=R21-1
+Added Pin To Net: NetName=CON RESET M Pin=R22-2
+Added Net: Name=CON RESET M
+Added Pin To Net: NetName=CON RESET Pin=R21-2
+Added Net: Name=CON RESET
+Added Pin To Net: NetName=CON RTK STAT Pin=R16-1
+Added Pin To Net: NetName=CON RTK STAT Pin=R19-2
+Added Net: Name=CON RTK STAT
+Added Pin To Net: NetName=CON RXD2 Pin=R5-1
+Added Net: Name=CON RXD2
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=R2-1
+Added Net: Name=CON RXD / SPI MOSI
+Added Pin To Net: NetName=CON SAFEBOOT Pin=R10-1
+Added Net: Name=CON SAFEBOOT
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=R4-1
+Added Net: Name=CON SCL / SPI CLK
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=R3-1
+Added Net: Name=CON SDA / SPI CS
+Added Pin To Net: NetName=CON TIMEPULSE Pin=R13-1
+Added Pin To Net: NetName=CON TIMEPULSE Pin=R17-2
+Added Net: Name=CON TIMEPULSE
+Added Pin To Net: NetName=CON TXD2 Pin=R8-1
+Added Net: Name=CON TXD2
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=R1-1
+Added Net: Name=CON TXD / SPI MISO
+Added Pin To Net: NetName=CON TX READY Pin=R9-1
+Added Net: Name=CON TX READY
+Added Pin To Net: NetName=GEOFENCE LED Pin=DS3-1
+Added Pin To Net: NetName=GEOFENCE LED Pin=R18-1
+Added Net: Name=GEOFENCE LED
+Added Pin To Net: NetName=GPS ANT DET Pin=U1-4
+Added Net: Name=GPS ANT DET
+Added Pin To Net: NetName=GPS ANT OFF Pin=U1-5
+Added Net: Name=GPS ANT OFF
+Added Pin To Net: NetName=GPS ANT SHORT Pin=U1-6
+Added Net: Name=GPS ANT SHORT
+Added Pin To Net: NetName=GPS DSEL Pin=Q1-D
+Added Pin To Net: NetName=GPS DSEL Pin=U1-47
+Added Net: Name=GPS DSEL
+Added Pin To Net: NetName=GPS EXTINT Pin=R11-2
+Added Pin To Net: NetName=GPS EXTINT Pin=U1-51
+Added Net: Name=GPS EXTINT
+Added Pin To Net: NetName=GPS GEOFENCE Pin=R15-2
+Added Pin To Net: NetName=GPS GEOFENCE Pin=U1-19
+Added Net: Name=GPS GEOFENCE
+Added Pin To Net: NetName=GPS RESERVED0 Pin=U1-8
+Added Net: Name=GPS RESERVED0
+Added Pin To Net: NetName=GPS RESERVED1 Pin=U1-9
+Added Net: Name=GPS RESERVED1
+Added Pin To Net: NetName=GPS RESERVED2 Pin=U1-10
+Added Net: Name=GPS RESERVED2
+Added Pin To Net: NetName=GPS RESERVED3 Pin=U1-11
+Added Net: Name=GPS RESERVED3
+Added Pin To Net: NetName=GPS RESERVED4 Pin=U1-13
+Added Net: Name=GPS RESERVED4
+Added Pin To Net: NetName=GPS RESERVED5 Pin=U1-15
+Added Net: Name=GPS RESERVED5
+Added Pin To Net: NetName=GPS RESERVED6 Pin=U1-16
+Added Net: Name=GPS RESERVED6
+Added Pin To Net: NetName=GPS RESERVED7 Pin=U1-17
+Added Net: Name=GPS RESERVED7
+Added Pin To Net: NetName=GPS RESERVED8 Pin=U1-18
+Added Net: Name=GPS RESERVED8
+Added Pin To Net: NetName=GPS RESERVED9 Pin=U1-21
+Added Net: Name=GPS RESERVED9
+Added Pin To Net: NetName=GPS RESERVED10 Pin=U1-22
+Added Net: Name=GPS RESERVED10
+Added Pin To Net: NetName=GPS RESERVED11 Pin=U1-23
+Added Net: Name=GPS RESERVED11
+Added Pin To Net: NetName=GPS RESERVED12 Pin=U1-24
+Added Net: Name=GPS RESERVED12
+Added Pin To Net: NetName=GPS RESERVED13 Pin=U1-25
+Added Net: Name=GPS RESERVED13
+Added Pin To Net: NetName=GPS RESERVED14 Pin=U1-28
+Added Net: Name=GPS RESERVED14
+Added Pin To Net: NetName=GPS RESERVED15 Pin=U1-29
+Added Net: Name=GPS RESERVED15
+Added Pin To Net: NetName=GPS RESERVED16 Pin=U1-30
+Added Net: Name=GPS RESERVED16
+Added Pin To Net: NetName=GPS RESERVED17 Pin=U1-31
+Added Net: Name=GPS RESERVED17
+Added Pin To Net: NetName=GPS RESERVED18 Pin=U1-35
+Added Net: Name=GPS RESERVED18
+Added Pin To Net: NetName=GPS RESERVED19 Pin=U1-52
+Added Net: Name=GPS RESERVED19
+Added Pin To Net: NetName=GPS RESERVED20 Pin=U1-54
+Added Net: Name=GPS RESERVED20
+Added Pin To Net: NetName=GPS RESET Pin=Q2-D
+Added Pin To Net: NetName=GPS RESET Pin=R20-1
+Added Pin To Net: NetName=GPS RESET Pin=U1-49
+Added Net: Name=GPS RESET
+Added Pin To Net: NetName=GPS RTK STAT Pin=R16-2
+Added Pin To Net: NetName=GPS RTK STAT Pin=U1-20
+Added Net: Name=GPS RTK STAT
+Added Pin To Net: NetName=GPS RXD2 Pin=R5-2
+Added Pin To Net: NetName=GPS RXD2 Pin=U1-26
+Added Net: Name=GPS RXD2
+Added Pin To Net: NetName=GPS RXD / SPI MOSI Pin=R2-2
+Added Pin To Net: NetName=GPS RXD / SPI MOSI Pin=U1-43
+Added Net: Name=GPS RXD / SPI MOSI
+Added Pin To Net: NetName=GPS SAFEBOOT Pin=R10-2
+Added Pin To Net: NetName=GPS SAFEBOOT Pin=U1-50
+Added Net: Name=GPS SAFEBOOT
+Added Pin To Net: NetName=GPS SCL / SPI CLK Pin=R4-2
+Added Pin To Net: NetName=GPS SCL / SPI CLK Pin=U1-45
+Added Net: Name=GPS SCL / SPI CLK
+Added Pin To Net: NetName=GPS SDA / SPI CS Pin=R3-2
+Added Pin To Net: NetName=GPS SDA / SPI CS Pin=U1-44
+Added Net: Name=GPS SDA / SPI CS
+Added Pin To Net: NetName=GPS TIMEPULSE Pin=R13-2
+Added Pin To Net: NetName=GPS TIMEPULSE Pin=U1-53
+Added Net: Name=GPS TIMEPULSE
+Added Pin To Net: NetName=GPS TXD2 Pin=R8-2
+Added Pin To Net: NetName=GPS TXD2 Pin=U1-27
+Added Net: Name=GPS TXD2
+Added Pin To Net: NetName=GPS TXD / SPI MISO Pin=R1-2
+Added Pin To Net: NetName=GPS TXD / SPI MISO Pin=U1-42
+Added Net: Name=GPS TXD / SPI MISO
+Added Pin To Net: NetName=GPS TX READY Pin=R9-2
+Added Pin To Net: NetName=GPS TX READY Pin=U1-46
+Added Net: Name=GPS TX READY
+Added Pin To Net: NetName=PWR EP USB Pin=U2-EP
+Added Pin To Net: NetName=PWR EP USB Pin=U3-EP
+Added Net: Name=PWR EP USB
+Added Pin To Net: NetName=PWR GOOD B Pin=R25-2
+Added Pin To Net: NetName=PWR GOOD B Pin=R26-2
+Added Pin To Net: NetName=PWR GOOD B Pin=U3-1
+Added Net: Name=PWR GOOD B
+Added Pin To Net: NetName=PWR GOOD Pin=R24-1
+Added Pin To Net: NetName=PWR GOOD Pin=R26-1
+Added Pin To Net: NetName=PWR GOOD Pin=U2-5
+Added Net: Name=PWR GOOD
+Added Pin To Net: NetName=PWR GOOD USB Pin=U3-5
+Added Net: Name=PWR GOOD USB
+Added Net: Name=RTC SW N/C A
+Added Net: Name=RTC SW N/C B
+Added Pin To Net: NetName=RTC SW Pin=C1-2
+Added Pin To Net: NetName=RTC SW Pin=C4-2
+Added Pin To Net: NetName=RTC SW Pin=U1-36
+Added Net: Name=RTC SW
+Added Pin To Net: NetName=RTK LED Pin=DS4-1
+Added Pin To Net: NetName=RTK LED Pin=R19-1
+Added Net: Name=RTK LED
+Added Pin To Net: NetName=TIMEPULSE LED Pin=DS1-1
+Added Pin To Net: NetName=TIMEPULSE LED Pin=R17-1
+Added Net: Name=TIMEPULSE LED
+Added Pin To Net: NetName=USB3V3 Pin=C11-2
+Added Pin To Net: NetName=USB3V3 Pin=U1-38
+Added Pin To Net: NetName=USB3V3 Pin=U3-4
+Added Net: Name=USB3V3
+Added Pin To Net: NetName=USB RX2_N Pin=J2-A10
+Added Net: Name=USB RX2_N
+Added Pin To Net: NetName=VCC RF Pin=U1-7
+Added Net: Name=VCC RF
+Added Pin To Net: NetName=VUSBF Pin=C5-2
+Added Pin To Net: NetName=VUSBF Pin=F1-2
+Added Pin To Net: NetName=VUSBF Pin=FB1-1
+Added Net: Name=VUSBF
+Added Class: Name=RADG-Master-S00-V00
+Added Member To Class: ClassName=Designator Member=Component C10 1uF
+Added Member To Class: ClassName=Designator Member=Component C11 1uF
+Added Member To Class: ClassName=GPS Module Member=Component DS1 LED Yellow 0603
+Added Member To Class: ClassName=GPS Module Member=Component DS3 LED Yellow 0603
+Added Member To Class: ClassName=GPS Module Member=Component DS4 LED Yellow 0603
+Added Member To Class: ClassName=Designator Member=Component DS5 LED Green 0603
+Added Member To Class: ClassName=GPS Module Member=Component Q1 2N7002
+Added Member To Class: ClassName=GPS Module Member=Component Q2 2N7002
+Added Member To Class: ClassName=GPS Module Member=Component R5 33R
+Added Member To Class: ClassName=GPS Module Member=Component R8 33R
+Added Member To Class: ClassName=GPS Module Member=Component R9 33R
+Added Member To Class: ClassName=GPS Module Member=Component R10 33R
+Added Member To Class: ClassName=GPS Module Member=Component R11 33R
+Added Member To Class: ClassName=GPS Module Member=Component R12 33R
+Added Member To Class: ClassName=GPS Module Member=Component R13 33R
+Added Member To Class: ClassName=GPS Module Member=Component R14 10k
+Added Member To Class: ClassName=GPS Module Member=Component R15 33R
+Added Member To Class: ClassName=GPS Module Member=Component R16 33R
+Added Member To Class: ClassName=GPS Module Member=Component R17 1k
+Added Member To Class: ClassName=GPS Module Member=Component R18 1k
+Added Member To Class: ClassName=GPS Module Member=Component R19 1k
+Added Member To Class: ClassName=GPS Module Member=Component R20 10k 5% 0603
+Added Member To Class: ClassName=GPS Module Member=Component R21 33R
+Added Member To Class: ClassName=GPS Module Member=Component R22 10k
+Added Member To Class: ClassName=Designator Member=Component R23 1k
+Added Member To Class: ClassName=Designator Member=Component R24 10k
+Added Member To Class: ClassName=Designator Member=Component R25 DNF 0603
+Added Member To Class: ClassName=Designator Member=Component R26 0R
+Added Member To Class: ClassName=Designator Member=Component U2 MCP1826T-3302E/DC
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=GPS Module
+Added Room: Name=RADG-Master-S00-V00
+Change Rule Scope 1 : Old Scope=InNet('NetJ1_1') New Scope=InNet('GPS RF IN')

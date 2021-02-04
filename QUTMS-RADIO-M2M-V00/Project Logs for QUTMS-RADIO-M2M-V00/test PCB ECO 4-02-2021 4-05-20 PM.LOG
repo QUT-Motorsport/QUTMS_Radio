@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NGND Pin=U2-1
+Removed Pin From Net: NetName=N3V3 Pin=U2-2
+Removed Pin From Net: NetName=5V Pin=U2-3
+Change Component Footprint: Designator=U2 Old Footprint=SOT-223 New Footprint=SOT-223-5
+Change Component Comment : Designator=U2 Old Comment=AZ1117C-3V3 New Comment=MCP1826T-3302E/DC
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-2
+Added Pin To Net: NetName=NGND Pin=U2-3
+Added Pin To Net: NetName=N3V3 Pin=U2-4
+Added Pin To Net: NetName=PWR PG Pin=U2-5
+Added Net: Name=PWR PG
+Added Pin To Net: NetName=PWR REG EP Pin=U2-EP
+Added Net: Name=PWR REG EP

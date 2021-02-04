@@ -1,0 +1,12 @@
+Added Component: Designator=CS1(CAP_ALU_6.3mmD_9mmL)
+Added Component: Designator=CS2(CAP_ALU_6.3mmD_9mmL)
+Added Component: Designator=CS3(CAP_ALU_6.3mmD_9mmL)
+Added Pin To Net: NetName=BACKUP Pin=CS1-A
+Added Pin To Net: NetName=GND Pin=CS1-K
+Added Pin To Net: NetName=BACKUP Pin=CS2-A
+Added Pin To Net: NetName=GND Pin=CS2-K
+Added Pin To Net: NetName=BACKUP Pin=CS3-A
+Added Pin To Net: NetName=GND Pin=CS3-K
+Added Member To Class: ClassName=REPEAT(Backup Power1,2) Member=Component CS1 JUWT1105MCD
+Added Member To Class: ClassName=REPEAT(Backup Power1,2) Member=Component CS2 JUWT1105MCD
+Added Member To Class: ClassName=REPEAT(Backup Power1,2) Member=Component CS3 JUWT1105MCD
