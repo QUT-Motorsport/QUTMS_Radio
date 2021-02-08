@@ -1,0 +1,327 @@
+Removed Pin From Net: NetName=12V Pin=D3-A
+Removed Pin From Net: NetName=GND Pin=D3-K
+Removed Pin From Net: NetName=BACKUP Pin=D10-K
+Removed Pin From Net: NetName=GND Pin=J6A-A01
+Removed Pin From Net: NetName=SPI1 MISO Pin=J6A-A02
+Removed Pin From Net: NetName=SPI1 MOSI Pin=J6A-A03
+Removed Pin From Net: NetName=SPI1 SCK Pin=J6A-A04
+Removed Pin From Net: NetName=GND Pin=J6A-A06
+Removed Pin From Net: NetName=UART4 TX Pin=J6A-A07
+Removed Pin From Net: NetName=UART4 RX Pin=J6A-A08
+Removed Pin From Net: NetName=GND Pin=J6A-A11
+Removed Pin From Net: NetName=GND Pin=J6A-A12
+Removed Pin From Net: NetName=GND Pin=J6A-A18
+Removed Pin From Net: NetName=3V3 Pin=J6A-B01
+Removed Pin From Net: NetName=BACKUP Pin=J6A-B02
+Removed Pin From Net: NetName=I2C2 SDA Pin=J6A-B03
+Removed Pin From Net: NetName=I2C2 SCL Pin=J6A-B04
+Removed Pin From Net: NetName=3V3 Pin=J6A-B05
+Removed Pin From Net: NetName=USART2 TX Pin=J6A-B06
+Removed Pin From Net: NetName=USART2 RX Pin=J6A-B07
+Removed Pin From Net: NetName=USART2 RTS Pin=J6A-B08
+Removed Pin From Net: NetName=USART2 CTS Pin=J6A-B09
+Removed Pin From Net: NetName=3V3 Pin=J6A-B11
+Removed Pin From Net: NetName=3V3 Pin=J6A-B12
+Removed Pin From Net: NetName=3V3 Pin=J6A-B18
+Removed Pin From Net: NetName=GND Pin=J6B-A01
+Removed Pin From Net: NetName=SPI2 MOSI Pin=J6B-A02
+Removed Pin From Net: NetName=SPI2 MISO Pin=J6B-A03
+Removed Pin From Net: NetName=SPI2 CLK Pin=J6B-A04
+Removed Pin From Net: NetName=GND Pin=J6B-A06
+Removed Pin From Net: NetName=UART5 TX Pin=J6B-A07
+Removed Pin From Net: NetName=UART5 RX Pin=J6B-A08
+Removed Pin From Net: NetName=GND Pin=J6B-A11
+Removed Pin From Net: NetName=GND Pin=J6B-A12
+Removed Pin From Net: NetName=GND Pin=J6B-A18
+Removed Pin From Net: NetName=3V3 Pin=J6B-B01
+Removed Pin From Net: NetName=BACKUP Pin=J6B-B02
+Removed Pin From Net: NetName=I2C3 SDA Pin=J6B-B03
+Removed Pin From Net: NetName=I2C3 SCL Pin=J6B-B04
+Removed Pin From Net: NetName=3V3 Pin=J6B-B05
+Removed Pin From Net: NetName=USART3 TX Pin=J6B-B06
+Removed Pin From Net: NetName=USART3 RX Pin=J6B-B07
+Removed Pin From Net: NetName=USART3 RTS Pin=J6B-B08
+Removed Pin From Net: NetName=USART3 CTS Pin=J6B-B09
+Removed Pin From Net: NetName=3V3 Pin=J6B-B11
+Removed Pin From Net: NetName=3V3 Pin=J6B-B12
+Removed Pin From Net: NetName=3V3 Pin=J6B-B18
+Removed Pin From Net: NetName=USART2 TX Pin=J9A-1
+Removed Pin From Net: NetName=I2C2 SDA Pin=J9A-2
+Removed Pin From Net: NetName=USART2 RX Pin=J9A-3
+Removed Pin From Net: NetName=I2C2 SCL Pin=J9A-4
+Removed Pin From Net: NetName=USART2 RTS Pin=J9A-5
+Removed Pin From Net: NetName=UART4 TX Pin=J9A-6
+Removed Pin From Net: NetName=USART2 CTS Pin=J9A-7
+Removed Pin From Net: NetName=UART4 RX Pin=J9A-8
+Removed Pin From Net: NetName=GND Pin=J9A-10
+Removed Pin From Net: NetName=USART3 TX Pin=J9B-1
+Removed Pin From Net: NetName=I2C3 SDA Pin=J9B-2
+Removed Pin From Net: NetName=USART3 RX Pin=J9B-3
+Removed Pin From Net: NetName=I2C3 SCL Pin=J9B-4
+Removed Pin From Net: NetName=USART3 RTS Pin=J9B-5
+Removed Pin From Net: NetName=UART5 TX Pin=J9B-6
+Removed Pin From Net: NetName=USART3 CTS Pin=J9B-7
+Removed Pin From Net: NetName=UART5 RX Pin=J9B-8
+Removed Pin From Net: NetName=GND Pin=J9B-10
+Removed Pin From Net: NetName=SPI1 MISO Pin=J10A-1
+Removed Pin From Net: NetName=SPI1 MOSI Pin=J10A-3
+Removed Pin From Net: NetName=SPI1 SCK Pin=J10A-5
+Removed Pin From Net: NetName=GND Pin=J10A-10
+Removed Pin From Net: NetName=SPI2 MOSI Pin=J10B-1
+Removed Pin From Net: NetName=SPI2 MISO Pin=J10B-3
+Removed Pin From Net: NetName=SPI2 CLK Pin=J10B-5
+Removed Pin From Net: NetName=GND Pin=J10B-10
+Removed Pin From Net: NetName=GND Pin=M1A-1
+Removed Pin From Net: NetName=GND Pin=M1B-1
+Removed Pin From Net: NetName=GND Pin=M2A-1
+Removed Pin From Net: NetName=GND Pin=M2B-1
+Removed Pin From Net: NetName=3V3 Pin=R33-1
+Removed Pin From Net: NetName=CAN LBKA Pin=U4-3
+Removed Pin From Net: NetName=CAN LBKB Pin=U4-4
+Removed Pin From Net: NetName=SD RST Pin=U4-40
+Removed Member From Class: ClassName=Card Module A Member=J9A
+Removed Member From Class: ClassName=Card Module B Member=J9B
+Removed Member From Class: ClassName=Card Module A Member=J10A
+Removed Member From Class: ClassName=Card Module B Member=J10B
+Removed Member From Class: ClassName=Card Module A Member=M1A
+Removed Member From Class: ClassName=Card Module B Member=M1B
+Removed Member From Class: ClassName=Card Module A Member=M2A
+Removed Member From Class: ClassName=Card Module B Member=M2B
+Change Component Footprint: Designator=J6A Old Footprint=PCIE-036-02-F-D-RA New Footprint=5051106091
+Change Component Footprint: Designator=J6B Old Footprint=PCIE-036-02-F-D-RA New Footprint=5051106091
+Change Component Footprint: Designator=D10 Old Footprint=SMA New Footprint=SMB
+Change Component Footprint: Designator=D3 Old Footprint=SMB New Footprint=SMA
+Change Component Comment : Designator=R33 Old Comment=220R New Comment=1k
+Change Component Comment : Designator=D10 Old Comment=B260A-13-F New Comment=SMBJ15CA
+Change Component Comment : Designator=J6A Old Comment=PCIE-036-02-F-D-RA New Comment=5051106091
+Change Component Comment : Designator=J6B Old Comment=PCIE-036-02-F-D-RA New Comment=5051106091
+Change Component Comment : Designator=D3 Old Comment=SMBJ15CA New Comment=B260A-13-F
+Change component parameters: Designator = "D3" ("D3"); Footprint = "SMB"; UniqueID = "\VTGGUCTW\WFGMRGVX" ("\VTGGUCTW\WFGMRGVX")
+Change component parameters: Designator = "D10" ("D10"); Footprint = "SMA"; UniqueID = "\VTGGUCTW\MQJUUOGC" ("\VTGGUCTW\MQJUUOGC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/littelfuse-inc/SMBJ15CA/SMBJ15CALFCT-ND/285983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=D11(SMB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/littelfuse-inc/SMBJ15CA/SMBJ15CALFCT-ND/285983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=DS10(LED ORANGE 0603)
+Added Component: Designator=DS11(LED ORANGE 0603)
+Added Component: Designator=R36(Res_ThinFilm_0603)
+Added Component: Designator=R37A(Res_ThinFilm_0603)
+Added Component: Designator=R37B(Res_ThinFilm_0603)
+Added Component: Designator=R38(Res_ThinFilm_0603)
+Added Pin To Net: NetName=BACKUP Pin=D3-K
+Added Pin To Net: NetName=12V Pin=D10-A
+Added Pin To Net: NetName=GND Pin=D10-K
+Added Pin To Net: NetName=VCC Pin=D11-A
+Added Pin To Net: NetName=GND Pin=D11-K
+Added Pin To Net: NetName=GND Pin=DS10-2
+Added Pin To Net: NetName=GND Pin=DS11-2
+Added Pin To Net: NetName=GND Pin=J6A-1
+Added Pin To Net: NetName=USART2 TX Pin=J6A-2
+Added Pin To Net: NetName=GND Pin=J6A-3
+Added Pin To Net: NetName=USART2 RX Pin=J6A-4
+Added Pin To Net: NetName=GND Pin=J6A-5
+Added Pin To Net: NetName=USART2 RTS Pin=J6A-6
+Added Pin To Net: NetName=GND Pin=J6A-7
+Added Pin To Net: NetName=USART2 CTS Pin=J6A-8
+Added Pin To Net: NetName=GND Pin=J6A-9
+Added Pin To Net: NetName=UART4 TX Pin=J6A-10
+Added Pin To Net: NetName=GND Pin=J6A-11
+Added Pin To Net: NetName=UART4 RX Pin=J6A-12
+Added Pin To Net: NetName=GND Pin=J6A-13
+Added Pin To Net: NetName=SPI1 SCK Pin=J6A-14
+Added Pin To Net: NetName=GND Pin=J6A-15
+Added Pin To Net: NetName=SPI1 MISO Pin=J6A-16
+Added Pin To Net: NetName=GND Pin=J6A-17
+Added Pin To Net: NetName=SPI1 MOSI Pin=J6A-18
+Added Pin To Net: NetName=GND Pin=J6A-19
+Added Pin To Net: NetName=GND Pin=J6A-21
+Added Pin To Net: NetName=I2C2 SDA Pin=J6A-22
+Added Pin To Net: NetName=GND Pin=J6A-23
+Added Pin To Net: NetName=I2C2 SCL Pin=J6A-24
+Added Pin To Net: NetName=GND Pin=J6A-25
+Added Pin To Net: NetName=GND Pin=J6A-27
+Added Pin To Net: NetName=GND Pin=J6A-29
+Added Pin To Net: NetName=GND Pin=J6A-31
+Added Pin To Net: NetName=GND Pin=J6A-33
+Added Pin To Net: NetName=GND Pin=J6A-35
+Added Pin To Net: NetName=GND Pin=J6A-37
+Added Pin To Net: NetName=GND Pin=J6A-39
+Added Pin To Net: NetName=GND Pin=J6A-41
+Added Pin To Net: NetName=GND Pin=J6A-43
+Added Pin To Net: NetName=GND Pin=J6A-45
+Added Pin To Net: NetName=3V3 Pin=J6A-46
+Added Pin To Net: NetName=GND Pin=J6A-48
+Added Pin To Net: NetName=BACKUP Pin=J6A-49
+Added Pin To Net: NetName=BACKUP Pin=J6A-50
+Added Pin To Net: NetName=GND Pin=J6A-51
+Added Pin To Net: NetName=3V3 Pin=J6A-52
+Added Pin To Net: NetName=3V3 Pin=J6A-53
+Added Pin To Net: NetName=3V3 Pin=J6A-54
+Added Pin To Net: NetName=3V3 Pin=J6A-55
+Added Pin To Net: NetName=3V3 Pin=J6A-56
+Added Pin To Net: NetName=3V3 Pin=J6A-57
+Added Pin To Net: NetName=3V3 Pin=J6A-58
+Added Pin To Net: NetName=3V3 Pin=J6A-59
+Added Pin To Net: NetName=3V3 Pin=J6A-60
+Added Pin To Net: NetName=GND Pin=J6A-M1
+Added Pin To Net: NetName=GND Pin=J6A-M2
+Added Pin To Net: NetName=GND Pin=J6B-1
+Added Pin To Net: NetName=USART3 TX Pin=J6B-2
+Added Pin To Net: NetName=GND Pin=J6B-3
+Added Pin To Net: NetName=USART3 RX Pin=J6B-4
+Added Pin To Net: NetName=GND Pin=J6B-5
+Added Pin To Net: NetName=USART3 RTS Pin=J6B-6
+Added Pin To Net: NetName=GND Pin=J6B-7
+Added Pin To Net: NetName=USART3 CTS Pin=J6B-8
+Added Pin To Net: NetName=GND Pin=J6B-9
+Added Pin To Net: NetName=UART5 TX Pin=J6B-10
+Added Pin To Net: NetName=GND Pin=J6B-11
+Added Pin To Net: NetName=UART5 RX Pin=J6B-12
+Added Pin To Net: NetName=GND Pin=J6B-13
+Added Pin To Net: NetName=SPI2 CLK Pin=J6B-14
+Added Pin To Net: NetName=GND Pin=J6B-15
+Added Pin To Net: NetName=SPI2 MOSI Pin=J6B-16
+Added Pin To Net: NetName=GND Pin=J6B-17
+Added Pin To Net: NetName=SPI2 MISO Pin=J6B-18
+Added Pin To Net: NetName=GND Pin=J6B-19
+Added Pin To Net: NetName=GND Pin=J6B-21
+Added Pin To Net: NetName=I2C3 SDA Pin=J6B-22
+Added Pin To Net: NetName=GND Pin=J6B-23
+Added Pin To Net: NetName=I2C3 SCL Pin=J6B-24
+Added Pin To Net: NetName=GND Pin=J6B-25
+Added Pin To Net: NetName=GND Pin=J6B-27
+Added Pin To Net: NetName=GND Pin=J6B-29
+Added Pin To Net: NetName=GND Pin=J6B-31
+Added Pin To Net: NetName=GND Pin=J6B-33
+Added Pin To Net: NetName=GND Pin=J6B-35
+Added Pin To Net: NetName=GND Pin=J6B-37
+Added Pin To Net: NetName=GND Pin=J6B-39
+Added Pin To Net: NetName=GND Pin=J6B-41
+Added Pin To Net: NetName=GND Pin=J6B-43
+Added Pin To Net: NetName=GND Pin=J6B-45
+Added Pin To Net: NetName=3V3 Pin=J6B-46
+Added Pin To Net: NetName=GND Pin=J6B-48
+Added Pin To Net: NetName=BACKUP Pin=J6B-49
+Added Pin To Net: NetName=BACKUP Pin=J6B-50
+Added Pin To Net: NetName=GND Pin=J6B-51
+Added Pin To Net: NetName=3V3 Pin=J6B-52
+Added Pin To Net: NetName=3V3 Pin=J6B-53
+Added Pin To Net: NetName=3V3 Pin=J6B-54
+Added Pin To Net: NetName=3V3 Pin=J6B-55
+Added Pin To Net: NetName=3V3 Pin=J6B-56
+Added Pin To Net: NetName=3V3 Pin=J6B-57
+Added Pin To Net: NetName=3V3 Pin=J6B-58
+Added Pin To Net: NetName=3V3 Pin=J6B-59
+Added Pin To Net: NetName=3V3 Pin=J6B-60
+Added Pin To Net: NetName=GND Pin=J6B-M1
+Added Pin To Net: NetName=GND Pin=J6B-M2
+Added Pin To Net: NetName=GND Pin=R37A-1
+Added Pin To Net: NetName=GND Pin=R37B-1
+Added Pin To Net: NetName=3V3 Pin=R38-1
+Added Pin To Net: NetName=CAN LBKA Pin=U4-2
+Added Pin To Net: NetName=CAN LBKB Pin=U4-3
+Added Pin To Net: NetName=SD RST Pin=U4-4
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Added Pin To Net: NetName=MCU LED AL Pin=DS10-1
+Added Pin To Net: NetName=MCU LED AL Pin=R33-1
+Added Net: Name=MCU LED AL
+Added Pin To Net: NetName=MCU LED A Pin=R33-2
+Added Pin To Net: NetName=MCU LED A Pin=U4-97
+Added Net: Name=MCU LED A
+Added Pin To Net: NetName=MCU LED BL Pin=DS11-1
+Added Pin To Net: NetName=MCU LED BL Pin=R36-1
+Added Net: Name=MCU LED BL
+Added Pin To Net: NetName=MCU LED B Pin=R36-2
+Added Pin To Net: NetName=MCU LED B Pin=U4-62
+Added Net: Name=MCU LED B
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R38-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetJ6A_20 Pin=J6A-20
+Added Net: Name=NetJ6A_20
+Added Pin To Net: NetName=NetJ6A_26 Pin=J6A-26
+Added Pin To Net: NetName=NetJ6A_26 Pin=U4-23
+Added Net: Name=NetJ6A_26
+Added Pin To Net: NetName=NetJ6A_28 Pin=J6A-28
+Added Pin To Net: NetName=NetJ6A_28 Pin=U4-25
+Added Net: Name=NetJ6A_28
+Added Pin To Net: NetName=NetJ6A_30 Pin=J6A-30
+Added Pin To Net: NetName=NetJ6A_30 Pin=U4-26
+Added Net: Name=NetJ6A_30
+Added Pin To Net: NetName=NetJ6A_32 Pin=J6A-32
+Added Pin To Net: NetName=NetJ6A_32 Pin=U4-29
+Added Net: Name=NetJ6A_32
+Added Pin To Net: NetName=NetJ6A_34 Pin=J6A-34
+Added Pin To Net: NetName=NetJ6A_34 Pin=U4-35
+Added Net: Name=NetJ6A_34
+Added Pin To Net: NetName=NetJ6A_36 Pin=J6A-36
+Added Pin To Net: NetName=NetJ6A_36 Pin=U4-91
+Added Net: Name=NetJ6A_36
+Added Pin To Net: NetName=NetJ6A_38 Pin=J6A-38
+Added Pin To Net: NetName=NetJ6A_38 Pin=U4-95
+Added Net: Name=NetJ6A_38
+Added Pin To Net: NetName=NetJ6A_40 Pin=J6A-40
+Added Pin To Net: NetName=NetJ6A_40 Pin=U4-96
+Added Net: Name=NetJ6A_40
+Added Pin To Net: NetName=NetJ6A_42 Pin=J6A-42
+Added Pin To Net: NetName=NetJ6A_42 Pin=U4-54
+Added Net: Name=NetJ6A_42
+Added Pin To Net: NetName=NetJ6A_44 Pin=J6A-44
+Added Pin To Net: NetName=NetJ6A_44 Pin=U4-15
+Added Net: Name=NetJ6A_44
+Added Pin To Net: NetName=NetJ6A_47 Pin=J6A-47
+Added Pin To Net: NetName=NetJ6A_47 Pin=R37A-2
+Added Pin To Net: NetName=NetJ6A_47 Pin=U4-5
+Added Net: Name=NetJ6A_47
+Added Pin To Net: NetName=NetJ6B_20 Pin=J6B-20
+Added Net: Name=NetJ6B_20
+Added Pin To Net: NetName=NetJ6B_26 Pin=J6B-26
+Added Pin To Net: NetName=NetJ6B_26 Pin=U4-18
+Added Net: Name=NetJ6B_26
+Added Pin To Net: NetName=NetJ6B_28 Pin=J6B-28
+Added Pin To Net: NetName=NetJ6B_28 Pin=U4-33
+Added Net: Name=NetJ6B_28
+Added Pin To Net: NetName=NetJ6B_30 Pin=J6B-30
+Added Pin To Net: NetName=NetJ6B_30 Pin=U4-63
+Added Net: Name=NetJ6B_30
+Added Pin To Net: NetName=NetJ6B_32 Pin=J6B-32
+Added Pin To Net: NetName=NetJ6B_32 Pin=U4-7
+Added Net: Name=NetJ6B_32
+Added Pin To Net: NetName=NetJ6B_34 Pin=J6B-34
+Added Pin To Net: NetName=NetJ6B_34 Pin=U4-88
+Added Net: Name=NetJ6B_34
+Added Pin To Net: NetName=NetJ6B_36 Pin=J6B-36
+Added Pin To Net: NetName=NetJ6B_36 Pin=U4-56
+Added Net: Name=NetJ6B_36
+Added Pin To Net: NetName=NetJ6B_38 Pin=J6B-38
+Added Pin To Net: NetName=NetJ6B_38 Pin=U4-57
+Added Net: Name=NetJ6B_38
+Added Pin To Net: NetName=NetJ6B_40 Pin=J6B-40
+Added Pin To Net: NetName=NetJ6B_40 Pin=U4-59
+Added Net: Name=NetJ6B_40
+Added Pin To Net: NetName=NetJ6B_42 Pin=J6B-42
+Added Pin To Net: NetName=NetJ6B_42 Pin=U4-60
+Added Net: Name=NetJ6B_42
+Added Pin To Net: NetName=NetJ6B_44 Pin=J6B-44
+Added Pin To Net: NetName=NetJ6B_44 Pin=U4-61
+Added Net: Name=NetJ6B_44
+Added Pin To Net: NetName=NetJ6B_47 Pin=J6B-47
+Added Pin To Net: NetName=NetJ6B_47 Pin=R37B-2
+Added Pin To Net: NetName=NetJ6B_47 Pin=U4-40
+Added Net: Name=NetJ6B_47
+Added Member To Class: ClassName=Power Supply Member=Component BAT1 Keystone 2898 (CR2032)
+Added Member To Class: ClassName=Power Supply Member=Component CS1 JUWT1105MCD
+Added Member To Class: ClassName=Power Supply Member=Component D10 SMBJ15CA
+Added Member To Class: ClassName=Power Supply Member=Component D11 SMBJ15CA
+Added Member To Class: ClassName=Micocontroller Member=Component DS10 LED Orange 0603
+Added Member To Class: ClassName=Micocontroller Member=Component DS11 LED Orange 0603
+Added Member To Class: ClassName=Micocontroller Member=Component R33 1k
+Added Member To Class: ClassName=Micocontroller Member=Component R36 1k
+Added Member To Class: ClassName=Card Module A Member=Component R37A (R37) 10k
+Added Member To Class: ClassName=Card Module B Member=Component R37B (R37) 10k
+Added Member To Class: ClassName=Power Supply Member=Component R38 220R

@@ -377,7 +377,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WFWZTUBU
 
 [Document21]
 DocumentPath=StandardResistors.PcbLib
@@ -448,23 +448,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ZUGZGKQV
 
 [Document25]
-DocumentPath=uBlox_GPS.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RUGUZUPI
-
-[Document26]
 DocumentPath=RADG-Master-S00-V00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -481,24 +464,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JADUUISP
 
-[Document27]
-DocumentPath=uBlox_GPS.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RELWJOOP
-
-[Document28]
+[Document26]
 DocumentPath=RADG-GPSModule-S01-V00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +481,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBFIQGQZ
 
-[Document29]
+[Document27]
 DocumentPath=RADG-Power-S02-V00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,7 +498,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMQOBKKU
 
-[Document30]
+[Document28]
 DocumentPath=RADG-Connector-S04-V00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -549,7 +515,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHHLLKTQ
 
-[Document31]
+[Document29]
 DocumentPath=QUTMS_CANLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +532,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document30]
 DocumentPath=QUTMS_CANLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -583,7 +549,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document31]
 DocumentPath=QUTMS_CrystalLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -600,7 +566,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document32]
 DocumentPath=QUTMS_CrystalLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -617,7 +583,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document33]
 DocumentPath=QUTMS_FFCConnectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -634,7 +600,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document34]
 DocumentPath=QUTMS_FFCConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -651,7 +617,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document35]
 DocumentPath=QUTMS_FuseLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -668,7 +634,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document36]
 DocumentPath=QUTMS_FuseLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -685,7 +651,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document37]
 DocumentPath=QUTMS_IntegratedCircuitLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -702,7 +668,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document38]
 DocumentPath=QUTMS_IntegratedCircuitLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -719,7 +685,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document39]
 DocumentPath=QUTMS_LogicLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -736,7 +702,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document40]
 DocumentPath=QUTMS_LogicLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -753,7 +719,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document41]
 DocumentPath=QUTMS_MicrofitLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -770,7 +736,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document42]
 DocumentPath=QUTMS_MicrofitLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -787,7 +753,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document43]
 DocumentPath=QUTMS_MolexLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -804,7 +770,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document44]
 DocumentPath=QUTMS_MolexLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,7 +787,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document45]
 DocumentPath=QUTMS_MuliplexerLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -838,7 +804,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document46]
 DocumentPath=QUTMS_MuliplexerLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -855,7 +821,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document47]
 DocumentPath=QUTMS_OpAmpLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -872,7 +838,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document48]
 DocumentPath=QUTMS_OpAmpLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -889,7 +855,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document49]
 DocumentPath=QUTMS_PCIConnectorLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -906,7 +872,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document50]
 DocumentPath=QUTMS_PCIConnectorLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -923,7 +889,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document51]
 DocumentPath=QUTMS_PeripheralConnectivity.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -940,7 +906,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document52]
 DocumentPath=QUTMS_PeripheralConnectivity.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -957,7 +923,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document53]
 DocumentPath=QUTMS_USBLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -974,7 +940,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document54]
 DocumentPath=QUTMS_USBLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -991,7 +957,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document55]
 DocumentPath=test.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1008,7 +974,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWLXFRPO
 
-[Document58]
+[Document56]
 DocumentPath=RADG-USB-S03-V00.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1025,7 +991,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNUCFAGA
 
-[Document59]
+[Document57]
 DocumentPath=RADG-USB-S03-V00.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1042,8 +1008,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document58]
 DocumentPath=RADG-GPSModule-S01-V00.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document59]
+DocumentPath=QUTMS_RadioLibrary.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document60]
+DocumentPath=QUTMS_RadioLibrary.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document61]
+DocumentPath=RADG-Connector-S04-V00.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

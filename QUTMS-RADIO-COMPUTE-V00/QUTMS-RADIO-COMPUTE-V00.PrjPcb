@@ -122,7 +122,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GGRDGUWE
 
 [Document6]
 DocumentPath=QUTMS_JumperLibrary.SchLib
@@ -139,7 +139,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QKGTBYVP
 
 [Document7]
 DocumentPath=QUTMS_LEDLibrary.PcbLib
@@ -190,7 +190,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GATKQLPW
 
 [Document10]
 DocumentPath=QUTMS_MOSFETLibrary.SchLib
@@ -1009,40 +1009,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SUYYFNGI
 
 [Document58]
-DocumentPath=RADC-ModuleConnect-S07-V00.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document59]
-DocumentPath=RADC-BackupPower-S08-V00.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JNJHMLBQ
-
-[Document60]
 DocumentPath=QUTMS_IDCConnectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,9 +1023,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YQXFGOLB
 
-[Document61]
+[Document59]
 DocumentPath=QUTMS_IDCConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,9 +1040,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FMGMPDCL
 
-[Document62]
+[Document60]
 DocumentPath=QUTMS_JST_PH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1093,7 +1059,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSRJSOSP
 
-[Document63]
+[Document61]
 DocumentPath=QUTMS_JST_PH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1110,7 +1076,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONNCKLRU
 
-[Document64]
+[Document62]
 DocumentPath=QUTMS_STM32Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1127,7 +1093,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTNRLEFG
 
-[Document65]
+[Document63]
 DocumentPath=QUTMS_STM32Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1144,7 +1110,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQAKGVDZ
 
-[Document66]
+[Document64]
 DocumentPath=RADC-Microcontroller-S02-V00.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1160,6 +1126,91 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document65]
+DocumentPath=QUTMS_RadioLibrary.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document66]
+DocumentPath=QUTMS_RadioLibrary.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document67]
+DocumentPath=RADC-ModuleConnect-S07-V00.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document68]
+DocumentPath=QUTMS_FFCConnectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUYPDAQO
+
+[Document69]
+DocumentPath=QUTMS_FFCConnectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PMQZETJJ
 
 [Configuration1]
 Name=Sources
@@ -2099,6 +2150,7 @@ Net2=NetName=3V3|NetColor=$006E6EFF
 Net3=NetName=3V3A|NetColor=$006E6EFF
 Net4=NetName=3V3SD|NetColor=$006E6EFF
 Net5=NetName=BACKUP|NetColor=$000099FF
+Net6=NetName=RTC|NetColor=$000099FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
