@@ -1,0 +1,22 @@
+Added Component: Designator=J4A(JUMPER_2WAY_4x_RIGHT_TH)
+Added Component: Designator=J4B(JUMPER_2WAY_4x_RIGHT_TH)
+Added Component: Designator=J4(JUMPER_2WAY_4x_RIGHT_TH)
+Added Component: Designator=M1(M3.5 UNPLATED)
+Added Component: Designator=M2(M3.5 UNPLATED)
+Added Component: Designator=M7(M3.5 UNPLATED)
+Added Component: Designator=M8(M3.5 UNPLATED)
+Added Pin To Net: NetName=CAN1H Pin=J4-1
+Added Pin To Net: NetName=CAN2H Pin=J4-2
+Added Pin To Net: NetName=CAN1L Pin=J4-3
+Added Pin To Net: NetName=CAN2L Pin=J4-4
+Added Pin To Net: NetName=CAN2H Pin=J4A-5
+Added Pin To Net: NetName=CAN RESA Pin=J4A-6
+Added Pin To Net: NetName=CAN1H Pin=J4B-5
+Added Pin To Net: NetName=CAN RESB Pin=J4B-6
+Added Member To Class: ClassName=CANBUS1 Member=Component J4A (J4A) Jumper 2Way 4x Pins
+Added Member To Class: ClassName=CANBUS2 Member=Component J4B (J4A) Jumper 2Way 4x Pins
+Added Member To Class: ClassName=Connectors Member=Component J4 Jumper 2Way 4x Pins
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component M1 Hole M3 Loose Unplated
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component M2 Hole M3 Loose Unplated
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component M7 Hole M3 Loose Unplated
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component M8 Hole M3 Loose Unplated

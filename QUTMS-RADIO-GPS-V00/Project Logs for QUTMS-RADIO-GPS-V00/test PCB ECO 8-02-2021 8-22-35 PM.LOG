@@ -1,0 +1,4 @@
+Added Component: Designator=M3(M3.5 UNPLATED)
+Added Component: Designator=M4(M3.5 UNPLATED)
+Added Member To Class: ClassName=RADG-Master-S00-V00 Member=Component M3 Hole M3 Loose Unplated
+Added Member To Class: ClassName=RADG-Master-S00-V00 Member=Component M4 Hole M3 Loose Unplated

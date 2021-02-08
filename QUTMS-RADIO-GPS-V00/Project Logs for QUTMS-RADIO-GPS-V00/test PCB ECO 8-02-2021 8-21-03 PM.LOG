@@ -1,0 +1,168 @@
+Removed Pin From Net: NetName=USB DP_N Pin=R27-2
+Added Component: Designator=C12(Cap_Ceramic_0603)
+Added Component: Designator=J3(5051106091)
+Added Component: Designator=J4(5051106091)
+Added Component: Designator=R31(Res_ThinFilm_0603)
+Added Component: Designator=R32(Res_ThinFilm_0603)
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=N3V3 Pin=J3-1
+Added Pin To Net: NetName=N3V3 Pin=J3-2
+Added Pin To Net: NetName=N3V3 Pin=J3-3
+Added Pin To Net: NetName=N3V3 Pin=J3-4
+Added Pin To Net: NetName=N3V3 Pin=J3-5
+Added Pin To Net: NetName=N3V3 Pin=J3-6
+Added Pin To Net: NetName=N3V3 Pin=J3-7
+Added Pin To Net: NetName=N3V3 Pin=J3-8
+Added Pin To Net: NetName=N3V3 Pin=J3-9
+Added Pin To Net: NetName=NGND Pin=J3-10
+Added Pin To Net: NetName=NGND Pin=J3-13
+Added Pin To Net: NetName=NGND Pin=J3-16
+Added Pin To Net: NetName=NGND Pin=J3-18
+Added Pin To Net: NetName=NGND Pin=J3-20
+Added Pin To Net: NetName=NGND Pin=J3-22
+Added Pin To Net: NetName=NGND Pin=J3-24
+Added Pin To Net: NetName=NGND Pin=J3-26
+Added Pin To Net: NetName=NGND Pin=J3-28
+Added Pin To Net: NetName=NGND Pin=J3-30
+Added Pin To Net: NetName=NGND Pin=J3-32
+Added Pin To Net: NetName=NGND Pin=J3-34
+Added Pin To Net: NetName=NGND Pin=J3-36
+Added Pin To Net: NetName=NGND Pin=J3-38
+Added Pin To Net: NetName=NGND Pin=J3-40
+Added Pin To Net: NetName=NGND Pin=J3-42
+Added Pin To Net: NetName=NGND Pin=J3-44
+Added Pin To Net: NetName=NGND Pin=J3-46
+Added Pin To Net: NetName=NGND Pin=J3-48
+Added Pin To Net: NetName=NGND Pin=J3-50
+Added Pin To Net: NetName=NGND Pin=J3-52
+Added Pin To Net: NetName=NGND Pin=J3-54
+Added Pin To Net: NetName=NGND Pin=J3-56
+Added Pin To Net: NetName=NGND Pin=J3-58
+Added Pin To Net: NetName=NGND Pin=J3-60
+Added Pin To Net: NetName=NGND Pin=J3-M1
+Added Pin To Net: NetName=NGND Pin=J3-M2
+Added Pin To Net: NetName=N3V3 Pin=J4-1
+Added Pin To Net: NetName=N3V3 Pin=J4-2
+Added Pin To Net: NetName=N3V3 Pin=J4-3
+Added Pin To Net: NetName=N3V3 Pin=J4-4
+Added Pin To Net: NetName=N3V3 Pin=J4-5
+Added Pin To Net: NetName=N3V3 Pin=J4-6
+Added Pin To Net: NetName=N3V3 Pin=J4-7
+Added Pin To Net: NetName=N3V3 Pin=J4-8
+Added Pin To Net: NetName=N3V3 Pin=J4-9
+Added Pin To Net: NetName=NGND Pin=J4-10
+Added Pin To Net: NetName=NGND Pin=J4-13
+Added Pin To Net: NetName=NGND Pin=J4-16
+Added Pin To Net: NetName=NGND Pin=J4-18
+Added Pin To Net: NetName=NGND Pin=J4-20
+Added Pin To Net: NetName=NGND Pin=J4-22
+Added Pin To Net: NetName=NGND Pin=J4-24
+Added Pin To Net: NetName=NGND Pin=J4-26
+Added Pin To Net: NetName=NGND Pin=J4-28
+Added Pin To Net: NetName=NGND Pin=J4-30
+Added Pin To Net: NetName=NGND Pin=J4-32
+Added Pin To Net: NetName=NGND Pin=J4-34
+Added Pin To Net: NetName=NGND Pin=J4-36
+Added Pin To Net: NetName=NGND Pin=J4-38
+Added Pin To Net: NetName=NGND Pin=J4-40
+Added Pin To Net: NetName=NGND Pin=J4-42
+Added Pin To Net: NetName=NGND Pin=J4-44
+Added Pin To Net: NetName=NGND Pin=J4-46
+Added Pin To Net: NetName=NGND Pin=J4-48
+Added Pin To Net: NetName=NGND Pin=J4-50
+Added Pin To Net: NetName=NGND Pin=J4-52
+Added Pin To Net: NetName=NGND Pin=J4-54
+Added Pin To Net: NetName=NGND Pin=J4-56
+Added Pin To Net: NetName=NGND Pin=J4-58
+Added Pin To Net: NetName=NGND Pin=J4-60
+Added Pin To Net: NetName=NGND Pin=J4-M1
+Added Pin To Net: NetName=NGND Pin=J4-M2
+Added Pin To Net: NetName=USB DP_N Pin=R28-2
+Added Pin To Net: NetName=VCC RF Pin=R31-1
+Added Pin To Net: NetName=BACKUP Pin=J3-11
+Added Pin To Net: NetName=BACKUP Pin=J3-12
+Added Pin To Net: NetName=BACKUP Pin=J4-11
+Added Pin To Net: NetName=BACKUP Pin=J4-12
+Added Net: Name=BACKUP
+Added Pin To Net: NetName=DET N Pin=J3-14
+Added Pin To Net: NetName=DET N Pin=J4-14
+Added Pin To Net: NetName=DET N Pin=R32-1
+Added Net: Name=DET N
+Added Pin To Net: NetName=DET P Pin=J3-15
+Added Pin To Net: NetName=DET P Pin=J4-15
+Added Pin To Net: NetName=DET P Pin=R32-2
+Added Net: Name=DET P
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R31-2
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetJ3_17 Pin=J3-17
+Added Pin To Net: NetName=NetJ3_17 Pin=J4-17
+Added Net: Name=NetJ3_17
+Added Pin To Net: NetName=NetJ3_19 Pin=J3-19
+Added Pin To Net: NetName=NetJ3_19 Pin=J4-19
+Added Net: Name=NetJ3_19
+Added Pin To Net: NetName=NetJ3_21 Pin=J3-21
+Added Pin To Net: NetName=NetJ3_21 Pin=J4-21
+Added Net: Name=NetJ3_21
+Added Pin To Net: NetName=NetJ3_23 Pin=J3-23
+Added Pin To Net: NetName=NetJ3_23 Pin=J4-23
+Added Net: Name=NetJ3_23
+Added Pin To Net: NetName=NetJ3_25 Pin=J3-25
+Added Pin To Net: NetName=NetJ3_25 Pin=J4-25
+Added Net: Name=NetJ3_25
+Added Pin To Net: NetName=NetJ3_27 Pin=J3-27
+Added Pin To Net: NetName=NetJ3_27 Pin=J4-27
+Added Net: Name=NetJ3_27
+Added Pin To Net: NetName=NetJ3_29 Pin=J3-29
+Added Pin To Net: NetName=NetJ3_29 Pin=J4-29
+Added Net: Name=NetJ3_29
+Added Pin To Net: NetName=NetJ3_31 Pin=J3-31
+Added Pin To Net: NetName=NetJ3_31 Pin=J4-31
+Added Net: Name=NetJ3_31
+Added Pin To Net: NetName=NetJ3_33 Pin=J3-33
+Added Pin To Net: NetName=NetJ3_33 Pin=J4-33
+Added Net: Name=NetJ3_33
+Added Pin To Net: NetName=NetJ3_35 Pin=J3-35
+Added Pin To Net: NetName=NetJ3_35 Pin=J4-35
+Added Net: Name=NetJ3_35
+Added Pin To Net: NetName=NetJ3_37 Pin=J3-37
+Added Pin To Net: NetName=NetJ3_37 Pin=J4-37
+Added Net: Name=NetJ3_37
+Added Pin To Net: NetName=NetJ3_39 Pin=J3-39
+Added Pin To Net: NetName=NetJ3_39 Pin=J4-39
+Added Net: Name=NetJ3_39
+Added Pin To Net: NetName=NetJ3_41 Pin=J3-41
+Added Pin To Net: NetName=NetJ3_41 Pin=J4-41
+Added Net: Name=NetJ3_41
+Added Pin To Net: NetName=NetJ3_43 Pin=J3-43
+Added Pin To Net: NetName=NetJ3_43 Pin=J4-43
+Added Net: Name=NetJ3_43
+Added Pin To Net: NetName=NetJ3_45 Pin=J3-45
+Added Pin To Net: NetName=NetJ3_45 Pin=J4-45
+Added Net: Name=NetJ3_45
+Added Pin To Net: NetName=NetJ3_47 Pin=J3-47
+Added Pin To Net: NetName=NetJ3_47 Pin=J4-47
+Added Net: Name=NetJ3_47
+Added Pin To Net: NetName=NetJ3_49 Pin=J3-49
+Added Pin To Net: NetName=NetJ3_49 Pin=J4-49
+Added Net: Name=NetJ3_49
+Added Pin To Net: NetName=NetJ3_51 Pin=J3-51
+Added Pin To Net: NetName=NetJ3_51 Pin=J4-51
+Added Net: Name=NetJ3_51
+Added Pin To Net: NetName=NetJ3_53 Pin=J3-53
+Added Pin To Net: NetName=NetJ3_53 Pin=J4-53
+Added Net: Name=NetJ3_53
+Added Pin To Net: NetName=NetJ3_55 Pin=J3-55
+Added Pin To Net: NetName=NetJ3_55 Pin=J4-55
+Added Net: Name=NetJ3_55
+Added Pin To Net: NetName=NetJ3_57 Pin=J3-57
+Added Pin To Net: NetName=NetJ3_57 Pin=J4-57
+Added Net: Name=NetJ3_57
+Added Pin To Net: NetName=NetJ3_59 Pin=J3-59
+Added Pin To Net: NetName=NetJ3_59 Pin=J4-59
+Added Net: Name=NetJ3_59
+Added Pin To Net: NetName=USB DP_P Pin=R27-2
+Added Pin To Net: NetName=USB DP_P Pin=U1-40
+Added Net: Name=USB DP_P
+Added Member To Class: ClassName=GPS Module Member=Component C12 4p7
+Added Member To Class: ClassName=GPS Module Member=Component R31 33R
