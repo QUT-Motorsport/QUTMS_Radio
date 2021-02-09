@@ -1,0 +1,59 @@
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=C6
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=C8
+Removed Member From Class: ClassName=Power Supply Member=C10
+Removed Member From Class: ClassName=Power Supply Member=C11
+Removed Member From Class: ClassName=Power Supply Member=C12
+Removed Member From Class: ClassName=Power Supply Member=C13
+Removed Member From Class: ClassName=CANBUS1 Member=C15A
+Removed Member From Class: ClassName=Power Supply Member=D2
+Removed Member From Class: ClassName=Connectors Member=J8
+Removed Member From Class: ClassName=Power Supply Member=R3
+Removed Member From Class: ClassName=CANBUS1 Member=R5A
+Removed Member From Class: ClassName=Power Supply Member=R10
+Removed Member From Class: ClassName=Power Supply Member=R12
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=R16
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=R18
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=R20
+Removed Member From Class: ClassName=Card Module B Member=R37B
+Removed Member From Class: ClassName=Power Supply Member=U1
+Removed Member From Class: ClassName=Power Supply Member=U2
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C16 100nF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C18 1uF
+Added Member To Class: ClassName=Power Supply Member=Component C20 4u7
+Added Member To Class: ClassName=Power Supply Member=Component C21 4u7
+Added Member To Class: ClassName=Power Supply Member=Component C22 100nF 50V
+Added Member To Class: ClassName=Power Supply Member=Component C23 22uF 35V
+Added Member To Class: ClassName=CANBUS1 Member=Component C25A (C25) 100nF 100V
+Added Member To Class: ClassName=Power Supply Member=Component D6 B260A-13-F
+Added Member To Class: ClassName=Power Supply Member=Component D7 B260A-13-F
+Added Member To Class: ClassName=Power Supply Member=Component D8 B260A-13-F
+Added Member To Class: ClassName=Power Supply Member=Component D10 BZT52B3V3-G3-08
+Added Member To Class: ClassName=Power Supply Member=Component DS4 LED Green 0603
+Added Member To Class: ClassName=Power Supply Member=Component DS6 LED Red 0603
+Added Member To Class: ClassName=Connectors Member=Component J5 Jumper 2Way Pins
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component M2 Hole M3 Loose Unplated
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component M3 Hole M3 Loose Unplated
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component M7 Hole M3 Loose Unplated
+Added Member To Class: ClassName=Card Module B Member=Component R5B (R5) 10k
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R7 100R
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R9 10k
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R11 100R
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R13 100R
+Added Member To Class: ClassName=Power Supply Member=Component R17 2M2
+Added Member To Class: ClassName=Power Supply Member=Component R19 4k7
+Added Member To Class: ClassName=Power Supply Member=Component R21 4k7
+Added Member To Class: ClassName=Power Supply Member=Component R22 220R
+Added Member To Class: ClassName=Power Supply Member=Component R23 220R
+Added Member To Class: ClassName=Power Supply Member=Component R25 220k
+Added Member To Class: ClassName=Power Supply Member=Component R27 150k
+Added Member To Class: ClassName=Power Supply Member=Component R29 1k
+Added Member To Class: ClassName=Power Supply Member=Component R31 1k
+Added Member To Class: ClassName=Power Supply Member=Component R33 1k
+Added Member To Class: ClassName=CANBUS1 Member=Component R37A (R37) 120R 1% 1210
+Added Member To Class: ClassName=Micocontroller Member=Component U3 DSC1001DI1-008.0000T
+Added Member To Class: ClassName=Power Supply Member=Component U4 MAX17612A
+Added Member To Class: ClassName=Power Supply Member=Component U5 LMR14010
+Added Room: Name=CANBUS1
+Added Room: Name=CANBUS2
+Added Room: Name=Card Module A
+Added Room: Name=Card Module B
