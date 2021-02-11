@@ -1225,7 +1225,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1331,7 +1331,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1409,7 +1409,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1431,7 +1431,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1503,7 +1503,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1540,7 +1540,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1648,7 +1648,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1692,7 +1692,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1753,7 +1753,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -2176,13 +2176,13 @@ Net28=NetName=I2C3 SCL|NetColor=$006EFF6E
 Net29=NetName=I2C3 SDA|NetColor=$006EFF6E
 Net30=NetName=I2C3.SCL|NetColor=$006EFF6E
 Net31=NetName=I2C3.SDA|NetColor=$006EFF6E
-Net32=NetName=MCU JTCK|NetColor=$00660066
-Net33=NetName=MCU JTDI|NetColor=$00660066
-Net34=NetName=MCU JTDO|NetColor=$00660066
-Net35=NetName=MCU JTMS|NetColor=$00660066
+Net32=NetName=MCU JTCK|NetColor=clYellow
+Net33=NetName=MCU JTDI|NetColor=clYellow
+Net34=NetName=MCU JTDO|NetColor=clYellow
+Net35=NetName=MCU JTMS|NetColor=clYellow
 Net36=NetName=MCU LED A|NetColor=$00FFFF6E
 Net37=NetName=MCU LED B|NetColor=$00FFFF6E
-Net38=NetName=MCU RESET|NetColor=$00660066
+Net38=NetName=MCU RESET|NetColor=clYellow
 Net39=NetName=NetJ7_10|NetColor=$006EFF6E
 Net40=NetName=NetJ7_12|NetColor=$006EFF6E
 Net41=NetName=NetJ7_14|NetColor=$006EFF6E
@@ -2216,8 +2216,8 @@ Net68=NetName=NetJ7B_24|NetColor=$006EFF6E
 Net69=NetName=NetJ7B_4|NetColor=$006EFF6E
 Net70=NetName=NetJ7B_6|NetColor=$006EFF6E
 Net71=NetName=NetJ7B_8|NetColor=$006EFF6E
-Net72=NetName=OSC 32kHz|NetColor=$00660066
-Net73=NetName=OSC 8Mhz|NetColor=$00660066
+Net72=NetName=OSC 32kHz|NetColor=clYellow
+Net73=NetName=OSC 8Mhz|NetColor=clYellow
 Net74=NetName=RTC|NetColor=$000099FF
 Net75=NetName=SD CLK|NetColor=$00FFFF6E
 Net76=NetName=SD CMD|NetColor=$00FFFF6E
@@ -2243,40 +2243,43 @@ Net95=NetName=SPI2 MOSI|NetColor=$006EFF6E
 Net96=NetName=SPI2.CLK|NetColor=$006EFF6E
 Net97=NetName=SPI2.MISO|NetColor=$006EFF6E
 Net98=NetName=SPI2.MOSI|NetColor=$006EFF6E
-Net99=NetName=UART1|NetColor=$00FFFF6E
-Net100=NetName=UART4 RX|NetColor=$006EFF6E
-Net101=NetName=UART4 TX|NetColor=$006EFF6E
-Net102=NetName=UART4.RX|NetColor=$006EFF6E
-Net103=NetName=UART4.TX|NetColor=$006EFF6E
-Net104=NetName=UART5 RX|NetColor=$006EFF6E
-Net105=NetName=UART5 TX|NetColor=$006EFF6E
-Net106=NetName=UART5.RX|NetColor=$006EFF6E
-Net107=NetName=UART5.TX|NetColor=$006EFF6E
-Net108=NetName=USART1 RX|NetColor=$00FFFF6E
-Net109=NetName=USART1 TX|NetColor=$00FFFF6E
-Net110=NetName=USART2 CTS|NetColor=$006EFF6E
-Net111=NetName=USART2 RTS|NetColor=$006EFF6E
-Net112=NetName=USART2 RX|NetColor=$006EFF6E
-Net113=NetName=USART2 TX|NetColor=$006EFF6E
-Net114=NetName=USART2.CTS|NetColor=$006EFF6E
-Net115=NetName=USART2.RTS|NetColor=$006EFF6E
-Net116=NetName=USART2.RX|NetColor=$006EFF6E
-Net117=NetName=USART2.TX|NetColor=$006EFF6E
-Net118=NetName=USART3 CTS|NetColor=$006EFF6E
-Net119=NetName=USART3 RTS|NetColor=$006EFF6E
-Net120=NetName=USART3 RX|NetColor=$006EFF6E
-Net121=NetName=USART3 TX|NetColor=$006EFF6E
-Net122=NetName=USART3.CTS|NetColor=$006EFF6E
-Net123=NetName=USART3.RTS|NetColor=$006EFF6E
-Net124=NetName=USART3.RX|NetColor=$006EFF6E
-Net125=NetName=USART3.TX|NetColor=$006EFF6E
-Net126=NetName=USB D_N|NetColor=$00660066
-Net127=NetName=USB D_P|NetColor=$00660066
-Net128=NetName=USB.USB D_N|NetColor=$00660066
-Net129=NetName=USB.USB D_P|NetColor=$00660066
-Net130=NetName=VCC|NetColor=$00FF6EFF
-Net131=NetName=VUSB|NetColor=$00336699
-Net132=NetName=VUSBF|NetColor=$00336699
+Net99=NetName=SPI4 CLK|NetColor=$006EFF6E
+Net100=NetName=SPI4 MISO|NetColor=$006EFF6E
+Net101=NetName=SPI4 MOSI|NetColor=$006EFF6E
+Net102=NetName=UART1|NetColor=$00FFFF6E
+Net103=NetName=UART4 RX|NetColor=$006EFF6E
+Net104=NetName=UART4 TX|NetColor=$006EFF6E
+Net105=NetName=UART4.RX|NetColor=$006EFF6E
+Net106=NetName=UART4.TX|NetColor=$006EFF6E
+Net107=NetName=UART5 RX|NetColor=$006EFF6E
+Net108=NetName=UART5 TX|NetColor=$006EFF6E
+Net109=NetName=UART5.RX|NetColor=$006EFF6E
+Net110=NetName=UART5.TX|NetColor=$006EFF6E
+Net111=NetName=USART1 RX|NetColor=$00FFFF6E
+Net112=NetName=USART1 TX|NetColor=$00FFFF6E
+Net113=NetName=USART2 CTS|NetColor=$006EFF6E
+Net114=NetName=USART2 RTS|NetColor=$006EFF6E
+Net115=NetName=USART2 RX|NetColor=$006EFF6E
+Net116=NetName=USART2 TX|NetColor=$006EFF6E
+Net117=NetName=USART2.CTS|NetColor=$006EFF6E
+Net118=NetName=USART2.RTS|NetColor=$006EFF6E
+Net119=NetName=USART2.RX|NetColor=$006EFF6E
+Net120=NetName=USART2.TX|NetColor=$006EFF6E
+Net121=NetName=USART3 CTS|NetColor=$006EFF6E
+Net122=NetName=USART3 RTS|NetColor=$006EFF6E
+Net123=NetName=USART3 RX|NetColor=$006EFF6E
+Net124=NetName=USART3 TX|NetColor=$006EFF6E
+Net125=NetName=USART3.CTS|NetColor=$006EFF6E
+Net126=NetName=USART3.RTS|NetColor=$006EFF6E
+Net127=NetName=USART3.RX|NetColor=$006EFF6E
+Net128=NetName=USART3.TX|NetColor=$006EFF6E
+Net129=NetName=USB D_N|NetColor=clYellow
+Net130=NetName=USB D_P|NetColor=clYellow
+Net131=NetName=USB.USB D_N|NetColor=clYellow
+Net132=NetName=USB.USB D_P|NetColor=clYellow
+Net133=NetName=VCC|NetColor=$00FF6EFF
+Net134=NetName=VUSB|NetColor=$00336699
+Net135=NetName=VUSBF|NetColor=$00336699
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

@@ -1,0 +1,58 @@
+Added Component: Designator=U1(STM-LQFP144_V)
+Added Pin To Net: NetName=RTC Pin=U1-6
+Added Pin To Net: NetName=OSC 32kHz Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=3V3 Pin=U1-17
+Added Pin To Net: NetName=OSC 8Mhz Pin=U1-23
+Added Pin To Net: NetName=MCU RESET Pin=U1-25
+Added Pin To Net: NetName=3V3 Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=3V3A Pin=U1-32
+Added Pin To Net: NetName=3V3A Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Pin To Net: NetName=SD DAT1 Pin=U1-46
+Added Pin To Net: NetName=SD DAT2 Pin=U1-47
+Added Pin To Net: NetName=SD CLK Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=3V3 Pin=U1-52
+Added Pin To Net: NetName=GND Pin=U1-61
+Added Pin To Net: NetName=3V3 Pin=U1-62
+Added Pin To Net: NetName=MCU VCAP1 Pin=U1-71
+Added Pin To Net: NetName=3V3 Pin=U1-72
+Added Pin To Net: NetName=CAN2 RX Pin=U1-73
+Added Pin To Net: NetName=CAN2 TX Pin=U1-74
+Added Pin To Net: NetName=GND Pin=U1-83
+Added Pin To Net: NetName=3V3 Pin=U1-84
+Added Pin To Net: NetName=GND Pin=U1-94
+Added Pin To Net: NetName=3V3 Pin=U1-95
+Added Pin To Net: NetName=SD DAT0 Pin=U1-98
+Added Pin To Net: NetName=USB D_N Pin=U1-103
+Added Pin To Net: NetName=USB D_P Pin=U1-104
+Added Pin To Net: NetName=MCU JTMS Pin=U1-105
+Added Pin To Net: NetName=MCU VCAP2 Pin=U1-106
+Added Pin To Net: NetName=SD CMD Pin=U1-106
+Added Pin To Net: NetName=GND Pin=U1-107
+Added Pin To Net: NetName=3V3 Pin=U1-108
+Added Pin To Net: NetName=MCU JTCK Pin=U1-109
+Added Pin To Net: NetName=MCU JTDI Pin=U1-110
+Added Pin To Net: NetName=SD DAT3 Pin=U1-112
+Added Pin To Net: NetName=CAN1 RX Pin=U1-114
+Added Pin To Net: NetName=CAN1 TX Pin=U1-115
+Added Pin To Net: NetName=GND Pin=U1-120
+Added Pin To Net: NetName=3V3 Pin=U1-121
+Added Pin To Net: NetName=GND Pin=U1-130
+Added Pin To Net: NetName=3V3 Pin=U1-131
+Added Pin To Net: NetName=MCU JTDO Pin=U1-134
+Added Pin To Net: NetName=MCU BOOT0 Pin=U1-138
+Added Pin To Net: NetName=3V3 Pin=U1-143
+Added Pin To Net: NetName=3V3 Pin=U1-144
+Added Pin To Net: NetName=I2C1 SCL Pin=U1-136
+Added Net: Name=I2C1 SCL
+Added Pin To Net: NetName=I2C1 SDA Pin=U1-137
+Added Net: Name=I2C1 SDA
+Added Pin To Net: NetName=USART1 RX Pin=U1-102
+Added Net: Name=USART1 RX
+Added Pin To Net: NetName=USART1 TX Pin=U1-101
+Added Net: Name=USART1 TX
+Added Member To Class: ClassName=Micocontroller Member=Component U1 STM32F446ZC

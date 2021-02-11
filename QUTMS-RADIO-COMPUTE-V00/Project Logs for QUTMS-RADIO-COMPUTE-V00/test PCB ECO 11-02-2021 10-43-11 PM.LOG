@@ -1,0 +1,177 @@
+Removed Pin From Net: NetName=RTC Pin=U2-6
+Removed Pin From Net: NetName=OSC 32kHz Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-16
+Removed Pin From Net: NetName=3V3 Pin=U2-17
+Removed Pin From Net: NetName=OSC 8Mhz Pin=U2-23
+Removed Pin From Net: NetName=MCU RESET Pin=U2-25
+Removed Pin From Net: NetName=3V3 Pin=U2-30
+Removed Pin From Net: NetName=GND Pin=U2-31
+Removed Pin From Net: NetName=3V3A Pin=U2-32
+Removed Pin From Net: NetName=3V3A Pin=U2-33
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Pin From Net: NetName=3V3 Pin=U2-39
+Removed Pin From Net: NetName=SD DAT1 Pin=U2-46
+Removed Pin From Net: NetName=SD DAT2 Pin=U2-47
+Removed Pin From Net: NetName=SD CLK Pin=U2-48
+Removed Pin From Net: NetName=GND Pin=U2-51
+Removed Pin From Net: NetName=3V3 Pin=U2-52
+Removed Pin From Net: NetName=GND Pin=U2-61
+Removed Pin From Net: NetName=3V3 Pin=U2-62
+Removed Pin From Net: NetName=MCU VCAP1 Pin=U2-71
+Removed Pin From Net: NetName=3V3 Pin=U2-72
+Removed Pin From Net: NetName=CAN2 RX Pin=U2-73
+Removed Pin From Net: NetName=CAN2 TX Pin=U2-74
+Removed Pin From Net: NetName=GND Pin=U2-83
+Removed Pin From Net: NetName=3V3 Pin=U2-84
+Removed Pin From Net: NetName=GND Pin=U2-94
+Removed Pin From Net: NetName=3V3 Pin=U2-95
+Removed Pin From Net: NetName=SD DAT0 Pin=U2-98
+Removed Pin From Net: NetName=USART1 TX Pin=U2-101
+Removed Pin From Net: NetName=USART1 RX Pin=U2-102
+Removed Pin From Net: NetName=USB D_N Pin=U2-103
+Removed Pin From Net: NetName=USB D_P Pin=U2-104
+Removed Pin From Net: NetName=MCU JTMS Pin=U2-105
+Removed Pin From Net: NetName=MCU VCAP2 Pin=U2-106
+Removed Pin From Net: NetName=GND Pin=U2-107
+Removed Pin From Net: NetName=3V3 Pin=U2-108
+Removed Pin From Net: NetName=MCU JTCK Pin=U2-109
+Removed Pin From Net: NetName=MCU JTDI Pin=U2-110
+Removed Pin From Net: NetName=SD DAT3 Pin=U2-112
+Removed Pin From Net: NetName=CAN1 RX Pin=U2-114
+Removed Pin From Net: NetName=CAN1 TX Pin=U2-115
+Removed Pin From Net: NetName=GND Pin=U2-120
+Removed Pin From Net: NetName=3V3 Pin=U2-121
+Removed Pin From Net: NetName=GND Pin=U2-130
+Removed Pin From Net: NetName=3V3 Pin=U2-131
+Removed Pin From Net: NetName=MCU JTDO Pin=U2-134
+Removed Pin From Net: NetName=I2C1 SCL Pin=U2-136
+Removed Pin From Net: NetName=I2C1 SDA Pin=U2-137
+Removed Pin From Net: NetName=MCU BOOT0 Pin=U2-138
+Removed Pin From Net: NetName=3V3 Pin=U2-143
+Removed Pin From Net: NetName=3V3 Pin=U2-144
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=C11
+Removed Member From Class: ClassName=Power Supply Member=C15
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=C15
+Removed Member From Class: ClassName=Micocontroller Member=C25
+Removed Member From Class: ClassName=Micocontroller Member=C27
+Removed Member From Class: ClassName=Micocontroller Member=C31
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=C31
+Removed Member From Class: ClassName=Micocontroller Member=U2
+Added Component: Designator=TP5A(TestPointSMD)
+Added Component: Designator=TP5B(TestPointSMD)
+Added Component: Designator=TP6A(TestPointSMD)
+Added Component: Designator=TP6B(TestPointSMD)
+Added Component: Designator=TP7A(TestPointSMD)
+Added Component: Designator=TP7B(TestPointSMD)
+Added Component: Designator=TP8A(TestPointSMD)
+Added Component: Designator=TP8B(TestPointSMD)
+Added Component: Designator=U1(STM-LQFP144_V)
+Added Pin To Net: NetName=CAN2H Pin=TP5A-1
+Added Pin To Net: NetName=CAN1H Pin=TP5B-1
+Added Pin To Net: NetName=CAN2 TX Pin=TP6A-1
+Added Pin To Net: NetName=CAN1 TX Pin=TP6B-1
+Added Pin To Net: NetName=CAN2L Pin=TP7A-1
+Added Pin To Net: NetName=CAN1L Pin=TP7B-1
+Added Pin To Net: NetName=CAN2 RX Pin=TP8A-1
+Added Pin To Net: NetName=CAN1 RX Pin=TP8B-1
+Added Pin To Net: NetName=RTC Pin=U1-6
+Added Pin To Net: NetName=OSC 32kHz Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=3V3 Pin=U1-17
+Added Pin To Net: NetName=OSC 8Mhz Pin=U1-23
+Added Pin To Net: NetName=MCU RESET Pin=U1-25
+Added Pin To Net: NetName=3V3 Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=3V3A Pin=U1-32
+Added Pin To Net: NetName=3V3A Pin=U1-33
+Added Pin To Net: NetName=UART4 TX Pin=U1-34
+Added Pin To Net: NetName=UART4 RX Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Pin To Net: NetName=SPI1 SCK Pin=U1-41
+Added Pin To Net: NetName=SPI1 MISO Pin=U1-42
+Added Pin To Net: NetName=SPI1 MOSI Pin=U1-43
+Added Pin To Net: NetName=SD DAT1 Pin=U1-46
+Added Pin To Net: NetName=SD DAT2 Pin=U1-47
+Added Pin To Net: NetName=SD CLK Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=3V3 Pin=U1-52
+Added Pin To Net: NetName=UART5 RX Pin=U1-58
+Added Pin To Net: NetName=UART5 TX Pin=U1-59
+Added Pin To Net: NetName=GND Pin=U1-61
+Added Pin To Net: NetName=3V3 Pin=U1-62
+Added Pin To Net: NetName=I2C2 SCL Pin=U1-69
+Added Pin To Net: NetName=I2C2 SDA Pin=U1-70
+Added Pin To Net: NetName=MCU VCAP1 Pin=U1-71
+Added Pin To Net: NetName=3V3 Pin=U1-72
+Added Pin To Net: NetName=CAN2 RX Pin=U1-73
+Added Pin To Net: NetName=CAN2 TX Pin=U1-74
+Added Pin To Net: NetName=USART3 RTS Pin=U1-75
+Added Pin To Net: NetName=USART3 TX Pin=U1-77
+Added Pin To Net: NetName=USART3 RX Pin=U1-78
+Added Pin To Net: NetName=USART3 CTS Pin=U1-80
+Added Pin To Net: NetName=GND Pin=U1-83
+Added Pin To Net: NetName=3V3 Pin=U1-84
+Added Pin To Net: NetName=USART2 CTS Pin=U1-84
+Added Pin To Net: NetName=USART2 RTS Pin=U1-85
+Added Pin To Net: NetName=USART2 TX Pin=U1-86
+Added Pin To Net: NetName=USART2 RX Pin=U1-87
+Added Pin To Net: NetName=GND Pin=U1-94
+Added Pin To Net: NetName=3V3 Pin=U1-95
+Added Pin To Net: NetName=SD DAT0 Pin=U1-98
+Added Pin To Net: NetName=I2C3 SDA Pin=U1-99
+Added Pin To Net: NetName=I2C3 SCL Pin=U1-100
+Added Pin To Net: NetName=USART1 TX Pin=U1-101
+Added Pin To Net: NetName=USART1 RX Pin=U1-102
+Added Pin To Net: NetName=USB D_N Pin=U1-103
+Added Pin To Net: NetName=USB D_P Pin=U1-104
+Added Pin To Net: NetName=MCU JTMS Pin=U1-105
+Added Pin To Net: NetName=MCU VCAP2 Pin=U1-106
+Added Pin To Net: NetName=SD CMD Pin=U1-106
+Added Pin To Net: NetName=GND Pin=U1-107
+Added Pin To Net: NetName=3V3 Pin=U1-108
+Added Pin To Net: NetName=MCU JTCK Pin=U1-109
+Added Pin To Net: NetName=MCU JTDI Pin=U1-110
+Added Pin To Net: NetName=SD DAT3 Pin=U1-112
+Added Pin To Net: NetName=CAN1 RX Pin=U1-114
+Added Pin To Net: NetName=CAN1 TX Pin=U1-115
+Added Pin To Net: NetName=GND Pin=U1-120
+Added Pin To Net: NetName=3V3 Pin=U1-121
+Added Pin To Net: NetName=GND Pin=U1-130
+Added Pin To Net: NetName=3V3 Pin=U1-131
+Added Pin To Net: NetName=MCU JTDO Pin=U1-134
+Added Pin To Net: NetName=I2C1 SCL Pin=U1-136
+Added Pin To Net: NetName=I2C1 SDA Pin=U1-137
+Added Pin To Net: NetName=MCU BOOT0 Pin=U1-138
+Added Pin To Net: NetName=3V3 Pin=U1-143
+Added Pin To Net: NetName=3V3 Pin=U1-144
+Added Pin To Net: NetName=SPI4 CLK Pin=J7B-14
+Added Pin To Net: NetName=SPI4 CLK Pin=U1-65
+Added Net: Name=SPI4 CLK
+Added Pin To Net: NetName=SPI4 MISO Pin=J7B-18
+Added Pin To Net: NetName=SPI4 MISO Pin=U1-66
+Added Net: Name=SPI4 MISO
+Added Pin To Net: NetName=SPI4 MOSI Pin=J7B-16
+Added Pin To Net: NetName=SPI4 MOSI Pin=U1-67
+Added Net: Name=SPI4 MOSI
+Added Member To Class: ClassName=Micocontroller Member=Component C12 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C13 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C16 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C17 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C19 2u2
+Added Member To Class: ClassName=Micocontroller Member=Component C20 2u2
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C23 100nF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C24 4u7
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C26 100nF
+Added Member To Class: ClassName=Power Supply Member=Component C28 4u7
+Added Member To Class: ClassName=Power Supply Member=Component C30 22uF 35V
+Added Member To Class: ClassName=CANBUS1 Member=Component TP5A (TP5) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS2 Member=Component TP5B (TP5) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP6A (TP6) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS2 Member=Component TP6B (TP6) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP7A (TP7) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS2 Member=Component TP7B (TP7) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP8A (TP8) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS2 Member=Component TP8B (TP8) TestPoint_SMD
+Added Member To Class: ClassName=Micocontroller Member=Component U1 DSC1001DI1-008.0000T
+Added Member To Class: ClassName=Micocontroller Member=Component U1 STM32F446ZC
