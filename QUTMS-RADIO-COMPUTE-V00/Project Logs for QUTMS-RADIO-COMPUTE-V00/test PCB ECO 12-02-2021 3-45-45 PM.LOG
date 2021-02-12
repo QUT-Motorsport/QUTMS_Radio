@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=USART1 TX Pin=U1-101
+Removed Pin From Net: NetName=USART1 RX Pin=U1-102
+Removed Member From Class: ClassName=Connectors Member=C2
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=C28
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=D6
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=D11
+Removed Member From Class: ClassName=Power Supply Member=R10
+Change Component Comment : Designator=J3 Old Comment=JST PH 4x RIGHT COMB New Comment=JST PH 4x RIGHT SMD
+Change Component Comment : Designator=J8 Old Comment=JST PH 4x RIGHT COMB New Comment=JST PH 4x RIGHT SMD
+Added Component: Designator=R34(Res_ThinFilm_0603)
+Added Component: Designator=R35(Res_ThinFilm_0603)
+Added Component: Designator=TP1(TestPointHoop_BLACK)
+Added Component: Designator=TP2(TestPointHoop_RED)
+Added Component: Designator=TP3(TestPointHoop_RED)
+Added Component: Designator=TP4(TestPointHoop_RED)
+Added Component: Designator=TP5A(TestPointSMD)
+Added Component: Designator=TP6A(TestPointSMD)
+Added Component: Designator=TP7A(TestPointSMD)
+Added Component: Designator=TP8A(TestPointSMD)
+Added Pin To Net: NetName=I2C1 SCL Pin=D2-4
+Added Pin To Net: NetName=I2C1 SDA Pin=D2-5
+Added Pin To Net: NetName=USART1 TX Pin=R34-1
+Added Pin To Net: NetName=USART1 RX Pin=R35-1
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=3V3 Pin=TP2-1
+Added Pin To Net: NetName=VCC Pin=TP3-1
+Added Pin To Net: NetName=12V Pin=TP4-1
+Added Pin To Net: NetName=CAN2H Pin=TP5A-1
+Added Pin To Net: NetName=CAN2 TX Pin=TP6A-1
+Added Pin To Net: NetName=CAN2L Pin=TP7A-1
+Added Pin To Net: NetName=CAN2 RX Pin=TP8A-1
+Added Pin To Net: NetName=MCU VCAP2 Pin=U1-106
+Change Net Name : Old Net Name=USART1 RX New Net Name=USART1 RX P
+Change Net Name : Old Net Name=USART1 TX New Net Name=USART1 TX P
+Added Pin To Net: NetName=USART1 RX Pin=R35-2
+Added Pin To Net: NetName=USART1 RX Pin=U1-102
+Added Net: Name=USART1 RX
+Added Pin To Net: NetName=USART1 TX Pin=R34-2
+Added Pin To Net: NetName=USART1 TX Pin=U1-101
+Added Net: Name=USART1 TX
+Added Member To Class: ClassName=Connectors Member=Component C1 1uF
+Added Member To Class: ClassName=Micocontroller Member=Component C3 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C9 4u7
+Added Member To Class: ClassName=Micocontroller Member=Component C11 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C12 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C14 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C16 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C18 100nF
+Added Member To Class: ClassName=Micocontroller Member=Component C20 2u2
+Added Member To Class: ClassName=Card Module A Member=Component C22A (C22) 10uF 1206
+Added Member To Class: ClassName=Card Module B Member=Component C22B (C22) 10uF 1206
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C24 1uF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C26 1uF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C27 4u7
+Added Member To Class: ClassName=Power Supply Member=Component C29 4u7
+Added Member To Class: ClassName=Power Supply Member=Component C31 22uF 35V
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component D2 ESDS314
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component D3 PRTR5V0U4D
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component D4 ESDS314
+Added Member To Class: ClassName=Power Supply Member=Component D7 SMBJ15CA
+Added Member To Class: ClassName=Power Supply Member=Component D8 B260A-13-F
+Added Member To Class: ClassName=Power Supply Member=Component D9 B260A-13-F
+Added Member To Class: ClassName=Power Supply Member=Component D10 B260A-13-F
+Added Member To Class: ClassName=Power Supply Member=Component DS3 LED Green 0603
+Added Member To Class: ClassName=Power Supply Member=Component DS5 LED Red 0603
+Added Member To Class: ClassName=Power Supply Member=Component DS8 LED Green 0603
+Added Member To Class: ClassName=Connectors Member=Component J3 JST PH 4x RIGHT SMD
+Added Member To Class: ClassName=Micocontroller Member=Component R3 1k
+Added Member To Class: ClassName=Micocontroller Member=Component R4 10k
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R6 100R
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R7 100R
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R8 100R
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R9 100R
+Added Member To Class: ClassName=Power Supply Member=Component R12 2M2
+Added Member To Class: ClassName=Power Supply Member=Component R14 4k7
+Added Member To Class: ClassName=Power Supply Member=Component R15 4k7
+Added Member To Class: ClassName=Power Supply Member=Component R16 4k7
+Added Member To Class: ClassName=Power Supply Member=Component R20 220k
+Added Member To Class: ClassName=Power Supply Member=Component R22 150k
+Added Member To Class: ClassName=Power Supply Member=Component R24 1k
+Added Member To Class: ClassName=Power Supply Member=Component R26 1k
+Added Member To Class: ClassName=Power Supply Member=Component R28 1k
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R34 33R
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R35 33R
+Added Member To Class: ClassName=Power Supply Member=Component TP1 TestPoint_Hoop_Black
+Added Member To Class: ClassName=Power Supply Member=Component TP2 TestPoint_Hoop_Red
+Added Member To Class: ClassName=Power Supply Member=Component TP3 TestPoint_Hoop_Red
+Added Member To Class: ClassName=Power Supply Member=Component TP4 TestPoint_Hoop_Red
+Added Member To Class: ClassName=CANBUS1 Member=Component TP5A (TP5) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP6A (TP6) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP7A (TP7) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP8A (TP8) TestPoint_SMD
+Added Member To Class: ClassName=Micocontroller Member=Component U1 STM32F446ZC

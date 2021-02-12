@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SD CMD Pin=U1-106
+Added Pin To Net: NetName=SPI1 CS Pin=J7A-20
+Added Pin To Net: NetName=SPI1 CS Pin=U1-40
+Added Net: Name=SPI1 CS
+Added Pin To Net: NetName=SPI4 CS Pin=J7B-20
+Added Pin To Net: NetName=SPI4 CS Pin=U1-64
+Added Net: Name=SPI4 CS
+Added Member To Class: ClassName=Micocontroller Member=Component U1 DSC1001DI1-008.0000T

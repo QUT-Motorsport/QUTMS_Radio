@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=3V3 Pin=J7A-46
+Removed Pin From Net: NetName=GND Pin=J7A-48
+Removed Pin From Net: NetName=BACKUP Pin=J7A-49
+Removed Pin From Net: NetName=GND Pin=J7A-51
+Removed Pin From Net: NetName=3V3 Pin=J7A-52
+Removed Pin From Net: NetName=3V3 Pin=J7B-46
+Removed Pin From Net: NetName=GND Pin=J7B-48
+Removed Pin From Net: NetName=BACKUP Pin=J7B-49
+Removed Pin From Net: NetName=GND Pin=J7B-51
+Removed Pin From Net: NetName=3V3 Pin=J7B-52
+Removed Pin From Net: NetName=GND Pin=R5A-1
+Removed Pin From Net: NetName=GND Pin=R5B-1
+Removed Pin From Net: NetName=USART2 RTS Pin=U1-85
+Removed Pin From Net: NetName=USART2 TX Pin=U1-86
+Removed Pin From Net: NetName=USART2 RX Pin=U1-87
+Removed Member From Class: ClassName=Card Module A Member=R5A
+Removed Member From Class: ClassName=Card Module B Member=R5B
+Added Pin To Net: NetName=GND Pin=J7A-49
+Added Pin To Net: NetName=BACKUP Pin=J7A-51
+Added Pin To Net: NetName=GND Pin=J7A-52
+Added Pin To Net: NetName=GND Pin=J7B-49
+Added Pin To Net: NetName=BACKUP Pin=J7B-51
+Added Pin To Net: NetName=GND Pin=J7B-52
+Added Pin To Net: NetName=SD CMD Pin=U1-106
+Added Pin To Net: NetName=USART2 CTS Pin=U1-117
+Added Pin To Net: NetName=USART2 RTS Pin=U1-118
+Added Pin To Net: NetName=USART2 TX Pin=U1-119
+Added Pin To Net: NetName=USART2 RX Pin=U1-122
+Added Pin To Net: NetName=DET A0 Pin=J7A-46
+Added Pin To Net: NetName=DET A0 Pin=U1-1
+Added Net: Name=DET A0
+Added Pin To Net: NetName=DET A1 Pin=J7A-47
+Added Pin To Net: NetName=DET A1 Pin=U1-2
+Added Net: Name=DET A1
+Added Pin To Net: NetName=DET A2 Pin=J7A-48
+Added Pin To Net: NetName=DET A2 Pin=U1-3
+Added Net: Name=DET A2
+Added Pin To Net: NetName=DET B0 Pin=J7B-46
+Added Pin To Net: NetName=DET B0 Pin=U1-1
+Added Net: Name=DET B0
+Added Pin To Net: NetName=DET B2 Pin=J7B-47
+Added Pin To Net: NetName=DET B2 Pin=U1-2
+Added Net: Name=DET B2
+Added Pin To Net: NetName=DET B3 Pin=J7B-48
+Added Pin To Net: NetName=DET B3 Pin=U1-3
+Added Net: Name=DET B3
+Added Pin To Net: NetName=MODULE A1 Pin=J7B-26
+Added Pin To Net: NetName=MODULE A1 Pin=U1-4
+Added Net: Name=MODULE A1
+Added Pin To Net: NetName=MODULE A2 Pin=J7B-28
+Added Pin To Net: NetName=MODULE A2 Pin=U1-5
+Added Net: Name=MODULE A2
+Added Pin To Net: NetName=MODULE A3 Pin=J7B-30
+Added Pin To Net: NetName=MODULE A3 Pin=U1-6
+Added Net: Name=MODULE A3
+Added Pin To Net: NetName=MODULE A4 Pin=J7B-32
+Added Pin To Net: NetName=MODULE A4 Pin=U1-7
+Added Net: Name=MODULE A4
+Added Pin To Net: NetName=MODULE A5 Pin=J7B-34
+Added Pin To Net: NetName=MODULE A5 Pin=U1-8
+Added Net: Name=MODULE A5
+Added Pin To Net: NetName=MODULE A6 Pin=J7B-36
+Added Pin To Net: NetName=MODULE A6 Pin=U1-9
+Added Net: Name=MODULE A6
+Added Pin To Net: NetName=MODULE A7 Pin=J7B-38
+Added Pin To Net: NetName=MODULE A7 Pin=U1-10
+Added Net: Name=MODULE A7
+Added Pin To Net: NetName=MODULE A8 Pin=J7B-40
+Added Pin To Net: NetName=MODULE A8 Pin=U1-11
+Added Net: Name=MODULE A8
+Added Pin To Net: NetName=MODULE A9 Pin=J7B-42
+Added Pin To Net: NetName=MODULE A9 Pin=U1-12
+Added Net: Name=MODULE A9
+Added Pin To Net: NetName=MODULE A10 Pin=J7B-44
+Added Pin To Net: NetName=MODULE A10 Pin=U1-13
+Added Net: Name=MODULE A10
+Added Pin To Net: NetName=MODULE B1 Pin=J7A-26
+Added Pin To Net: NetName=MODULE B1 Pin=U1-4
+Added Net: Name=MODULE B1
+Added Pin To Net: NetName=MODULE B2 Pin=J7A-28
+Added Pin To Net: NetName=MODULE B2 Pin=U1-5
+Added Net: Name=MODULE B2
+Added Pin To Net: NetName=MODULE B3 Pin=J7A-30
+Added Pin To Net: NetName=MODULE B3 Pin=U1-6
+Added Net: Name=MODULE B3
+Added Pin To Net: NetName=MODULE B4 Pin=J7A-32
+Added Pin To Net: NetName=MODULE B4 Pin=U1-7
+Added Net: Name=MODULE B4
+Added Pin To Net: NetName=MODULE B5 Pin=J7A-34
+Added Pin To Net: NetName=MODULE B5 Pin=U1-8
+Added Net: Name=MODULE B5
+Added Pin To Net: NetName=MODULE B6 Pin=J7A-36
+Added Pin To Net: NetName=MODULE B6 Pin=U1-9
+Added Net: Name=MODULE B6
+Added Pin To Net: NetName=MODULE B7 Pin=J7A-38
+Added Pin To Net: NetName=MODULE B7 Pin=U1-10
+Added Net: Name=MODULE B7
+Added Pin To Net: NetName=MODULE B8 Pin=J7A-40
+Added Pin To Net: NetName=MODULE B8 Pin=U1-11
+Added Net: Name=MODULE B8
+Added Pin To Net: NetName=MODULE B9 Pin=J7A-42
+Added Pin To Net: NetName=MODULE B9 Pin=U1-12
+Added Net: Name=MODULE B9
+Added Pin To Net: NetName=MODULE B10 Pin=J7A-44
+Added Pin To Net: NetName=MODULE B10 Pin=U1-13
+Added Net: Name=MODULE B10
+Added Member To Class: ClassName=Micocontroller Member=Component U1 DSC1001DI1-008.0000T

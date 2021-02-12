@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=PWESUPPLY Member=3V3
+Removed Member From Class: ClassName=PWESUPPLY Member=3V3 LED
+Removed Member From Class: ClassName=PWESUPPLY Member=12V LED
+Removed Member From Class: ClassName=PWESUPPLY Member=12VP LED
+Removed Member From Class: ClassName=PWESUPPLY Member=BACKUP
+Removed Member From Class: ClassName=PWESUPPLY Member=GND
+Removed Member From Class: ClassName=PWESUPPLY Member=NetD4_A
+Removed Member From Class: ClassName=PWESUPPLY Member=NetR23_2
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR CLMODE
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR EN 12V
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR FB 3V3
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR FLAG
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR LED FLAG
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR LED UVOV
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR OVLO
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR SENSE
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR SENSE R
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR SETI
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR UVLO
+Removed Member From Class: ClassName=PWESUPPLY Member=PWR UVOV
+Removed Member From Class: ClassName=PWESUPPLY Member=RTC
+Removed Member From Class: ClassName=PWESUPPLY Member=VUSB LED
+Added Component: Designator=C33(Cap_Ceramic_0603)
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=VUSB Pin=C33-2
+Added Pin To Net: NetName=MCU VCAP2 Pin=U1-106
+Added Member To Class: ClassName=Connectors Member=Component C33 1uF
+Added Member To Class: ClassName=Micocontroller Member=Component U1 DSC1001DI1-008.0000T
