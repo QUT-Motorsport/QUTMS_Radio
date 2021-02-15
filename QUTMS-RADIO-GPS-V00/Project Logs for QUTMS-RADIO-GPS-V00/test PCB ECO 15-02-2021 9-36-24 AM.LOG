@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=USB D_N Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=USB D_P Pin=D1-3
+Removed Pin From Net: NetName=USB D_P Pin=D1-4
+Removed Pin From Net: NetName=VBUS Pin=D1-5
+Removed Pin From Net: NetName=USB D_N Pin=D1-6
+Removed Pin From Net: NetName=GND Pin=J2-A1
+Removed Pin From Net: NetName=GND Pin=J2-A12
+Removed Pin From Net: NetName=GND Pin=J2-B1
+Removed Pin From Net: NetName=GND Pin=J2-B12
+Removed Pin From Net: NetName=GND Pin=J2-S1
+Removed Pin From Net: NetName=GND Pin=J2-S2
+Removed Pin From Net: NetName=GND Pin=J2-S3
+Removed Pin From Net: NetName=GND Pin=J2-S4
+Removed Pin From Net: NetName=N3V3 Pin=J3-9
+Removed Pin From Net: NetName=NGND Pin=J3-10
+Removed Pin From Net: NetName=BACKUP Pin=J3-12
+Removed Pin From Net: NetName=N3V3 Pin=J4-9
+Removed Pin From Net: NetName=NGND Pin=J4-10
+Removed Pin From Net: NetName=BACKUP Pin=J4-12
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=GND Pin=R30-1
+Added Component: Designator=D?(SC-47)
+Added Pin To Net: NetName=USB D_N Pin=D?-1
+Added Pin To Net: NetName=NGND Pin=D?-2
+Added Pin To Net: NetName=USB D_P Pin=D?-3
+Added Pin To Net: NetName=USB D_P Pin=D?-4
+Added Pin To Net: NetName=VBUS Pin=D?-5
+Added Pin To Net: NetName=USB D_N Pin=D?-6
+Added Pin To Net: NetName=NGND Pin=J2-A1
+Added Pin To Net: NetName=NGND Pin=J2-A12
+Added Pin To Net: NetName=NGND Pin=J2-B1
+Added Pin To Net: NetName=NGND Pin=J2-B12
+Added Pin To Net: NetName=NGND Pin=J2-S1
+Added Pin To Net: NetName=NGND Pin=J2-S2
+Added Pin To Net: NetName=NGND Pin=J2-S3
+Added Pin To Net: NetName=NGND Pin=J2-S4
+Added Pin To Net: NetName=NGND Pin=J3-9
+Added Pin To Net: NetName=BACKUP Pin=J3-10
+Added Pin To Net: NetName=NGND Pin=J3-12
+Added Pin To Net: NetName=N3V3 Pin=J3-14
+Added Pin To Net: NetName=N3V3 Pin=J3-15
+Added Pin To Net: NetName=CON EXTINT Pin=J3-25
+Added Pin To Net: NetName=CON SAFEBOOT Pin=J3-27
+Added Pin To Net: NetName=CON TIMEPULSE Pin=J3-29
+Added Pin To Net: NetName=CON RTK STAT Pin=J3-31
+Added Pin To Net: NetName=CON TX READY Pin=J3-33
+Added Pin To Net: NetName=CON GEOFENCE Pin=J3-35
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=J3-37
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=J3-39
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=J3-41
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=J3-43
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=J3-45
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=J3-47
+Added Pin To Net: NetName=CON TXD2 Pin=J3-49
+Added Pin To Net: NetName=CON RXD2 Pin=J3-51
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=J3-57
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=J3-59
+Added Pin To Net: NetName=NGND Pin=J4-9
+Added Pin To Net: NetName=BACKUP Pin=J4-10
+Added Pin To Net: NetName=NGND Pin=J4-12
+Added Pin To Net: NetName=N3V3 Pin=J4-14
+Added Pin To Net: NetName=N3V3 Pin=J4-15
+Added Pin To Net: NetName=CON EXTINT Pin=J4-25
+Added Pin To Net: NetName=CON SAFEBOOT Pin=J4-27
+Added Pin To Net: NetName=CON TIMEPULSE Pin=J4-29
+Added Pin To Net: NetName=CON RTK STAT Pin=J4-31
+Added Pin To Net: NetName=CON TX READY Pin=J4-33
+Added Pin To Net: NetName=CON GEOFENCE Pin=J4-35
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=J4-37
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=J4-39
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=J4-41
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=J4-43
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=J4-45
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=J4-47
+Added Pin To Net: NetName=CON TXD2 Pin=J4-49
+Added Pin To Net: NetName=CON RXD2 Pin=J4-51
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=J4-57
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=J4-59
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=J5-1
+Added Pin To Net: NetName=N3V3 Pin=J5-2
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=J5-3
+Added Pin To Net: NetName=USB3V3 Pin=J5-4
+Added Pin To Net: NetName=3V3 Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J5-8
+Added Pin To Net: NetName=CON TXD2 Pin=J5-9
+Added Pin To Net: NetName=CON TIMEPULSE Pin=J5-10
+Added Pin To Net: NetName=CON RXD2 Pin=J5-11
+Added Pin To Net: NetName=CON RTK STAT Pin=J5-12
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=J5-13
+Added Pin To Net: NetName=CON GEOFENCE Pin=J5-14
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=J5-15
+Added Pin To Net: NetName=CON TX READY Pin=J5-16
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=J5-17
+Added Pin To Net: NetName=CON EXTINT Pin=J5-18
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=J5-19
+Added Pin To Net: NetName=CON SAFEBOOT Pin=J5-20
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=J5-21
+Added Pin To Net: NetName=GND Pin=J5-22
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=J5-23
+Added Pin To Net: NetName=GND Pin=J5-24
+Added Pin To Net: NetName=GND Pin=J5-26
+Added Pin To Net: NetName=GND Pin=J5-26
+Added Pin To Net: NetName=NGND Pin=R29-1
+Added Pin To Net: NetName=NGND Pin=R30-1
