@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for QUTMS-RADIO-M2M-V00
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -992,7 +992,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MRVLXOXT
 
 [Document57]
-DocumentPath=test.PcbDoc
+DocumentPath=RADM-B00-V00.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1174,7 +1174,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for QUTMS-RADIO-M2M-V00
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1285,7 +1285,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=\\QUTPRINTGP\students_col
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -2106,6 +2106,7 @@ Net4=NetName=N3V3|NetColor=$00336699
 Net5=NetName=NetC8_2|NetColor=$00FF6EFF
 Net6=NetName=U3V3|NetColor=$00336699
 Net7=NetName=VUSB|NetColor=$00FF6EFF
+Net8=NetName=VUSBF|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

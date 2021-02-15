@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for QUTMS-RADIO-COMPUTE-V00
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -601,7 +601,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=test.PcbDoc
+DocumentPath=RADC-B00-V00.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -768,7 +768,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YRXSDHRP
 
 [Document44]
 DocumentPath=QUTMS_LogicLibrary.SchLib
@@ -1259,7 +1259,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for QUTMS-RADIO-COMPUTE-V00
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1370,7 +1370,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\QUTPRINTGP\students
+TargetPrinter=\\QUTPRINTGP\students_col
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -2207,219 +2207,222 @@ Net20=NetName=CAN2.TX|NetColor=$00FFFF6E
 Net21=NetName=DET A0|NetColor=$0000BE00
 Net22=NetName=DET A1|NetColor=$0000BE00
 Net23=NetName=DET A2|NetColor=$0000BE00
-Net24=NetName=DET B0|NetColor=$0000BE00
-Net25=NetName=DET B2|NetColor=$0000BE00
-Net26=NetName=DET B3|NetColor=$0000BE00
-Net27=NetName=DETECT A.DET0|NetColor=$0000BE00
-Net28=NetName=DETECT A.DET1|NetColor=$0000BE00
-Net29=NetName=DETECT A.DET2|NetColor=$0000BE00
-Net30=NetName=DETECT B.DET0|NetColor=$0000BE00
-Net31=NetName=DETECT B.DET1|NetColor=$0000BE00
-Net32=NetName=DETECT B.DET2|NetColor=$0000BE00
-Net33=NetName=I2C1|NetColor=$00FFFF6E
-Net34=NetName=I2C1 SCL|NetColor=$00FFFF6E
-Net35=NetName=I2C1 SDA|NetColor=$00FFFF6E
-Net36=NetName=I2C2 SCL|NetColor=$006EFF6E
-Net37=NetName=I2C2 SDA|NetColor=$006EFF6E
-Net38=NetName=I2C2.SCL|NetColor=$006EFF6E
-Net39=NetName=I2C2.SDA|NetColor=$006EFF6E
-Net40=NetName=I2C3 SCL|NetColor=$006EFF6E
-Net41=NetName=I2C3 SDA|NetColor=$006EFF6E
-Net42=NetName=I2C3.SCL|NetColor=$006EFF6E
-Net43=NetName=I2C3.SDA|NetColor=$006EFF6E
-Net44=NetName=MCU JTCK|NetColor=clYellow
-Net45=NetName=MCU JTDI|NetColor=clYellow
-Net46=NetName=MCU JTDO|NetColor=clYellow
-Net47=NetName=MCU JTMS|NetColor=clYellow
-Net48=NetName=MCU LED A|NetColor=$00FFFF6E
-Net49=NetName=MCU LED B|NetColor=$00FFFF6E
-Net50=NetName=MCU LED C|NetColor=$00FFFF6E
-Net51=NetName=MCU RESET|NetColor=clYellow
-Net52=NetName=MODULE A.0|NetColor=$0000BE00
-Net53=NetName=MODULE A.1|NetColor=$0000BE00
-Net54=NetName=MODULE A.2|NetColor=$0000BE00
-Net55=NetName=MODULE A.3|NetColor=$0000BE00
-Net56=NetName=MODULE A.4|NetColor=$0000BE00
-Net57=NetName=MODULE A.5|NetColor=$0000BE00
-Net58=NetName=MODULE A.6|NetColor=$0000BE00
-Net59=NetName=MODULE A.7|NetColor=$0000BE00
-Net60=NetName=MODULE A.8|NetColor=$0000BE00
-Net61=NetName=MODULE A.9|NetColor=$0000BE00
-Net62=NetName=MODULE A1|NetColor=$0000BE00
-Net63=NetName=MODULE A10|NetColor=$0000BE00
-Net64=NetName=MODULE A2|NetColor=$0000BE00
-Net65=NetName=MODULE A3|NetColor=$0000BE00
-Net66=NetName=MODULE A4|NetColor=$0000BE00
-Net67=NetName=MODULE A5|NetColor=$0000BE00
-Net68=NetName=MODULE A6|NetColor=$0000BE00
-Net69=NetName=MODULE A7|NetColor=$0000BE00
-Net70=NetName=MODULE A8|NetColor=$0000BE00
-Net71=NetName=MODULE A9|NetColor=$0000BE00
-Net72=NetName=MODULE B.0|NetColor=$0000BE00
-Net73=NetName=MODULE B.1|NetColor=$0000BE00
-Net74=NetName=MODULE B.2|NetColor=$0000BE00
-Net75=NetName=MODULE B.3|NetColor=$0000BE00
-Net76=NetName=MODULE B.4|NetColor=$0000BE00
-Net77=NetName=MODULE B.5|NetColor=$0000BE00
-Net78=NetName=MODULE B.6|NetColor=$0000BE00
-Net79=NetName=MODULE B.7|NetColor=$0000BE00
-Net80=NetName=MODULE B.8|NetColor=$0000BE00
-Net81=NetName=MODULE B.9|NetColor=$0000BE00
-Net82=NetName=MODULE B1|NetColor=$0000BE00
-Net83=NetName=MODULE B10|NetColor=$0000BE00
-Net84=NetName=MODULE B2|NetColor=$0000BE00
-Net85=NetName=MODULE B3|NetColor=$0000BE00
-Net86=NetName=MODULE B4|NetColor=$0000BE00
-Net87=NetName=MODULE B5|NetColor=$0000BE00
-Net88=NetName=MODULE B6|NetColor=$0000BE00
-Net89=NetName=MODULE B7|NetColor=$0000BE00
-Net90=NetName=MODULE B8|NetColor=$0000BE00
-Net91=NetName=MODULE B9|NetColor=$0000BE00
-Net92=NetName=NetJ7_10|NetColor=$006EFF6E
-Net93=NetName=NetJ7_12|NetColor=$006EFF6E
-Net94=NetName=NetJ7_14|NetColor=$006EFF6E
-Net95=NetName=NetJ7_16|NetColor=$006EFF6E
-Net96=NetName=NetJ7_18|NetColor=$006EFF6E
-Net97=NetName=NetJ7_2|NetColor=$006EFF6E
-Net98=NetName=NetJ7_20|NetColor=$006EFF6E
-Net99=NetName=NetJ7_22|NetColor=$006EFF6E
-Net100=NetName=NetJ7_24|NetColor=$006EFF6E
-Net101=NetName=NetJ7_26|NetColor=$0000BE00
-Net102=NetName=NetJ7_28|NetColor=$0000BE00
-Net103=NetName=NetJ7_30|NetColor=$0000BE00
-Net104=NetName=NetJ7_32|NetColor=$0000BE00
-Net105=NetName=NetJ7_34|NetColor=$0000BE00
-Net106=NetName=NetJ7_36|NetColor=$0000BE00
-Net107=NetName=NetJ7_38|NetColor=$0000BE00
-Net108=NetName=NetJ7_4|NetColor=$006EFF6E
-Net109=NetName=NetJ7_40|NetColor=$0000BE00
-Net110=NetName=NetJ7_42|NetColor=$0000BE00
-Net111=NetName=NetJ7_44|NetColor=$0000BE00
-Net112=NetName=NetJ7_46|NetColor=$0000BE00
-Net113=NetName=NetJ7_47|NetColor=$0000BE00
-Net114=NetName=NetJ7_48|NetColor=$0000BE00
-Net115=NetName=NetJ7_6|NetColor=$006EFF6E
-Net116=NetName=NetJ7_8|NetColor=$006EFF6E
-Net117=NetName=NetJ7A_10|NetColor=$006EFF6E
-Net118=NetName=NetJ7A_12|NetColor=$006EFF6E
-Net119=NetName=NetJ7A_14|NetColor=$006EFF6E
-Net120=NetName=NetJ7A_16|NetColor=$006EFF6E
-Net121=NetName=NetJ7A_18|NetColor=$006EFF6E
-Net122=NetName=NetJ7A_2|NetColor=$006EFF6E
-Net123=NetName=NetJ7A_20|NetColor=$006EFF6E
-Net124=NetName=NetJ7A_22|NetColor=$006EFF6E
-Net125=NetName=NetJ7A_24|NetColor=$006EFF6E
-Net126=NetName=NetJ7A_26|NetColor=$0000BE00
-Net127=NetName=NetJ7A_28|NetColor=$0000BE00
-Net128=NetName=NetJ7A_30|NetColor=$0000BE00
-Net129=NetName=NetJ7A_32|NetColor=$0000BE00
-Net130=NetName=NetJ7A_34|NetColor=$0000BE00
-Net131=NetName=NetJ7A_36|NetColor=$0000BE00
-Net132=NetName=NetJ7A_38|NetColor=$0000BE00
-Net133=NetName=NetJ7A_4|NetColor=$006EFF6E
-Net134=NetName=NetJ7A_40|NetColor=$0000BE00
-Net135=NetName=NetJ7A_42|NetColor=$0000BE00
-Net136=NetName=NetJ7A_44|NetColor=$0000BE00
-Net137=NetName=NetJ7A_46|NetColor=$0000BE00
-Net138=NetName=NetJ7A_47|NetColor=$0000BE00
-Net139=NetName=NetJ7A_48|NetColor=$0000BE00
-Net140=NetName=NetJ7A_6|NetColor=$006EFF6E
-Net141=NetName=NetJ7A_8|NetColor=$006EFF6E
-Net142=NetName=NetJ7B_10|NetColor=$006EFF6E
-Net143=NetName=NetJ7B_12|NetColor=$006EFF6E
-Net144=NetName=NetJ7B_14|NetColor=$006EFF6E
-Net145=NetName=NetJ7B_16|NetColor=$006EFF6E
-Net146=NetName=NetJ7B_18|NetColor=$006EFF6E
-Net147=NetName=NetJ7B_2|NetColor=$006EFF6E
-Net148=NetName=NetJ7B_20|NetColor=$006EFF6E
-Net149=NetName=NetJ7B_22|NetColor=$006EFF6E
-Net150=NetName=NetJ7B_24|NetColor=$006EFF6E
-Net151=NetName=NetJ7B_26|NetColor=$0000BE00
-Net152=NetName=NetJ7B_28|NetColor=$0000BE00
-Net153=NetName=NetJ7B_30|NetColor=$0000BE00
-Net154=NetName=NetJ7B_32|NetColor=$0000BE00
-Net155=NetName=NetJ7B_34|NetColor=$0000BE00
-Net156=NetName=NetJ7B_36|NetColor=$0000BE00
-Net157=NetName=NetJ7B_38|NetColor=$0000BE00
-Net158=NetName=NetJ7B_4|NetColor=$006EFF6E
-Net159=NetName=NetJ7B_40|NetColor=$0000BE00
-Net160=NetName=NetJ7B_42|NetColor=$0000BE00
-Net161=NetName=NetJ7B_44|NetColor=$0000BE00
-Net162=NetName=NetJ7B_46|NetColor=$0000BE00
-Net163=NetName=NetJ7B_47|NetColor=$0000BE00
-Net164=NetName=NetJ7B_48|NetColor=$0000BE00
-Net165=NetName=NetJ7B_6|NetColor=$006EFF6E
-Net166=NetName=NetJ7B_8|NetColor=$006EFF6E
-Net167=NetName=OSC 32kHz|NetColor=clYellow
-Net168=NetName=OSC 8Mhz|NetColor=clYellow
-Net169=NetName=RTC|NetColor=$000099FF
-Net170=NetName=SD CLK|NetColor=$00FFFF6E
-Net171=NetName=SD CMD|NetColor=$00FFFF6E
-Net172=NetName=SD DAT0|NetColor=$00FFFF6E
-Net173=NetName=SD DAT1|NetColor=$00FFFF6E
-Net174=NetName=SD DAT2|NetColor=$00FFFF6E
-Net175=NetName=SD DAT3|NetColor=$00FFFF6E
-Net176=NetName=SD.SD CLK|NetColor=$00FFFF6E
-Net177=NetName=SD.SD CMD|NetColor=$00FFFF6E
-Net178=NetName=SD.SD DAT0|NetColor=$00FFFF6E
-Net179=NetName=SD.SD DAT1|NetColor=$00FFFF6E
-Net180=NetName=SD.SD DAT2|NetColor=$00FFFF6E
-Net181=NetName=SD.SD DAT3|NetColor=$00FFFF6E
-Net182=NetName=SPI1 CS|NetColor=$006EFF6E
-Net183=NetName=SPI1 MISO|NetColor=$006EFF6E
-Net184=NetName=SPI1 MOSI|NetColor=$006EFF6E
-Net185=NetName=SPI1 SCK|NetColor=$006EFF6E
-Net186=NetName=SPI1.CLK|NetColor=$006EFF6E
-Net187=NetName=SPI1.CS|NetColor=$006EFF6E
-Net188=NetName=SPI1.MISO|NetColor=$006EFF6E
-Net189=NetName=SPI1.MOSI|NetColor=$006EFF6E
-Net190=NetName=SPI2 CLK|NetColor=$006EFF6E
-Net191=NetName=SPI2 MISO|NetColor=$006EFF6E
-Net192=NetName=SPI2 MOSI|NetColor=$006EFF6E
-Net193=NetName=SPI2.CLK|NetColor=$006EFF6E
-Net194=NetName=SPI2.MISO|NetColor=$006EFF6E
-Net195=NetName=SPI2.MOSI|NetColor=$006EFF6E
-Net196=NetName=SPI4 CLK|NetColor=$006EFF6E
-Net197=NetName=SPI4 CS|NetColor=$006EFF6E
-Net198=NetName=SPI4 MISO|NetColor=$006EFF6E
-Net199=NetName=SPI4 MOSI|NetColor=$006EFF6E
-Net200=NetName=SPI4.CS|NetColor=$006EFF6E
-Net201=NetName=UART1|NetColor=$00FFFF6E
-Net202=NetName=UART4 RX|NetColor=$006EFF6E
-Net203=NetName=UART4 TX|NetColor=$006EFF6E
-Net204=NetName=UART4.RX|NetColor=$006EFF6E
-Net205=NetName=UART4.TX|NetColor=$006EFF6E
-Net206=NetName=UART5 RX|NetColor=$006EFF6E
-Net207=NetName=UART5 TX|NetColor=$006EFF6E
-Net208=NetName=UART5.RX|NetColor=$006EFF6E
-Net209=NetName=UART5.TX|NetColor=$006EFF6E
-Net210=NetName=USART1 RX|NetColor=$00FFFF6E
-Net211=NetName=USART1 RX P|NetColor=$00FFFF6E
-Net212=NetName=USART1 TX|NetColor=$00FFFF6E
-Net213=NetName=USART1 TX P|NetColor=$00FFFF6E
-Net214=NetName=USART2 CTS|NetColor=$006EFF6E
-Net215=NetName=USART2 RTS|NetColor=$006EFF6E
-Net216=NetName=USART2 RX|NetColor=$006EFF6E
-Net217=NetName=USART2 TX|NetColor=$006EFF6E
-Net218=NetName=USART2.CTS|NetColor=$006EFF6E
-Net219=NetName=USART2.RTS|NetColor=$006EFF6E
-Net220=NetName=USART2.RX|NetColor=$006EFF6E
-Net221=NetName=USART2.TX|NetColor=$006EFF6E
-Net222=NetName=USART3 CTS|NetColor=$006EFF6E
-Net223=NetName=USART3 RTS|NetColor=$006EFF6E
-Net224=NetName=USART3 RX|NetColor=$006EFF6E
-Net225=NetName=USART3 TX|NetColor=$006EFF6E
-Net226=NetName=USART3.CTS|NetColor=$006EFF6E
-Net227=NetName=USART3.RTS|NetColor=$006EFF6E
-Net228=NetName=USART3.RX|NetColor=$006EFF6E
-Net229=NetName=USART3.TX|NetColor=$006EFF6E
-Net230=NetName=USB D_N|NetColor=clYellow
-Net231=NetName=USB D_P|NetColor=clYellow
-Net232=NetName=USB.USB D_N|NetColor=clYellow
-Net233=NetName=USB.USB D_P|NetColor=clYellow
-Net234=NetName=VCC|NetColor=$00FF6EFF
-Net235=NetName=VUSB|NetColor=$00336699
-Net236=NetName=VUSBF|NetColor=$00336699
+Net24=NetName=DET A3|NetColor=$0000BE00
+Net25=NetName=DET B0|NetColor=$0000BE00
+Net26=NetName=DET B1|NetColor=$0000BE00
+Net27=NetName=DET B2|NetColor=$0000BE00
+Net28=NetName=DET B3|NetColor=$0000BE00
+Net29=NetName=DETECT A.DET0|NetColor=$0000BE00
+Net30=NetName=DETECT A.DET1|NetColor=$0000BE00
+Net31=NetName=DETECT A.DET2|NetColor=$0000BE00
+Net32=NetName=DETECT A.DET3|NetColor=$0000BE00
+Net33=NetName=DETECT B.DET0|NetColor=$0000BE00
+Net34=NetName=DETECT B.DET1|NetColor=$0000BE00
+Net35=NetName=DETECT B.DET2|NetColor=$0000BE00
+Net36=NetName=I2C1|NetColor=$00FFFF6E
+Net37=NetName=I2C1 SCL|NetColor=$00FFFF6E
+Net38=NetName=I2C1 SDA|NetColor=$00FFFF6E
+Net39=NetName=I2C2 SCL|NetColor=$006EFF6E
+Net40=NetName=I2C2 SDA|NetColor=$006EFF6E
+Net41=NetName=I2C2.SCL|NetColor=$006EFF6E
+Net42=NetName=I2C2.SDA|NetColor=$006EFF6E
+Net43=NetName=I2C3 SCL|NetColor=$006EFF6E
+Net44=NetName=I2C3 SDA|NetColor=$006EFF6E
+Net45=NetName=I2C3.SCL|NetColor=$006EFF6E
+Net46=NetName=I2C3.SDA|NetColor=$006EFF6E
+Net47=NetName=MCU JTCK|NetColor=clYellow
+Net48=NetName=MCU JTDI|NetColor=clYellow
+Net49=NetName=MCU JTDO|NetColor=clYellow
+Net50=NetName=MCU JTMS|NetColor=clYellow
+Net51=NetName=MCU LED A|NetColor=$00FFFF6E
+Net52=NetName=MCU LED B|NetColor=$00FFFF6E
+Net53=NetName=MCU LED C|NetColor=$00FFFF6E
+Net54=NetName=MCU RESET|NetColor=clYellow
+Net55=NetName=MODULE A.0|NetColor=$0000BE00
+Net56=NetName=MODULE A.1|NetColor=$0000BE00
+Net57=NetName=MODULE A.2|NetColor=$0000BE00
+Net58=NetName=MODULE A.3|NetColor=$0000BE00
+Net59=NetName=MODULE A.4|NetColor=$0000BE00
+Net60=NetName=MODULE A.5|NetColor=$0000BE00
+Net61=NetName=MODULE A.6|NetColor=$0000BE00
+Net62=NetName=MODULE A.7|NetColor=$0000BE00
+Net63=NetName=MODULE A.8|NetColor=$0000BE00
+Net64=NetName=MODULE A.9|NetColor=$0000BE00
+Net65=NetName=MODULE A1|NetColor=$0000BE00
+Net66=NetName=MODULE A10|NetColor=$0000BE00
+Net67=NetName=MODULE A2|NetColor=$0000BE00
+Net68=NetName=MODULE A3|NetColor=$0000BE00
+Net69=NetName=MODULE A4|NetColor=$0000BE00
+Net70=NetName=MODULE A5|NetColor=$0000BE00
+Net71=NetName=MODULE A6|NetColor=$0000BE00
+Net72=NetName=MODULE A7|NetColor=$0000BE00
+Net73=NetName=MODULE A8|NetColor=$0000BE00
+Net74=NetName=MODULE A9|NetColor=$0000BE00
+Net75=NetName=MODULE B.0|NetColor=$0000BE00
+Net76=NetName=MODULE B.1|NetColor=$0000BE00
+Net77=NetName=MODULE B.2|NetColor=$0000BE00
+Net78=NetName=MODULE B.3|NetColor=$0000BE00
+Net79=NetName=MODULE B.4|NetColor=$0000BE00
+Net80=NetName=MODULE B.5|NetColor=$0000BE00
+Net81=NetName=MODULE B.6|NetColor=$0000BE00
+Net82=NetName=MODULE B.7|NetColor=$0000BE00
+Net83=NetName=MODULE B.8|NetColor=$0000BE00
+Net84=NetName=MODULE B.9|NetColor=$0000BE00
+Net85=NetName=MODULE B1|NetColor=$0000BE00
+Net86=NetName=MODULE B10|NetColor=$0000BE00
+Net87=NetName=MODULE B2|NetColor=$0000BE00
+Net88=NetName=MODULE B3|NetColor=$0000BE00
+Net89=NetName=MODULE B4|NetColor=$0000BE00
+Net90=NetName=MODULE B5|NetColor=$0000BE00
+Net91=NetName=MODULE B6|NetColor=$0000BE00
+Net92=NetName=MODULE B7|NetColor=$0000BE00
+Net93=NetName=MODULE B8|NetColor=$0000BE00
+Net94=NetName=MODULE B9|NetColor=$0000BE00
+Net95=NetName=NetJ7_10|NetColor=$006EFF6E
+Net96=NetName=NetJ7_12|NetColor=$006EFF6E
+Net97=NetName=NetJ7_14|NetColor=$006EFF6E
+Net98=NetName=NetJ7_16|NetColor=$006EFF6E
+Net99=NetName=NetJ7_18|NetColor=$006EFF6E
+Net100=NetName=NetJ7_2|NetColor=$006EFF6E
+Net101=NetName=NetJ7_20|NetColor=$006EFF6E
+Net102=NetName=NetJ7_22|NetColor=$006EFF6E
+Net103=NetName=NetJ7_24|NetColor=$006EFF6E
+Net104=NetName=NetJ7_26|NetColor=$0000BE00
+Net105=NetName=NetJ7_28|NetColor=$0000BE00
+Net106=NetName=NetJ7_30|NetColor=$0000BE00
+Net107=NetName=NetJ7_32|NetColor=$0000BE00
+Net108=NetName=NetJ7_34|NetColor=$0000BE00
+Net109=NetName=NetJ7_36|NetColor=$0000BE00
+Net110=NetName=NetJ7_38|NetColor=$0000BE00
+Net111=NetName=NetJ7_4|NetColor=$006EFF6E
+Net112=NetName=NetJ7_40|NetColor=$0000BE00
+Net113=NetName=NetJ7_42|NetColor=$0000BE00
+Net114=NetName=NetJ7_44|NetColor=$0000BE00
+Net115=NetName=NetJ7_46|NetColor=$0000BE00
+Net116=NetName=NetJ7_47|NetColor=$0000BE00
+Net117=NetName=NetJ7_48|NetColor=$0000BE00
+Net118=NetName=NetJ7_6|NetColor=$006EFF6E
+Net119=NetName=NetJ7_8|NetColor=$006EFF6E
+Net120=NetName=NetJ7A_10|NetColor=$006EFF6E
+Net121=NetName=NetJ7A_12|NetColor=$006EFF6E
+Net122=NetName=NetJ7A_14|NetColor=$006EFF6E
+Net123=NetName=NetJ7A_16|NetColor=$006EFF6E
+Net124=NetName=NetJ7A_18|NetColor=$006EFF6E
+Net125=NetName=NetJ7A_2|NetColor=$006EFF6E
+Net126=NetName=NetJ7A_20|NetColor=$006EFF6E
+Net127=NetName=NetJ7A_22|NetColor=$006EFF6E
+Net128=NetName=NetJ7A_24|NetColor=$006EFF6E
+Net129=NetName=NetJ7A_26|NetColor=$0000BE00
+Net130=NetName=NetJ7A_28|NetColor=$0000BE00
+Net131=NetName=NetJ7A_30|NetColor=$0000BE00
+Net132=NetName=NetJ7A_32|NetColor=$0000BE00
+Net133=NetName=NetJ7A_34|NetColor=$0000BE00
+Net134=NetName=NetJ7A_36|NetColor=$0000BE00
+Net135=NetName=NetJ7A_38|NetColor=$0000BE00
+Net136=NetName=NetJ7A_4|NetColor=$006EFF6E
+Net137=NetName=NetJ7A_40|NetColor=$0000BE00
+Net138=NetName=NetJ7A_42|NetColor=$0000BE00
+Net139=NetName=NetJ7A_44|NetColor=$0000BE00
+Net140=NetName=NetJ7A_46|NetColor=$0000BE00
+Net141=NetName=NetJ7A_47|NetColor=$0000BE00
+Net142=NetName=NetJ7A_48|NetColor=$0000BE00
+Net143=NetName=NetJ7A_6|NetColor=$006EFF6E
+Net144=NetName=NetJ7A_8|NetColor=$006EFF6E
+Net145=NetName=NetJ7B_10|NetColor=$006EFF6E
+Net146=NetName=NetJ7B_12|NetColor=$006EFF6E
+Net147=NetName=NetJ7B_14|NetColor=$006EFF6E
+Net148=NetName=NetJ7B_16|NetColor=$006EFF6E
+Net149=NetName=NetJ7B_18|NetColor=$006EFF6E
+Net150=NetName=NetJ7B_2|NetColor=$006EFF6E
+Net151=NetName=NetJ7B_20|NetColor=$006EFF6E
+Net152=NetName=NetJ7B_22|NetColor=$006EFF6E
+Net153=NetName=NetJ7B_24|NetColor=$006EFF6E
+Net154=NetName=NetJ7B_26|NetColor=$0000BE00
+Net155=NetName=NetJ7B_28|NetColor=$0000BE00
+Net156=NetName=NetJ7B_30|NetColor=$0000BE00
+Net157=NetName=NetJ7B_32|NetColor=$0000BE00
+Net158=NetName=NetJ7B_34|NetColor=$0000BE00
+Net159=NetName=NetJ7B_36|NetColor=$0000BE00
+Net160=NetName=NetJ7B_38|NetColor=$0000BE00
+Net161=NetName=NetJ7B_4|NetColor=$006EFF6E
+Net162=NetName=NetJ7B_40|NetColor=$0000BE00
+Net163=NetName=NetJ7B_42|NetColor=$0000BE00
+Net164=NetName=NetJ7B_44|NetColor=$0000BE00
+Net165=NetName=NetJ7B_46|NetColor=$0000BE00
+Net166=NetName=NetJ7B_47|NetColor=$0000BE00
+Net167=NetName=NetJ7B_48|NetColor=$0000BE00
+Net168=NetName=NetJ7B_6|NetColor=$006EFF6E
+Net169=NetName=NetJ7B_8|NetColor=$006EFF6E
+Net170=NetName=OSC 32kHz|NetColor=clYellow
+Net171=NetName=OSC 8Mhz|NetColor=clYellow
+Net172=NetName=RTC|NetColor=$000099FF
+Net173=NetName=SD CLK|NetColor=$00FFFF6E
+Net174=NetName=SD CMD|NetColor=$00FFFF6E
+Net175=NetName=SD DAT0|NetColor=$00FFFF6E
+Net176=NetName=SD DAT1|NetColor=$00FFFF6E
+Net177=NetName=SD DAT2|NetColor=$00FFFF6E
+Net178=NetName=SD DAT3|NetColor=$00FFFF6E
+Net179=NetName=SD.SD CLK|NetColor=$00FFFF6E
+Net180=NetName=SD.SD CMD|NetColor=$00FFFF6E
+Net181=NetName=SD.SD DAT0|NetColor=$00FFFF6E
+Net182=NetName=SD.SD DAT1|NetColor=$00FFFF6E
+Net183=NetName=SD.SD DAT2|NetColor=$00FFFF6E
+Net184=NetName=SD.SD DAT3|NetColor=$00FFFF6E
+Net185=NetName=SPI1 CS|NetColor=$006EFF6E
+Net186=NetName=SPI1 MISO|NetColor=$006EFF6E
+Net187=NetName=SPI1 MOSI|NetColor=$006EFF6E
+Net188=NetName=SPI1 SCK|NetColor=$006EFF6E
+Net189=NetName=SPI1.CLK|NetColor=$006EFF6E
+Net190=NetName=SPI1.CS|NetColor=$006EFF6E
+Net191=NetName=SPI1.MISO|NetColor=$006EFF6E
+Net192=NetName=SPI1.MOSI|NetColor=$006EFF6E
+Net193=NetName=SPI2 CLK|NetColor=$006EFF6E
+Net194=NetName=SPI2 MISO|NetColor=$006EFF6E
+Net195=NetName=SPI2 MOSI|NetColor=$006EFF6E
+Net196=NetName=SPI2.CLK|NetColor=$006EFF6E
+Net197=NetName=SPI2.MISO|NetColor=$006EFF6E
+Net198=NetName=SPI2.MOSI|NetColor=$006EFF6E
+Net199=NetName=SPI4 CLK|NetColor=$006EFF6E
+Net200=NetName=SPI4 CS|NetColor=$006EFF6E
+Net201=NetName=SPI4 MISO|NetColor=$006EFF6E
+Net202=NetName=SPI4 MOSI|NetColor=$006EFF6E
+Net203=NetName=SPI4.CS|NetColor=$006EFF6E
+Net204=NetName=UART1|NetColor=$00FFFF6E
+Net205=NetName=UART4 RX|NetColor=$006EFF6E
+Net206=NetName=UART4 TX|NetColor=$006EFF6E
+Net207=NetName=UART4.RX|NetColor=$006EFF6E
+Net208=NetName=UART4.TX|NetColor=$006EFF6E
+Net209=NetName=UART5 RX|NetColor=$006EFF6E
+Net210=NetName=UART5 TX|NetColor=$006EFF6E
+Net211=NetName=UART5.RX|NetColor=$006EFF6E
+Net212=NetName=UART5.TX|NetColor=$006EFF6E
+Net213=NetName=USART1 RX|NetColor=$00FFFF6E
+Net214=NetName=USART1 RX P|NetColor=$00FFFF6E
+Net215=NetName=USART1 TX|NetColor=$00FFFF6E
+Net216=NetName=USART1 TX P|NetColor=$00FFFF6E
+Net217=NetName=USART2 CTS|NetColor=$006EFF6E
+Net218=NetName=USART2 RTS|NetColor=$006EFF6E
+Net219=NetName=USART2 RX|NetColor=$006EFF6E
+Net220=NetName=USART2 TX|NetColor=$006EFF6E
+Net221=NetName=USART2.CTS|NetColor=$006EFF6E
+Net222=NetName=USART2.RTS|NetColor=$006EFF6E
+Net223=NetName=USART2.RX|NetColor=$006EFF6E
+Net224=NetName=USART2.TX|NetColor=$006EFF6E
+Net225=NetName=USART3 CTS|NetColor=$006EFF6E
+Net226=NetName=USART3 RTS|NetColor=$006EFF6E
+Net227=NetName=USART3 RX|NetColor=$006EFF6E
+Net228=NetName=USART3 TX|NetColor=$006EFF6E
+Net229=NetName=USART3.CTS|NetColor=$006EFF6E
+Net230=NetName=USART3.RTS|NetColor=$006EFF6E
+Net231=NetName=USART3.RX|NetColor=$006EFF6E
+Net232=NetName=USART3.TX|NetColor=$006EFF6E
+Net233=NetName=USB D_N|NetColor=clYellow
+Net234=NetName=USB D_P|NetColor=clYellow
+Net235=NetName=USB.USB D_N|NetColor=clYellow
+Net236=NetName=USB.USB D_P|NetColor=clYellow
+Net237=NetName=VCC|NetColor=$00FF6EFF
+Net238=NetName=VUSB|NetColor=$00336699
+Net239=NetName=VUSBF|NetColor=$00336699
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

@@ -1,0 +1,66 @@
+Added Component: Designator=TP1(TestPointHoop_BLACK)
+Added Component: Designator=TP2(TestPointHoop_RED)
+Added Component: Designator=TP3(TestPointHoop_RED)
+Added Component: Designator=TP4(TestPointHoop_RED)
+Added Component: Designator=TP5A(TestPointSMD)
+Added Component: Designator=TP6A(TestPointSMD)
+Added Component: Designator=TP7A(TestPointSMD)
+Added Component: Designator=TP8A(TestPointSMD)
+Added Pin To Net: NetName=MCU LED AL Pin=DS1-1
+Added Pin To Net: NetName=GND Pin=DS1-2
+Added Pin To Net: NetName=MCU LED BL Pin=DS2-1
+Added Pin To Net: NetName=GND Pin=DS2-2
+Added Pin To Net: NetName=3V3 Pin=DS9A-1
+Added Pin To Net: NetName=CAN TX LEDA Pin=DS9A-2
+Added Pin To Net: NetName=3V3 Pin=DS9B-1
+Added Pin To Net: NetName=CAN TX LEDB Pin=DS9B-2
+Added Pin To Net: NetName=3V3 Pin=DS10A-1
+Added Pin To Net: NetName=CAN RX LEDA Pin=DS10A-2
+Added Pin To Net: NetName=3V3 Pin=DS10B-1
+Added Pin To Net: NetName=CAN RX LEDB Pin=DS10B-2
+Added Pin To Net: NetName=MCU LED CL Pin=DS11-1
+Added Pin To Net: NetName=GND Pin=DS11-2
+Added Pin To Net: NetName=MCU LED AL Pin=R2-1
+Added Pin To Net: NetName=MCU LED A Pin=R2-2
+Added Pin To Net: NetName=MCU LED BL Pin=R3-1
+Added Pin To Net: NetName=MCU LED B Pin=R3-2
+Added Pin To Net: NetName=CAN2 TX Pin=R30A-1
+Added Pin To Net: NetName=CAN TX LEDA Pin=R30A-2
+Added Pin To Net: NetName=CAN1 TX Pin=R30B-1
+Added Pin To Net: NetName=CAN TX LEDB Pin=R30B-2
+Added Pin To Net: NetName=CAN2 RX Pin=R31A-1
+Added Pin To Net: NetName=CAN RX LEDA Pin=R31A-2
+Added Pin To Net: NetName=CAN1 RX Pin=R31B-1
+Added Pin To Net: NetName=CAN RX LEDB Pin=R31B-2
+Added Pin To Net: NetName=MCU LED CL Pin=R36-1
+Added Pin To Net: NetName=MCU LED C Pin=R36-2
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=3V3 Pin=TP2-1
+Added Pin To Net: NetName=VCC Pin=TP3-1
+Added Pin To Net: NetName=12V Pin=TP4-1
+Added Pin To Net: NetName=CAN2H Pin=TP5A-1
+Added Pin To Net: NetName=CAN2 TX Pin=TP6A-1
+Added Pin To Net: NetName=CAN2L Pin=TP7A-1
+Added Pin To Net: NetName=CAN2 RX Pin=TP8A-1
+Added Member To Class: ClassName=Micocontroller Member=Component DS1 LED Orange 0603
+Added Member To Class: ClassName=Micocontroller Member=Component DS2 LED Orange 0603
+Added Member To Class: ClassName=CANBUS1 Member=Component DS9A (DS9) LED Blue 0603
+Added Member To Class: ClassName=CANBUS2 Member=Component DS9B (DS9) LED Blue 0603
+Added Member To Class: ClassName=CANBUS1 Member=Component DS10A (DS10) LED Blue 0603
+Added Member To Class: ClassName=CANBUS2 Member=Component DS10B (DS10) LED Blue 0603
+Added Member To Class: ClassName=Micocontroller Member=Component DS11 LED Orange 0603
+Added Member To Class: ClassName=Micocontroller Member=Component R2 1k
+Added Member To Class: ClassName=Micocontroller Member=Component R3 1k
+Added Member To Class: ClassName=CANBUS1 Member=Component R30A (R30) 1k
+Added Member To Class: ClassName=CANBUS2 Member=Component R30B (R30) 1k
+Added Member To Class: ClassName=CANBUS1 Member=Component R31A (R31) 1k
+Added Member To Class: ClassName=CANBUS2 Member=Component R31B (R31) 1k
+Added Member To Class: ClassName=Micocontroller Member=Component R36 1k
+Added Member To Class: ClassName=Power Supply Member=Component TP1 TestPoint_Hoop_Black
+Added Member To Class: ClassName=Power Supply Member=Component TP2 TestPoint_Hoop_Red
+Added Member To Class: ClassName=Power Supply Member=Component TP3 TestPoint_Hoop_Red
+Added Member To Class: ClassName=Power Supply Member=Component TP4 TestPoint_Hoop_Red
+Added Member To Class: ClassName=CANBUS1 Member=Component TP5A (TP5) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP6A (TP6) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP7A (TP7) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS1 Member=Component TP8A (TP8) TestPoint_SMD

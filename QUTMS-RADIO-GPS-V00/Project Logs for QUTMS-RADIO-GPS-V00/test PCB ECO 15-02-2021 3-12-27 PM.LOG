@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=CON SCL / SPI CLK Pin=J3-41
+Removed Pin From Net: NetName=CON SDA / SPI CS Pin=J3-47
+Removed Pin From Net: NetName=CON SCL / SPI CLK Pin=J4-41
+Removed Pin From Net: NetName=CON SDA / SPI CS Pin=J4-47
+Removed Pin From Net: NetName=GND Pin=J5-8
+Removed Pin From Net: NetName=GND Pin=J5-22
+Removed Pin From Net: NetName=GND Pin=J5-24
+Removed Pin From Net: NetName=GND Pin=J5-25
+Removed Pin From Net: NetName=GND Pin=J5-26
+Removed Pin From Net: NetName=GND Pin=R14-1
+Change Component Footprint: Designator=J5 Old Footprint= New Footprint=IDC 2.54mm EDGE MOUNT 26p
+Change Component Footprint: Designator=F1 Old Footprint=1206 Fuse New Footprint=1812 FUSE
+Change Component Footprint: Designator=SW1 Old Footprint=JS202011JCQN New Footprint=JS202011JAQN
+Change Component Comment : Designator=F1 Old Comment=0ZCJ0050FF2G New Comment=0ZCG0050FF2C
+Change Component Comment : Designator=R20 Old Comment=10k 5% 0603 New Comment=10k
+Change Component Comment : Designator=SW1 Old Comment=JS202011JCQN New Comment=JS202011JAQN
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Added Component: Designator=FB2(INDUCTOR_0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/74404064221/732-7261-1-ND/5353241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LCSC A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_Sunlord-SWPA6045S221MT_C91047.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "LCSC B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMNR6045-221MT_C467145.html"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VUSB Pin=D1-5
+Added Pin To Net: NetName=GPS RF IN Pin=FB2-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=CON RESET Pin=J3-21
+Added Pin To Net: NetName=CON DSEL Pin=J3-23
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=J3-41
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=J3-47
+Added Pin To Net: NetName=CON RESET Pin=J4-21
+Added Pin To Net: NetName=CON DSEL Pin=J4-23
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=J4-41
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=J4-47
+Added Pin To Net: NetName=NGND Pin=J5-8
+Added Pin To Net: NetName=CON DSEL Pin=J5-22
+Added Pin To Net: NetName=CON RESET Pin=J5-24
+Added Pin To Net: NetName=NGND Pin=J5-25
+Added Pin To Net: NetName=NGND Pin=J5-26
+Added Pin To Net: NetName=NGND Pin=R14-1
+Change Net Name : Old Net Name=NetJ3_17 New Net Name=CON SPARE B
+Change Net Name : Old Net Name=NetJ3_19 New Net Name=CON SPARE A
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Pin To Net: NetName=ANT PWR Pin=C12-2
+Added Pin To Net: NetName=ANT PWR Pin=FB2-1
+Added Pin To Net: NetName=ANT PWR Pin=R31-2
+Added Net: Name=ANT PWR
+Added Pin To Net: NetName=DEBUG USART CTS Pin=J3-53
+Added Pin To Net: NetName=DEBUG USART CTS Pin=J4-53
+Added Pin To Net: NetName=DEBUG USART CTS Pin=J5-7
+Added Net: Name=DEBUG USART CTS
+Added Pin To Net: NetName=DEBUG USART RTS Pin=J3-55
+Added Pin To Net: NetName=DEBUG USART RTS Pin=J4-55
+Added Pin To Net: NetName=DEBUG USART RTS Pin=J5-5
+Added Net: Name=DEBUG USART RTS
+Added Differential Pair: Name=USB DP
+Added Differential Pair: Name=USB D
+Added Member To Class: ClassName=GPS Module Member=Component FB2 7427927311

@@ -1,0 +1,243 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=J2-A1
+Removed Pin From Net: NetName=GND Pin=J2-A12
+Removed Pin From Net: NetName=GND Pin=J2-B1
+Removed Pin From Net: NetName=GND Pin=J2-B12
+Removed Pin From Net: NetName=GND Pin=J2-S1
+Removed Pin From Net: NetName=GND Pin=J2-S2
+Removed Pin From Net: NetName=GND Pin=J2-S3
+Removed Pin From Net: NetName=GND Pin=J2-S4
+Removed Pin From Net: NetName=N3V3 Pin=J3-9
+Removed Pin From Net: NetName=NGND Pin=J3-10
+Removed Pin From Net: NetName=BACKUP Pin=J3-12
+Removed Pin From Net: NetName=NGND Pin=J3-13
+Removed Pin From Net: NetName=CON CTS Pin=J3-53
+Removed Pin From Net: NetName=CON RTS Pin=J3-55
+Removed Pin From Net: NetName=CON RXD Pin=J3-57
+Removed Pin From Net: NetName=CON TXD Pin=J3-59
+Removed Pin From Net: NetName=N3V3 Pin=J5-9
+Removed Pin From Net: NetName=NGND Pin=J5-10
+Removed Pin From Net: NetName=BACKUP Pin=J5-12
+Removed Pin From Net: NetName=NGND Pin=J5-13
+Removed Pin From Net: NetName=CON CTS Pin=J5-53
+Removed Pin From Net: NetName=CON RTS Pin=J5-55
+Removed Pin From Net: NetName=CON RXD Pin=J5-57
+Removed Pin From Net: NetName=CON TXD Pin=J5-59
+Removed Pin From Net: NetName=GND Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=N3V3 Pin=R29-2
+Removed Pin From Net: NetName=RSSI 80 R Pin=R30-1
+Removed Pin From Net: NetName=N3V3 Pin=R39-2
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=XBEE RTS Pin=U3-2
+Removed Pin From Net: NetName=XBEE CTS Pin=U3-9
+Removed Pin From Net: NetName=RSSI FILT Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=RSSI 80 Pin=U4-7
+Removed Pin From Net: NetName=N3V3 Pin=U4-8
+Removed Pin From Net: NetName=RSSI 70 Pin=U5-1
+Removed Pin From Net: NetName=RSSI FILT Pin=U5-2
+Removed Pin From Net: NetName=RSSI 70 R Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=RSSI 60 R Pin=U5-5
+Removed Pin From Net: NetName=RSSI FILT Pin=U5-6
+Removed Pin From Net: NetName=RSSI 60 Pin=U5-7
+Removed Pin From Net: NetName=N3V3 Pin=U5-8
+Removed Pin From Net: NetName=RSSI FILT Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-4
+Removed Pin From Net: NetName=RSSI FILT Pin=U6-6
+Removed Pin From Net: NetName=N3V3 Pin=U6-8
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=DS7
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=DS12
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=R29
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=R30
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=R38
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=R39
+Removed Member From Class: ClassName=PCIE Connector Member=R42
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=U5
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=U6
+Change Component Footprint: Designator=F1 Old Footprint=1206 Fuse New Footprint=1812 FUSE
+Change Component Footprint: Designator=DS12 Old Footprint=LED GREEN 0603 New Footprint=LED YELLOW 0603
+Change Component Footprint: Designator=DS7 Old Footprint=LED RED 0603 New Footprint=LED YELLOW 0603
+Change Component Footprint: Designator=U4 Old Footprint=TSSOP-8 New Footprint=TSSOP-14
+Change Component Comment : Designator=F1 Old Comment=0ZCJ0050FF2G New Comment=0ZCG0050FF2C
+Change Component Comment : Designator=R29 Old Comment=1k New Comment=33R
+Change Component Comment : Designator=R39 Old Comment=1k New Comment=33R
+Change Component Comment : Designator=R42 Old Comment=2k2 New Comment=1k
+Change Component Comment : Designator=R28 Old Comment=10k New Comment=15k
+Change Component Comment : Designator=R30 Old Comment=10k New Comment=33R
+Change Component Comment : Designator=R38 Old Comment=10k New Comment=33R
+Change Component Comment : Designator=DS12 Old Comment=LED Green 0603 New Comment=LED Yellow 0603
+Change Component Comment : Designator=DS7 Old Comment=LED Red 0603 New Comment=LED Yellow 0603
+Change Component Comment : Designator=U4 Old Comment=LM393B TSSOP New Comment=LM339PWR
+Added Component: Designator=DS13(LED YELLOW 0603)
+Added Component: Designator=DS14(LED YELLOW 0603)
+Added Component: Designator=R43(Res_ThinFilm_0603)
+Added Component: Designator=R44(Res_ThinFilm_0603)
+Added Component: Designator=R45(Res_ThinFilm_0603)
+Added Pin To Net: NetName=NGND Pin=C11-1
+Added Pin To Net: NetName=NGND Pin=C12-2
+Added Pin To Net: NetName=NGND Pin=D1-2
+Added Pin To Net: NetName=VUSB Pin=D1-5
+Added Pin To Net: NetName=NGND Pin=DS7-2
+Added Pin To Net: NetName=NGND Pin=DS12-2
+Added Pin To Net: NetName=NGND Pin=DS13-2
+Added Pin To Net: NetName=NGND Pin=DS14-2
+Added Pin To Net: NetName=NGND Pin=J2-A1
+Added Pin To Net: NetName=NGND Pin=J2-A12
+Added Pin To Net: NetName=NGND Pin=J2-B1
+Added Pin To Net: NetName=NGND Pin=J2-B12
+Added Pin To Net: NetName=NGND Pin=J2-S1
+Added Pin To Net: NetName=NGND Pin=J2-S2
+Added Pin To Net: NetName=NGND Pin=J2-S3
+Added Pin To Net: NetName=NGND Pin=J2-S4
+Added Pin To Net: NetName=NGND Pin=J3-9
+Added Pin To Net: NetName=BACKUP Pin=J3-10
+Added Pin To Net: NetName=NGND Pin=J3-12
+Added Pin To Net: NetName=N3V3 Pin=J3-13
+Added Pin To Net: NetName=NGND Pin=J3-14
+Added Pin To Net: NetName=N3V3 Pin=J3-15
+Added Pin To Net: NetName=CON SLEEP CMD Pin=J3-25
+Added Pin To Net: NetName=CON RESET Pin=J3-27
+Added Pin To Net: NetName=CON ASSOC Pin=J3-29
+Added Pin To Net: NetName=CON RSSI Pin=J3-31
+Added Pin To Net: NetName=CON SLEEP Pin=J3-33
+Added Pin To Net: NetName=CON ATTN Pin=J3-35
+Added Pin To Net: NetName=CON RTS Pin=J3-53
+Added Pin To Net: NetName=CON CTS Pin=J3-55
+Added Pin To Net: NetName=CON TXD Pin=J3-57
+Added Pin To Net: NetName=CON RXD Pin=J3-59
+Added Pin To Net: NetName=CON TXD Pin=J4-1
+Added Pin To Net: NetName=N3V3 Pin=J4-2
+Added Pin To Net: NetName=CON RXD Pin=J4-3
+Added Pin To Net: NetName=3V3 Pin=J4-4
+Added Pin To Net: NetName=CON RTS Pin=J4-5
+Added Pin To Net: NetName=CON ATTN Pin=J4-6
+Added Pin To Net: NetName=CON CTS Pin=J4-7
+Added Pin To Net: NetName=CON SLEEP Pin=J4-8
+Added Pin To Net: NetName=CON SLEEP CMD Pin=J4-10
+Added Pin To Net: NetName=CON ASSOC Pin=J4-12
+Added Pin To Net: NetName=CON CLK Pin=J4-13
+Added Pin To Net: NetName=CON RESET Pin=J4-14
+Added Pin To Net: NetName=CON MISO Pin=J4-15
+Added Pin To Net: NetName=CON RSSI Pin=J4-16
+Added Pin To Net: NetName=CON MOSI Pin=J4-17
+Added Pin To Net: NetName=CON CS Pin=J4-19
+Added Pin To Net: NetName=NGND Pin=J4-26
+Added Pin To Net: NetName=NGND Pin=J4-26
+Added Pin To Net: NetName=NGND Pin=J5-9
+Added Pin To Net: NetName=BACKUP Pin=J5-10
+Added Pin To Net: NetName=NGND Pin=J5-12
+Added Pin To Net: NetName=N3V3 Pin=J5-13
+Added Pin To Net: NetName=NGND Pin=J5-14
+Added Pin To Net: NetName=N3V3 Pin=J5-15
+Added Pin To Net: NetName=CON SLEEP CMD Pin=J5-25
+Added Pin To Net: NetName=CON RESET Pin=J5-27
+Added Pin To Net: NetName=CON ASSOC Pin=J5-29
+Added Pin To Net: NetName=CON RSSI Pin=J5-31
+Added Pin To Net: NetName=CON SLEEP Pin=J5-33
+Added Pin To Net: NetName=CON ATTN Pin=J5-35
+Added Pin To Net: NetName=CON RTS Pin=J5-53
+Added Pin To Net: NetName=CON CTS Pin=J5-55
+Added Pin To Net: NetName=CON TXD Pin=J5-57
+Added Pin To Net: NetName=CON RXD Pin=J5-59
+Added Pin To Net: NetName=NGND Pin=R24-1
+Added Pin To Net: NetName=NGND Pin=R25-1
+Added Pin To Net: NetName=RSSI 80 R Pin=R28-1
+Added Pin To Net: NetName=XBEE DIO3 Pin=R29-2
+Added Pin To Net: NetName=XBEE DIO2 Pin=R30-2
+Added Pin To Net: NetName=XBEE DIO1 Pin=R38-2
+Added Pin To Net: NetName=XBEE DIO0 Pin=R39-2
+Added Pin To Net: NetName=NGND Pin=R40-1
+Added Pin To Net: NetName=XBEE CTS Pin=U3-2
+Added Pin To Net: NetName=XBEE RTS Pin=U3-9
+Added Pin To Net: NetName=RSSI 80 Pin=U4-1
+Added Pin To Net: NetName=RSSI 70 Pin=U4-2
+Added Pin To Net: NetName=N3V3 Pin=U4-3
+Added Pin To Net: NetName=RSSI FILT Pin=U4-4
+Added Pin To Net: NetName=RSSI 70 R Pin=U4-7
+Added Pin To Net: NetName=RSSI FILT Pin=U4-8
+Added Pin To Net: NetName=RSSI 60 R Pin=U4-9
+Added Pin To Net: NetName=RSSI FILT Pin=U4-10
+Added Pin To Net: NetName=NGND Pin=U4-12
+Added Pin To Net: NetName=RSSI 60 Pin=U4-14
+Change Net Name : Old Net Name=NetC7_2 New Net Name=VUSBF
+Change Net Name : Old Net Name=RSSI 50 LED New Net Name=RSSI 45 LED
+Change Net Name : Old Net Name=XBEE DTR New Net Name=USB DTR
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Pin To Net: NetName=CON DIO0 LED Pin=DS12-1
+Added Pin To Net: NetName=CON DIO0 LED Pin=R43-1
+Added Net: Name=CON DIO0 LED
+Added Pin To Net: NetName=CON DIO0 Pin=J3-17
+Added Pin To Net: NetName=CON DIO0 Pin=J4-24
+Added Pin To Net: NetName=CON DIO0 Pin=J5-17
+Added Pin To Net: NetName=CON DIO0 Pin=R39-1
+Added Pin To Net: NetName=CON DIO0 Pin=R43-2
+Added Net: Name=CON DIO0
+Added Pin To Net: NetName=CON DIO1 LED Pin=DS7-1
+Added Pin To Net: NetName=CON DIO1 LED Pin=R42-1
+Added Net: Name=CON DIO1 LED
+Added Pin To Net: NetName=CON DIO1 Pin=J3-19
+Added Pin To Net: NetName=CON DIO1 Pin=J4-22
+Added Pin To Net: NetName=CON DIO1 Pin=J5-19
+Added Pin To Net: NetName=CON DIO1 Pin=R38-1
+Added Pin To Net: NetName=CON DIO1 Pin=R42-2
+Added Net: Name=CON DIO1
+Added Pin To Net: NetName=CON DIO2 LED Pin=DS14-1
+Added Pin To Net: NetName=CON DIO2 LED Pin=R45-1
+Added Net: Name=CON DIO2 LED
+Added Pin To Net: NetName=CON DIO2 Pin=J3-21
+Added Pin To Net: NetName=CON DIO2 Pin=J4-20
+Added Pin To Net: NetName=CON DIO2 Pin=J5-21
+Added Pin To Net: NetName=CON DIO2 Pin=R30-1
+Added Pin To Net: NetName=CON DIO2 Pin=R45-2
+Added Net: Name=CON DIO2
+Added Pin To Net: NetName=CON DIO3 LED Pin=DS13-1
+Added Pin To Net: NetName=CON DIO3 LED Pin=R44-1
+Added Net: Name=CON DIO3 LED
+Added Pin To Net: NetName=CON DIO3 Pin=J3-23
+Added Pin To Net: NetName=CON DIO3 Pin=J4-18
+Added Pin To Net: NetName=CON DIO3 Pin=J5-23
+Added Pin To Net: NetName=CON DIO3 Pin=R29-1
+Added Pin To Net: NetName=CON DIO3 Pin=R44-2
+Added Net: Name=CON DIO3
+Added Pin To Net: NetName=DEBUG RX Pin=J3-49
+Added Pin To Net: NetName=DEBUG RX Pin=J4-11
+Added Pin To Net: NetName=DEBUG RX Pin=J5-49
+Added Net: Name=DEBUG RX
+Added Pin To Net: NetName=DEBUG SCL Pin=J3-37
+Added Pin To Net: NetName=DEBUG SCL Pin=J4-23
+Added Pin To Net: NetName=DEBUG SCL Pin=J5-37
+Added Net: Name=DEBUG SCL
+Added Pin To Net: NetName=DEBUG SDA Pin=J3-39
+Added Pin To Net: NetName=DEBUG SDA Pin=J4-21
+Added Pin To Net: NetName=DEBUG SDA Pin=J5-39
+Added Net: Name=DEBUG SDA
+Added Pin To Net: NetName=DEBUG TX Pin=J3-51
+Added Pin To Net: NetName=DEBUG TX Pin=J4-9
+Added Pin To Net: NetName=DEBUG TX Pin=J5-51
+Added Net: Name=DEBUG TX
+Added Pin To Net: NetName=RSSI 45 R Pin=R36-1
+Added Pin To Net: NetName=RSSI 45 R Pin=R40-2
+Added Pin To Net: NetName=RSSI 45 R Pin=U4-11
+Added Net: Name=RSSI 45 R
+Added Pin To Net: NetName=RSSI 45 Pin=DS11-2
+Added Pin To Net: NetName=RSSI 45 Pin=U4-13
+Added Net: Name=RSSI 45
+Added Differential Pair: Name=USB DP
+Added Differential Pair: Name=USB D
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS7 LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS12 LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS13 LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS14 LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R29 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R30 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R38 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R39 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R42 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R43 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R44 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R45 1k
