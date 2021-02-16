@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SD DAT0 P Pin=D5-3
+Removed Pin From Net: NetName=SD DAT1 P Pin=D5-5
+Removed Pin From Net: NetName=PWR EN 12V Pin=R18-1
+Removed Pin From Net: NetName=PG8 Pin=R18-2
+Removed Member From Class: ClassName=Power Supply Member=R18
+Added Pin To Net: NetName=SD DAT1 P Pin=D5-3
+Added Pin To Net: NetName=SD DAT0 P Pin=D5-5

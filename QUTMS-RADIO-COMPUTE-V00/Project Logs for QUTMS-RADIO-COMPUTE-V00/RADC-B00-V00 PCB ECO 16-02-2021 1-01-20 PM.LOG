@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=3V3 Pin=R18-2
+Removed Pin From Net: NetName=3V3 Pin=R37-2
+Removed Pin From Net: NetName=3V3 Pin=R38-2
+Removed Pin From Net: NetName=3V3 Pin=R39-2
+Removed Pin From Net: NetName=3V3 Pin=R40-2
+Removed Pin From Net: NetName=3V3 Pin=R41-2
+Added Component: Designator=SW2(JS202011JAQN)
+Added Component: Designator=SW3(JS202011JAQN)
+Added Component: Designator=SW4(JS202011JAQN)
+Added Pin To Net: NetName=3V3 Pin=SW2-2
+Added Pin To Net: NetName=3V3 Pin=SW2-5
+Added Pin To Net: NetName=3V3 Pin=SW3-2
+Added Pin To Net: NetName=3V3 Pin=SW3-5
+Added Pin To Net: NetName=3V3 Pin=SW4-2
+Added Pin To Net: NetName=3V3 Pin=SW4-5
+Added Pin To Net: NetName=I2C1 PWR Pin=R40-2
+Added Pin To Net: NetName=I2C1 PWR Pin=R41-2
+Added Pin To Net: NetName=I2C1 PWR Pin=SW4-3
+Added Pin To Net: NetName=I2C1 PWR Pin=SW4-6
+Added Net: Name=I2C1 PWR
+Added Pin To Net: NetName=I2C1 SW Pin=SW4-1
+Added Pin To Net: NetName=I2C1 SW Pin=SW4-4
+Added Net: Name=I2C1 SW
+Added Pin To Net: NetName=I2C2 PWR Pin=R18-2
+Added Pin To Net: NetName=I2C2 PWR Pin=R37-2
+Added Pin To Net: NetName=I2C2 PWR Pin=SW2-3
+Added Pin To Net: NetName=I2C2 PWR Pin=SW2-6
+Added Net: Name=I2C2 PWR
+Added Pin To Net: NetName=I2C2 SW Pin=SW2-1
+Added Pin To Net: NetName=I2C2 SW Pin=SW2-4
+Added Net: Name=I2C2 SW
+Added Pin To Net: NetName=I2C3PWR Pin=R38-2
+Added Pin To Net: NetName=I2C3PWR Pin=R39-2
+Added Pin To Net: NetName=I2C3PWR Pin=SW3-3
+Added Pin To Net: NetName=I2C3PWR Pin=SW3-6
+Added Net: Name=I2C3PWR
+Added Pin To Net: NetName=I2C3SW Pin=SW3-1
+Added Pin To Net: NetName=I2C3SW Pin=SW3-4
+Added Net: Name=I2C3SW
+Added Member To Class: ClassName=Micocontroller Member=Component SW2 JS202011JAQN
+Added Member To Class: ClassName=Micocontroller Member=Component SW3 JS202011JAQN
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component SW4 JS202011JAQN

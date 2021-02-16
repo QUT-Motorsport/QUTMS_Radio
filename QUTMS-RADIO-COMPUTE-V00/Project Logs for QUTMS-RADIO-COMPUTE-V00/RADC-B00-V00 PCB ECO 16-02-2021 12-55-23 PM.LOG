@@ -1,0 +1,33 @@
+Added Component: Designator=R18(Res_ThinFilm_0603)
+Added Component: Designator=R37(Res_ThinFilm_0603)
+Added Component: Designator=R38(Res_ThinFilm_0603)
+Added Component: Designator=R39(Res_ThinFilm_0603)
+Added Component: Designator=R40(Res_ThinFilm_0603)
+Added Component: Designator=R41(Res_ThinFilm_0603)
+Added Pin To Net: NetName=I2C2 SCL Pin=R18-1
+Added Pin To Net: NetName=3V3 Pin=R18-2
+Added Pin To Net: NetName=I2C2 SDA Pin=R37-1
+Added Pin To Net: NetName=3V3 Pin=R37-2
+Added Pin To Net: NetName=I2C3 SCL Pin=R38-1
+Added Pin To Net: NetName=3V3 Pin=R38-2
+Added Pin To Net: NetName=I2C3 SDA Pin=R39-1
+Added Pin To Net: NetName=3V3 Pin=R39-2
+Added Pin To Net: NetName=I2C1 SDA Pin=R40-1
+Added Pin To Net: NetName=3V3 Pin=R40-2
+Added Pin To Net: NetName=I2C1 SCL Pin=R41-1
+Added Pin To Net: NetName=3V3 Pin=R41-2
+Added Member To Class: ClassName=Micocontroller Member=Component R18 2k2
+Added Member To Class: ClassName=Micocontroller Member=Component R37 2k2
+Added Member To Class: ClassName=Micocontroller Member=Component R38 2k2
+Added Member To Class: ClassName=Micocontroller Member=Component R39 2k2
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R40 2k2
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R41 2k2
+Added Room: Name=CANBUS1
+Added Room: Name=CANBUS2
+Added Room: Name=Card Module A
+Added Room: Name=Card Module B
+Added Room: Name=Connectors
+Added Room: Name=Micocontroller
+Added Room: Name=Power Supply
+Added Room: Name=RADC-Master-S00-V00
+Added Room: Name=SD Card / LEDs / Screen
