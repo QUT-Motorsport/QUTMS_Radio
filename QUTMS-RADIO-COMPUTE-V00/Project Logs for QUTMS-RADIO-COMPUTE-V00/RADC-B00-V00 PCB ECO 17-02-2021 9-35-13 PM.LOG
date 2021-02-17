@@ -1,0 +1,18 @@
+Added Component: Designator=TP3(TestPointHoop_RED)
+Added Component: Designator=TP4(TestPointHoop_RED)
+Added Component: Designator=TP5B(TestPointSMD)
+Added Component: Designator=TP6B(TestPointSMD)
+Added Component: Designator=TP7B(TestPointSMD)
+Added Component: Designator=TP8B(TestPointSMD)
+Added Pin To Net: NetName=VCC Pin=TP3-1
+Added Pin To Net: NetName=12V Pin=TP4-1
+Added Pin To Net: NetName=CAN1H Pin=TP5B-1
+Added Pin To Net: NetName=CAN1 TX Pin=TP6B-1
+Added Pin To Net: NetName=CAN1L Pin=TP7B-1
+Added Pin To Net: NetName=CAN1 RX Pin=TP8B-1
+Added Member To Class: ClassName=Power Supply Member=Component TP3 TestPoint_Hoop_Red
+Added Member To Class: ClassName=Power Supply Member=Component TP4 TestPoint_Hoop_Red
+Added Member To Class: ClassName=CANBUS2 Member=Component TP5B (TP5) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS2 Member=Component TP6B (TP6) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS2 Member=Component TP7B (TP7) TestPoint_SMD
+Added Member To Class: ClassName=CANBUS2 Member=Component TP8B (TP8) TestPoint_SMD

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CAN2H Pin=TP5A-1
+Removed Pin From Net: NetName=CAN2 TX Pin=TP6A-1
+Removed Pin From Net: NetName=CAN2L Pin=TP7A-1
+Removed Pin From Net: NetName=CAN2 RX Pin=TP8A-1
+Removed Member From Class: ClassName=CANBUS1 Member=TP5A
+Removed Member From Class: ClassName=CANBUS1 Member=TP6A
+Removed Member From Class: ClassName=CANBUS1 Member=TP7A
+Removed Member From Class: ClassName=CANBUS1 Member=TP8A
