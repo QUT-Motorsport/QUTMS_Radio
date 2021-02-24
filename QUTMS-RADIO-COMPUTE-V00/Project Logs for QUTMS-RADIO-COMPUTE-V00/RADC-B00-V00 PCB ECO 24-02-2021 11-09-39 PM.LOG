@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=MODULE 7 Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-47
+Change Net Name : Old Net Name=CAN TX LEDB New Net Name=RS485 TX LEDB
+Change Net Name : Old Net Name=NetJ11A_1 New Net Name=RS485 TERMA
+Change Net Name : Old Net Name=NetJ11B_1 New Net Name=RS485 TERMB
+Added Pin To Net: NetName=CAN TX LEDB Pin=DS9B-2
+Added Pin To Net: NetName=CAN TX LEDB Pin=R35B-2
+Added Net: Name=CAN TX LEDB
+Added Pin To Net: NetName=RS485 JOIN AA Pin=SW4A-1
+Added Net: Name=RS485 JOIN AA
+Added Pin To Net: NetName=RS485 JOIN AB Pin=SW4B-1
+Added Net: Name=RS485 JOIN AB
+Added Pin To Net: NetName=RS485 JOIN BA Pin=SW4A-4
+Added Net: Name=RS485 JOIN BA
+Added Pin To Net: NetName=RS485 JOIN BB Pin=SW4B-4
+Added Net: Name=RS485 JOIN BB
+Added Pin To Net: NetName=RS485 RX LEDA Pin=DS12A-2
+Added Pin To Net: NetName=RS485 RX LEDA Pin=R39A-2
+Added Net: Name=RS485 RX LEDA
+Added Pin To Net: NetName=RS485 RX LEDB Pin=DS12B-2
+Added Pin To Net: NetName=RS485 RX LEDB Pin=R39B-2
+Added Net: Name=RS485 RX LEDB
+Added Pin To Net: NetName=RS485 TX LEDA Pin=DS11A-2
+Added Pin To Net: NetName=RS485 TX LEDA Pin=R38A-2
+Added Net: Name=RS485 TX LEDA

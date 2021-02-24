@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=USART6 RX Pin=U7A-2
+Removed Pin From Net: NetName=NetR41A_2 Pin=U7A-4
+Removed Pin From Net: NetName=USART6 TX Pin=U7A-5
+Removed Pin From Net: NetName=GND Pin=U7A-6
+Removed Pin From Net: NetName=GND Pin=U7A-7
+Removed Pin From Net: NetName=RS485B Y Pin=U7A-9
+Removed Pin From Net: NetName=RS485B Z Pin=U7A-10
+Removed Pin From Net: NetName=USART1 RX Pin=U7B-2
+Removed Pin From Net: NetName=NetR41B_2 Pin=U7B-4
+Removed Pin From Net: NetName=USART1 TX Pin=U7B-5
+Removed Pin From Net: NetName=GND Pin=U7B-6
+Removed Pin From Net: NetName=GND Pin=U7B-7
+Removed Pin From Net: NetName=RS485A Y Pin=U7B-9
+Removed Pin From Net: NetName=RS485A Z Pin=U7B-10
+Added Pin To Net: NetName=PWR SENSE Pin=U1-8
+Added Pin To Net: NetName=SD DAT1 Pin=U1-26
+Added Pin To Net: NetName=MCU SWDCLK Pin=U1-47
+Added Pin To Net: NetName=NetR41B_2 Pin=U1-50
+Added Pin To Net: NetName=NetR41A_2 Pin=U1-55
+Added Pin To Net: NetName=USART6 RX Pin=U7A-1
+Added Pin To Net: NetName=NetR41A_2 Pin=U7A-2
+Added Pin To Net: NetName=USART6 TX Pin=U7A-4
+Added Pin To Net: NetName=GND Pin=U7A-5
+Added Pin To Net: NetName=RS485B Y Pin=U7A-6
+Added Pin To Net: NetName=RS485B Z Pin=U7A-7
+Added Pin To Net: NetName=RS485B B Pin=U7A-8
+Added Pin To Net: NetName=RS485B A Pin=U7A-9
+Added Pin To Net: NetName=3V3 Pin=U7A-10
+Added Pin To Net: NetName=USART1 RX Pin=U7B-1
+Added Pin To Net: NetName=NetR41B_2 Pin=U7B-2
+Added Pin To Net: NetName=USART1 TX Pin=U7B-4
+Added Pin To Net: NetName=GND Pin=U7B-5
+Added Pin To Net: NetName=RS485A Y Pin=U7B-6
+Added Pin To Net: NetName=RS485A Z Pin=U7B-7
+Added Pin To Net: NetName=RS485A B Pin=U7B-8
+Added Pin To Net: NetName=RS485A A Pin=U7B-9
+Added Pin To Net: NetName=3V3 Pin=U7B-10
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)

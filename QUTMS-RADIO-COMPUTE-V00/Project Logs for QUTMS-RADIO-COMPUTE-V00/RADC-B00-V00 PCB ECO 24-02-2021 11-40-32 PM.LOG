@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3V3 Pin=J9-1
+Removed Pin From Net: NetName=NetD2_3 Pin=J9-2
+Removed Pin From Net: NetName=NetD2_1 Pin=J9-3
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Pin From Net: NetName=3V3 Pin=SW3-2
+Removed Pin From Net: NetName=3V3 Pin=SW3-5
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=J9
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=SW3
+Added Component: Designator=C25(Cap_Ceramic_0603)
+Added Component: Designator=U8(BuyDisplay 0.91" OLED)
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3V3 Pin=C25-2
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Pin To Net: NetName=SD DAT1 Pin=U1-26
+Added Pin To Net: NetName=MCU SWDCLK Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=3V3 Pin=U8-2
+Added Pin To Net: NetName=NetD2_3 Pin=U8-3
+Added Pin To Net: NetName=NetD2_1 Pin=U8-4
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C25 1uF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component U8 OLED Module 0.91" BuyDisplay

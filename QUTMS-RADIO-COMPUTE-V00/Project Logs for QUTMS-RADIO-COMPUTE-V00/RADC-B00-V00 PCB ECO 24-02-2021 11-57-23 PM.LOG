@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CAN1H Pin=J5-1
+Removed Pin From Net: NetName=CAN2H Pin=J5-2
+Removed Pin From Net: NetName=CAN1L Pin=J6-1
+Removed Pin From Net: NetName=CAN2L Pin=J6-2
+Removed Member From Class: ClassName=Connectors Member=J5
+Removed Member From Class: ClassName=Connectors Member=J6
+Added Component: Designator=SW3(JS202011JCQN)
+Added Pin To Net: NetName=CAN1H Pin=SW3-1
+Added Pin To Net: NetName=CAN2H Pin=SW3-2
+Added Pin To Net: NetName=CAN1L Pin=SW3-4
+Added Pin To Net: NetName=CAN2L Pin=SW3-5
+Added Pin To Net: NetName=MODULE 7 Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Member To Class: ClassName=Connectors Member=Component SW3 JS202011JCQN
