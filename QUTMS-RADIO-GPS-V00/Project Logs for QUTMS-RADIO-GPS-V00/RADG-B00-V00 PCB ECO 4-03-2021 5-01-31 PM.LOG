@@ -1,0 +1,12 @@
+Added Component: Designator=SW2(BTN B3U-1000P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Tactile-Switches_BRIGHT-TSA063G50-250_C294565.html"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(BTN B3U-1000P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Tactile-Switches_BRIGHT-TSA063G50-250_C294565.html"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CON SAFEBOOT M Pin=SW2-1
+Added Pin To Net: NetName=N3V3 Pin=SW2-2
+Added Pin To Net: NetName=CON RESET M Pin=SW3-1
+Added Pin To Net: NetName=N3V3 Pin=SW3-2
+Added Member To Class: ClassName=GPS Module Member=Component SW2 B3U-1000P
+Added Member To Class: ClassName=GPS Module Member=Component SW3 B3U-1000P

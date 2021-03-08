@@ -1,0 +1,31 @@
+Change Component Comment : Designator=J1 Old Comment=U.FL-R-SMT HIROSE New Comment=U.FL-R-SMT-1(10)
+Change Component Comment : Designator=U1 Old Comment=XBP9X-DMUS-001 New Comment=XB9X-DMUS-021
+Change Component Kind : Designator=FIL2 Old Kind=Standard New Kind=Net Tie
+Added Component: Designator=SW1(BTN STANDARD 4.5mm X 4.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Tactile-Switches_BRIGHT-TSA063G50-250_C294565.html"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(BTN STANDARD 4.5mm X 4.5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Tactile-Switches_BRIGHT-TSA063G50-250_C294565.html"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NGND Pin=SW1-2
+Added Pin To Net: NetName=XBEE RESET Pin=SW1-4
+Added Pin To Net: NetName=NGND Pin=SW2-2
+Change Net Name : Old Net Name=NetD1_K New Net Name=XBEE RF
+Change Net Name : Old Net Name=XBEE RESERVED0 New Net Name=XBEE DIO12
+Change Net Name : Old Net Name=XBEE RESERVED1 New Net Name=XBEE DEBUG/SWDIO_1
+Change Net Name : Old Net Name=XBEE RESERVED2 New Net Name=XBEE JTCK/SWCLK_0
+Change Net Name : Old Net Name=XBEE RESERVED3 New Net Name=XBEE JTDO/SWO_0
+Change Net Name : Old Net Name=XBEE RESERVED4 New Net Name=XBEE JTDI/SWO_1
+Change Net Name : Old Net Name=XBEE RESERVED5 New Net Name=XBEE JTMS/SWDIO_0
+Change Net Name : Old Net Name=XBEE RESERVED6 New Net Name=XBEE SWCLK_1
+Change Net Name : Old Net Name=XBEE RESERVED7 New Net Name=XBEE RF_SELECT
+Change Net Name : Old Net Name=XBEE RESERVED8 New Net Name=XBEE NC
+Change Net Name : Old Net Name=XBEE RF New Net Name=XBEE RF FILT
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component SW1 BTN Standard 4.5mm
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component SW2 BTN Standard 4.5mm
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Clearance Constraint_1
+Added Rule: Name=Schematic Impedance Constraint
+Added Rule: Name=Schematic Impedance Constraint_1
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1

@@ -1,0 +1,96 @@
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=DS7
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=DS12
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R38
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R39
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R42
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R43
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=R?
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=DS1 NewDesignator=DS3
+Change Component Designator: OldDesignator=DS2 NewDesignator=DS4
+Change Component Designator: OldDesignator=DS3 NewDesignator=DS5
+Change Component Designator: OldDesignator=DS4 NewDesignator=DS6
+Change Component Designator: OldDesignator=DS7 NewDesignator=DS1
+Change Component Designator: OldDesignator=DS8 NewDesignator=DS9
+Change Component Designator: OldDesignator=DS9 NewDesignator=DS10
+Change Component Designator: OldDesignator=DS10 NewDesignator=DS11
+Change Component Designator: OldDesignator=DS11 NewDesignator=DS12
+Change Component Designator: OldDesignator=DS12 NewDesignator=DS2
+Change Component Designator: OldDesignator=DS? NewDesignator=DS7
+Change Component Designator: OldDesignator=DS? NewDesignator=DS8
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Component Designator: OldDesignator=R2 NewDesignator=R10
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R12
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=R9 NewDesignator=R16
+Change Component Designator: OldDesignator=R10 NewDesignator=R17
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R18
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R20
+Change Component Designator: OldDesignator=R17 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R27
+Change Component Designator: OldDesignator=R23 NewDesignator=R28
+Change Component Designator: OldDesignator=R24 NewDesignator=R29
+Change Component Designator: OldDesignator=R25 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R1
+Change Component Designator: OldDesignator=R39 NewDesignator=R2
+Change Component Designator: OldDesignator=R40 NewDesignator=R39
+Change Component Designator: OldDesignator=R41 NewDesignator=R40
+Change Component Designator: OldDesignator=R42 NewDesignator=R3
+Change Component Designator: OldDesignator=R43 NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Added Component: Designator=J3(IDC 2.54mm EDGE MOUNT 26p)
+Added Pin To Net: NetName=CON TXD Pin=J3-1
+Added Pin To Net: NetName=N3V3 Pin=J3-2
+Added Pin To Net: NetName=CON RXD Pin=J3-3
+Added Pin To Net: NetName=3V3 Pin=J3-4
+Added Pin To Net: NetName=CON ATTN Pin=J3-6
+Added Pin To Net: NetName=DEBUG TX Pin=J3-9
+Added Pin To Net: NetName=DEBUG RX Pin=J3-11
+Added Pin To Net: NetName=CON CLK Pin=J3-13
+Added Pin To Net: NetName=CON RESET Pin=J3-14
+Added Pin To Net: NetName=CON DIO3 Pin=J3-18
+Added Pin To Net: NetName=CON DIO2 Pin=J3-20
+Added Pin To Net: NetName=DEBUG SDA Pin=J3-21
+Added Pin To Net: NetName=DEBUG SCL Pin=J3-23
+Added Pin To Net: NetName=NGND Pin=J3-25
+Added Pin To Net: NetName=NGND Pin=J3-26
+Change Net Name : Old Net Name=NetD2_K New Net Name=NetD1_K
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS3 LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS4 LED Orange 0603
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component DS7 LED Blue 0603
+Added Member To Class: ClassName=PCIE Connector Member=Component J3 IDC 26P 2x15
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R18 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R19 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R20 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R21 1k
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component R26 1k
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component R30 5k1 1%
+Added Room: Name=PCIE Connector
+Added Room: Name=Power Supply (Filtering, Regulation)
+Added Room: Name=Radio Module (Digi SX Radio 900Mhz)
+Added Room: Name=RADM-Master-S00-V00
+Added Room: Name=Supporting Circuity (RSSI Indicator)
+Added Room: Name=USB Connectivity (FTDI)

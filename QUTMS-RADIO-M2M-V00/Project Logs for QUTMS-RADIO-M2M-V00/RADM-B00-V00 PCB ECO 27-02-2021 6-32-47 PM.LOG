@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=USB TX LED A Pin=DS5-1
+Removed Pin From Net: NetName=USB TX LED Pin=DS5-2
+Removed Pin From Net: NetName=USB TX LED B Pin=DS6-1
+Removed Pin From Net: NetName=USB RX LED Pin=DS6-2
+Removed Pin From Net: NetName=XBEE RF Pin=FIL2-1
+Removed Pin From Net: NetName=NetD2_K Pin=FIL2-2
+Removed Pin From Net: NetName=N3V3 Pin=R26-1
+Removed Pin From Net: NetName=USB TX LED A Pin=R26-2
+Removed Pin From Net: NetName=N3V3 Pin=R27-1
+Removed Pin From Net: NetName=USB TX LED B Pin=R27-2
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=DS5
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=DS6
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=R26
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=R27
+Added Component: Designator=DS?(LED BLUE 0603)
+Added Component: Designator=DS?(LED BLUE 0603)
+Added Component: Designator=J4(IDC 2.54mm EDGE MOUNT 26p)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Component: Designator=R?(Res_ThinFilm_0603)
+Added Pin To Net: NetName=USB TX LED A Pin=DS?-1
+Added Pin To Net: NetName=USB TX LED B Pin=DS?-1
+Added Pin To Net: NetName=USB RX LED Pin=DS?-2
+Added Pin To Net: NetName=USB TX LED Pin=DS?-2
+Added Pin To Net: NetName=NetD2_K Pin=FIL2-1
+Added Pin To Net: NetName=XBEE RF Pin=FIL2-2
+Added Pin To Net: NetName=CON TXD Pin=J4-1
+Added Pin To Net: NetName=N3V3 Pin=J4-2
+Added Pin To Net: NetName=CON RXD Pin=J4-3
+Added Pin To Net: NetName=3V3 Pin=J4-4
+Added Pin To Net: NetName=CON ATTN Pin=J4-6
+Added Pin To Net: NetName=DEBUG TX Pin=J4-9
+Added Pin To Net: NetName=DEBUG RX Pin=J4-11
+Added Pin To Net: NetName=CON CLK Pin=J4-13
+Added Pin To Net: NetName=CON RESET Pin=J4-14
+Added Pin To Net: NetName=CON DIO3 Pin=J4-18
+Added Pin To Net: NetName=CON DIO2 Pin=J4-20
+Added Pin To Net: NetName=DEBUG SDA Pin=J4-21
+Added Pin To Net: NetName=DEBUG SCL Pin=J4-23
+Added Pin To Net: NetName=NGND Pin=J4-25
+Added Pin To Net: NetName=NGND Pin=J4-26
+Added Pin To Net: NetName=U3V3 Pin=R?-1
+Added Pin To Net: NetName=U3V3 Pin=R?-1
+Added Pin To Net: NetName=USB TX LED A Pin=R?-2
+Added Pin To Net: NetName=USB TX LED B Pin=R?-2
+Added Pin To Net: NetName=XBEE DTR Pin=R9-2
+Added Pin To Net: NetName=XBEE DTR Pin=U1-10
+Added Pin To Net: NetName=XBEE DTR Pin=U1-10
+Added Pin To Net: NetName=XBEE DTR Pin=U3-7
+Added Net: Name=XBEE DTR
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component DS? LED Blue 0603
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component DS? LED Blue 0603
+Added Member To Class: ClassName=PCIE Connector Member=Component J4 IDC 26P 2x15
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component R? 1k
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component R? 1k
+Added Room: Name=PCIE Connector
+Added Room: Name=Power Supply (Filtering, Regulation)
+Added Room: Name=Radio Module (Digi SX Radio 900Mhz)
+Added Room: Name=RADM-Master-S00-V00
+Added Room: Name=Supporting Circuity (RSSI Indicator)
+Added Room: Name=USB Connectivity (FTDI)

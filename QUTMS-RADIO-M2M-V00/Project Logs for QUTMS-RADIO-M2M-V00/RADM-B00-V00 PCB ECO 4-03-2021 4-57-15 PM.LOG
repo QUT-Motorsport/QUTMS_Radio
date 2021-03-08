@@ -1,0 +1,15 @@
+Added Component: Designator=SW1(BTN B3U-1000P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Tactile-Switches_BRIGHT-TSA063G50-250_C294565.html"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(BTN B3U-1000P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Tactile-Switches_BRIGHT-TSA063G50-250_C294565.html"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CON RESET M Pin=SW1-1
+Added Pin To Net: NetName=N3V3 Pin=SW1-2
+Added Pin To Net: NetName=NGND Pin=SW2-1
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=SW2-2
+Added Pin To Net: NetName=NetR41_2 Pin=U3-14
+Added Net: Name=NetR41_2
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component SW1 B3U-1000P
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component SW2 B3U-1000P

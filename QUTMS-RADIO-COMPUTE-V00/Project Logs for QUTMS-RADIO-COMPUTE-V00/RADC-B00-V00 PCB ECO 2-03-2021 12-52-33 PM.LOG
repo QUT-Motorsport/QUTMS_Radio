@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=CAN2_N Pin=J2-1
+Removed Pin From Net: NetName=CAN2_P Pin=J2-2
+Removed Pin From Net: NetName=CAN1_N Pin=J3-7
+Removed Pin From Net: NetName=CAN1_P Pin=J3-8
+Added Pin To Net: NetName=CAN1_N Pin=J2-1
+Added Pin To Net: NetName=CAN1_P Pin=J2-2
+Added Pin To Net: NetName=CAN2_N Pin=J3-7
+Added Pin To Net: NetName=CAN2_P Pin=J3-8
+Added Pin To Net: NetName=SD DAT1 Pin=U1-26
+Added Pin To Net: NetName=MCU SWDCLK Pin=U1-47
+Added Room: Name=CANBUS1
+Added Room: Name=CANBUS2
+Added Room: Name=Card Module A
+Added Room: Name=Connectors
+Added Room: Name=Micocontroller
+Added Room: Name=Power Supply
+Added Room: Name=RADC-Master-S00-V00
+Added Room: Name=RS4851
+Added Room: Name=RS4852
+Added Room: Name=SD Card / LEDs / Screen

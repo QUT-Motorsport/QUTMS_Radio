@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=LYID1 Old Footprint=LAYER IDENT 2 New Footprint=LAYER IDENT 4
+Change Component Comment : Designator=LYID1 Old Comment=2 Layer Identification PCB Marker New Comment=4 Layer Identification PCB Marker
+Added Component: Designator=FID3(FIDUCIAL 1MM)
+Added Component: Designator=FID4(FIDUCIAL 1MM)
+Added Member To Class: ClassName=RADG-Master-S00-V00 Member=Component FID3 Fiducial 1MM
+Added Member To Class: ClassName=RADG-Master-S00-V00 Member=Component FID4 Fiducial 1MM

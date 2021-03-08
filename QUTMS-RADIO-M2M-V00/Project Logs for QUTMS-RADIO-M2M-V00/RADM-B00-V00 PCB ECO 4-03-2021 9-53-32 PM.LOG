@@ -1,0 +1,88 @@
+Added Component: Designator=C12(Cap_Ceramic_0603)
+Added Component: Designator=C13(Cap_Ceramic_0603)
+Added Component: Designator=C14(Cap_Ceramic_1206)
+Added Component: Designator=C15(Cap_Ceramic_1206)
+Added Component: Designator=DS9(LED RED 0603)
+Added Component: Designator=DS10(LED ORANGE 0603)
+Added Component: Designator=DS11(LED YELLOW 0603)
+Added Component: Designator=DS12(LED GREEN 0603)
+Added Component: Designator=R31(Res_ThinFilm_0603)
+Added Component: Designator=R32(Res_ThinFilm_0603)
+Added Component: Designator=R33(Res_ThinFilm_0603)
+Added Component: Designator=R34(Res_ThinFilm_0603)
+Added Component: Designator=R35(Res_ThinFilm_0603)
+Added Component: Designator=R36(Res_ThinFilm_0603)
+Added Component: Designator=R37(Res_ThinFilm_0603)
+Added Component: Designator=R38(Res_ThinFilm_0603)
+Added Component: Designator=R39(Res_ThinFilm_0603)
+Added Component: Designator=R40(Res_ThinFilm_0603)
+Added Component: Designator=U4(TSSOP-14)
+Added Pin To Net: NetName=NGND Pin=C12-1
+Added Pin To Net: NetName=RSSI FILT Pin=C12-2
+Added Pin To Net: NetName=N3V3 Pin=C13-1
+Added Pin To Net: NetName=NGND Pin=C13-2
+Added Pin To Net: NetName=NGND Pin=C14-1
+Added Pin To Net: NetName=N3V3 Pin=C14-2
+Added Pin To Net: NetName=NGND Pin=C15-1
+Added Pin To Net: NetName=N3V3 Pin=C15-2
+Added Pin To Net: NetName=RSSI 80 LED Pin=DS9-1
+Added Pin To Net: NetName=RSSI 80 Pin=DS9-2
+Added Pin To Net: NetName=RSSI 70 LED Pin=DS10-1
+Added Pin To Net: NetName=RSSI 70 Pin=DS10-2
+Added Pin To Net: NetName=RSSI 60 LED Pin=DS11-1
+Added Pin To Net: NetName=RSSI 60 Pin=DS11-2
+Added Pin To Net: NetName=RSSI 45 LED Pin=DS12-1
+Added Pin To Net: NetName=RSSI 45 Pin=DS12-2
+Added Pin To Net: NetName=RSSI 80 R Pin=R31-1
+Added Pin To Net: NetName=N3V3 Pin=R31-2
+Added Pin To Net: NetName=RSSI 80 LED Pin=R32-1
+Added Pin To Net: NetName=N3V3 Pin=R32-2
+Added Pin To Net: NetName=RSSI 70 R Pin=R33-1
+Added Pin To Net: NetName=RSSI 80 R Pin=R33-2
+Added Pin To Net: NetName=RSSI 70 LED Pin=R34-1
+Added Pin To Net: NetName=N3V3 Pin=R34-2
+Added Pin To Net: NetName=RSSI 60 R Pin=R35-1
+Added Pin To Net: NetName=RSSI 70 R Pin=R35-2
+Added Pin To Net: NetName=RSSI 60 LED Pin=R36-1
+Added Pin To Net: NetName=N3V3 Pin=R36-2
+Added Pin To Net: NetName=RSSI 45 R Pin=R37-1
+Added Pin To Net: NetName=RSSI 60 R Pin=R37-2
+Added Pin To Net: NetName=RSSI 45 LED Pin=R38-1
+Added Pin To Net: NetName=N3V3 Pin=R38-2
+Added Pin To Net: NetName=NGND Pin=R39-1
+Added Pin To Net: NetName=RSSI 45 R Pin=R39-2
+Added Pin To Net: NetName=RSSI FILT Pin=R40-1
+Added Pin To Net: NetName=CON RSSI Pin=R40-2
+Added Pin To Net: NetName=RSSI 80 Pin=U4-1
+Added Pin To Net: NetName=RSSI 70 Pin=U4-2
+Added Pin To Net: NetName=N3V3 Pin=U4-3
+Added Pin To Net: NetName=RSSI FILT Pin=U4-4
+Added Pin To Net: NetName=RSSI 80 R Pin=U4-5
+Added Pin To Net: NetName=RSSI FILT Pin=U4-6
+Added Pin To Net: NetName=RSSI 70 R Pin=U4-7
+Added Pin To Net: NetName=RSSI FILT Pin=U4-8
+Added Pin To Net: NetName=RSSI 60 R Pin=U4-9
+Added Pin To Net: NetName=RSSI FILT Pin=U4-10
+Added Pin To Net: NetName=RSSI 45 R Pin=U4-11
+Added Pin To Net: NetName=NGND Pin=U4-12
+Added Pin To Net: NetName=RSSI 45 Pin=U4-13
+Added Pin To Net: NetName=RSSI 60 Pin=U4-14
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component C12 1uF
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component C13 100nF
+Added Member To Class: ClassName=Power Supply (Filtering, Regulation) Member=Component C14 10uF 1206
+Added Member To Class: ClassName=Power Supply (Filtering, Regulation) Member=Component C15 10uF 1206
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS9 LED Red 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS10 LED Orange 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS11 LED Yellow 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS12 LED Green 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R31 15k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R32 1k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R33 10k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R34 1k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R35 10k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R36 1k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R37 10k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R38 1k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R39 39k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R40 100k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component U4 LM339PWR

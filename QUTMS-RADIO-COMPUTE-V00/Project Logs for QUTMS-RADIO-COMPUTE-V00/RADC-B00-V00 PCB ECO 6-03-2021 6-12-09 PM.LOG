@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3V3 Pin=TP2-1
+Change Component Comment : Designator=TP1 Old Comment=TestPoint_Hoop_Black New Comment=Keystone 5001
+Change Component Comment : Designator=TP2 Old Comment=TestPoint_Hoop_Red New Comment=Keystone 5000
+Added Component: Designator=TP3(TestPointHoop_ORANGE)
+Added Pin To Net: NetName=12V Pin=TP2-1
+Added Pin To Net: NetName=3V3 Pin=TP3-1
+Added Pin To Net: NetName=MODULE 7 Pin=U1-26
+Added Member To Class: ClassName=Power Supply Member=Component TP3 Keystone 5003

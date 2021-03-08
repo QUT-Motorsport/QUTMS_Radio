@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=SW2 Old Footprint=JS202011JAQN New Footprint=JS202011JCQN
+Change Component Comment : Designator=SW2 Old Comment=JS202011JAQN New Comment=JS202011JCQN
+Added Pin To Net: NetName=MODULE 7 Pin=U1-26
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default

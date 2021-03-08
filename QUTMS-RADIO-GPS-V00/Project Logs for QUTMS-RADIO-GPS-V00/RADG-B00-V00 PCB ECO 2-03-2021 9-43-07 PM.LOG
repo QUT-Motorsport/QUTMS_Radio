@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PWR EP USB Pin=U3-EP
+Added Pin To Net: NetName=PWR EP Pin=U3-EP
+Added Net: Name=PWR EP

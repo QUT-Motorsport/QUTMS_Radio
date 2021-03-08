@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=R23-2
+Change Component Footprint: Designator=LYID1 Old Footprint=LAYER IDENT 2 New Footprint=LAYER IDENT 4
+Change Component Comment : Designator=LYID1 Old Comment=2 Layer Identification PCB Marker New Comment=4 Layer Identification PCB Marker
+Added Component: Designator=FID3(FIDUCIAL 1MM)
+Added Component: Designator=FID4(FIDUCIAL 1MM)
+Added Pin To Net: NetName=N3V3 Pin=R23-2
+Change Net Name : Old Net Name=NetR41_2 New Net Name=USB RESET
+Added Member To Class: ClassName=RADM-Master-S00-V00 Member=Component FID3 Fiducial 1MM
+Added Member To Class: ClassName=RADM-Master-S00-V00 Member=Component FID4 Fiducial 1MM

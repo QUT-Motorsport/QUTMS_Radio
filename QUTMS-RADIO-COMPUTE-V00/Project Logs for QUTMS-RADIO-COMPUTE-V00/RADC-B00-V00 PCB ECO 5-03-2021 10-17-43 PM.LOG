@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=SD DAT1 Pin=U1-26
+Change Net Name : Old Net Name=NetR32A_2 New Net Name=CAN SPLIT TOPA
+Change Net Name : Old Net Name=NetR32B_2 New Net Name=CAN SPLIT TOPB
+Change Net Name : Old Net Name=NetR33A_1 New Net Name=CAN SPLIT BTMA
+Change Net Name : Old Net Name=NetR33B_1 New Net Name=CAN SPLIT BTMB
+Added Pin To Net: NetName=CAN SILENTA Pin=U6A-8
+Added Net: Name=CAN SILENTA
+Added Pin To Net: NetName=CAN SILENTB Pin=U6B-8
+Added Net: Name=CAN SILENTB
+Added Pin To Net: NetName=CAN SPLIT BTM UNUSEDA Pin=SW5A-3
+Added Net: Name=CAN SPLIT BTM UNUSEDA
+Added Pin To Net: NetName=CAN SPLIT BTM UNUSEDB Pin=SW5B-3
+Added Net: Name=CAN SPLIT BTM UNUSEDB
+Added Pin To Net: NetName=CAN SPLIT TOP UNUSEDA Pin=SW5A-6
+Added Net: Name=CAN SPLIT TOP UNUSEDA
+Added Pin To Net: NetName=CAN SPLIT TOP UNUSEDB Pin=SW5B-6
+Added Net: Name=CAN SPLIT TOP UNUSEDB

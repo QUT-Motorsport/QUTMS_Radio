@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=RS485 TERMA Pin=J11A-1
+Removed Pin From Net: NetName=RS485B B Pin=J11A-2
+Removed Pin From Net: NetName=RS485 TERMB Pin=J11B-1
+Removed Pin From Net: NetName=RS485A B Pin=J11B-2
+Removed Pin From Net: NetName=CAN1_P Pin=SW3-1
+Removed Pin From Net: NetName=CAN2_P Pin=SW3-2
+Removed Pin From Net: NetName=CAN2_N Pin=SW3-5
+Removed Pin From Net: NetName=RS485B Y Pin=SW4A-2
+Removed Pin From Net: NetName=RS485B A Pin=SW4A-3
+Removed Pin From Net: NetName=RS485B Z Pin=SW4A-5
+Removed Pin From Net: NetName=RS485B B Pin=SW4A-6
+Removed Pin From Net: NetName=RS485A Y Pin=SW4B-2
+Removed Pin From Net: NetName=RS485A A Pin=SW4B-3
+Removed Pin From Net: NetName=RS485A Z Pin=SW4B-5
+Removed Pin From Net: NetName=RS485A B Pin=SW4B-6
+Removed Pin From Net: NetName=CAN SPLIT BTMA Pin=SW5A-1
+Removed Pin From Net: NetName=CAN2_N Pin=SW5A-2
+Removed Pin From Net: NetName=CAN SPLIT TOPA Pin=SW5A-4
+Removed Pin From Net: NetName=CAN2_P Pin=SW5A-5
+Removed Pin From Net: NetName=CAN SPLIT BTMB Pin=SW5B-1
+Removed Pin From Net: NetName=CAN1_N Pin=SW5B-2
+Removed Pin From Net: NetName=CAN SPLIT TOPB Pin=SW5B-4
+Removed Pin From Net: NetName=CAN1_P Pin=SW5B-5
+Removed Member From Class: ClassName=RS4851 Member=J11A
+Removed Member From Class: ClassName=RS4852 Member=J11B
+Removed Member From Class: ClassName=RS4851 Member=SW4A
+Removed Member From Class: ClassName=RS4852 Member=SW4B
+Removed Member From Class: ClassName=CANBUS1 Member=SW5A
+Removed Member From Class: ClassName=CANBUS2 Member=SW5B
+Change Component Footprint: Designator=SW3 Old Footprint=JS202011JCQN New Footprint=DS05-127-2-02BK-SMT-TR
+Change Component Footprint: Designator=SW4A Old Footprint=JS202011JCQN New Footprint=DS05-127-2-02BK-SMT-TR
+Change Component Footprint: Designator=SW4B Old Footprint=JS202011JCQN New Footprint=DS05-127-2-02BK-SMT-TR
+Change Component Footprint: Designator=SW5A Old Footprint=JS202011JCQN New Footprint=DS05-127-2-04BK-SMT-TR
+Change Component Footprint: Designator=SW5B Old Footprint=JS202011JCQN New Footprint=DS05-127-2-04BK-SMT-TR
+Change Component Comment : Designator=SW4A Old Comment=JS202011JCQN New Comment=DS05-127-2-02BK-SMT-TR
+Change Component Comment : Designator=SW4B Old Comment=JS202011JCQN New Comment=DS05-127-2-02BK-SMT-TR
+Change Component Comment : Designator=SW3 Old Comment=JS202011JCQN New Comment=DS05-127-2-02BK
+Change Component Comment : Designator=SW5A Old Comment=JS202011JCQN New Comment=DS05-127-2-04BK
+Change Component Comment : Designator=SW5B Old Comment=JS202011JCQN New Comment=DS05-127-2-04BK
+Added Pin To Net: NetName=CAN2_P Pin=SW3-1
+Added Pin To Net: NetName=CAN1_P Pin=SW3-2
+Added Pin To Net: NetName=CAN2_N Pin=SW3-3
+Added Pin To Net: NetName=CAN2_N Pin=SW4A-1
+Added Pin To Net: NetName=CAN SPLIT BTMA Pin=SW4A-2
+Added Pin To Net: NetName=CAN SPLIT TOPA Pin=SW4A-3
+Added Pin To Net: NetName=CAN2_P Pin=SW4A-4
+Added Pin To Net: NetName=CAN1_N Pin=SW4B-1
+Added Pin To Net: NetName=CAN SPLIT BTMB Pin=SW4B-2
+Added Pin To Net: NetName=CAN SPLIT TOPB Pin=SW4B-3
+Added Pin To Net: NetName=CAN1_P Pin=SW4B-4
+Added Pin To Net: NetName=RS485B A Pin=SW5A-1
+Added Pin To Net: NetName=RS485B Y Pin=SW5A-2
+Added Pin To Net: NetName=RS485B B Pin=SW5A-3
+Added Pin To Net: NetName=RS485B Z Pin=SW5A-4
+Added Pin To Net: NetName=RS485B B Pin=SW5A-5
+Added Pin To Net: NetName=RS485 TERMA Pin=SW5A-6
+Added Pin To Net: NetName=RS485A A Pin=SW5B-1
+Added Pin To Net: NetName=RS485A Y Pin=SW5B-2
+Added Pin To Net: NetName=RS485A B Pin=SW5B-3
+Added Pin To Net: NetName=RS485A Z Pin=SW5B-4
+Added Pin To Net: NetName=RS485A B Pin=SW5B-5
+Added Pin To Net: NetName=RS485 TERMB Pin=SW5B-6
+Added Pin To Net: NetName=MODULE 7 Pin=U1-26
+Added Member To Class: ClassName=CANBUS1 Member=Component SW4A (SW4A) DS05-127-2-02BK-SMT-TR
+Added Member To Class: ClassName=CANBUS2 Member=Component SW4B (SW4A) DS05-127-2-02BK-SMT-TR
+Added Member To Class: ClassName=RS4851 Member=Component SW5A (SW5A) DS05-127-2-04BK
+Added Member To Class: ClassName=RS4852 Member=Component SW5B (SW5A) DS05-127-2-04BK

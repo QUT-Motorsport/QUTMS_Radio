@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=3V3 Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=3V3 Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=D12-A
+Removed Pin From Net: NetName=CAN2_P Pin=J10A-1
+Removed Pin From Net: NetName=CAN1_P Pin=J10B-1
+Removed Pin From Net: NetName=VCC Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=CAN2_N Pin=R37A-1
+Removed Pin From Net: NetName=CAN1_N Pin=R37B-1
+Removed Pin From Net: NetName=GND Pin=U6A-5
+Removed Pin From Net: NetName=GND Pin=U6A-8
+Removed Pin From Net: NetName=GND Pin=U6B-5
+Removed Pin From Net: NetName=GND Pin=U6B-8
+Removed Member From Class: ClassName=Card Module A Member=C12
+Removed Member From Class: ClassName=Card Module A Member=C13
+Removed Member From Class: ClassName=Power Supply Member=D12
+Removed Member From Class: ClassName=CANBUS1 Member=J10A
+Removed Member From Class: ClassName=CANBUS2 Member=J10B
+Removed Member From Class: ClassName=Power Supply Member=R28
+Removed Member From Class: ClassName=Power Supply Member=R32
+Removed Member From Class: ClassName=Power Supply Member=R33
+Removed Member From Class: ClassName=CANBUS1 Member=R37A
+Removed Member From Class: ClassName=CANBUS2 Member=R37B
+Change Component Footprint: Designator=U6A Old Footprint=SN65HVD233DR New Footprint=SOT-23-8
+Change Component Footprint: Designator=U6B Old Footprint=SN65HVD233DR New Footprint=SOT-23-8
+Change Component Comment : Designator=R28 Old Comment=100k New Comment=10k
+Change Component Comment : Designator=U6A Old Comment=SN65HVD233 New Comment=TCAN337GDCNT
+Change Component Comment : Designator=U6B Old Comment=SN65HVD233 New Comment=TCAN337GDCNT
+Change component parameters: Designator = "U6A" ("U6"); Footprint = "SN65HVD233DR"; UniqueID = "\DAHOSMDH\HLYVRCHC" ("\DAHOSMDH\HLYVRCHC")
+Change component parameters: Designator = "U6B" ("U6"); Footprint = "SN65HVD233DR"; UniqueID = "\UQMVESUL\HLYVRCHC" ("\UQMVESUL\HLYVRCHC")
+Added Component: Designator=C12A(Cap_Ceramic_0603)
+Added Component: Designator=C12B(Cap_Ceramic_0603)
+Added Component: Designator=R32A(Res_ThinFilm_1210)
+Added Component: Designator=R32B(Res_ThinFilm_1210)
+Added Component: Designator=R33A(Res_ThinFilm_1210)
+Added Component: Designator=R33B(Res_ThinFilm_1210)
+Added Component: Designator=SW5A(JS202011JCQN)
+Added Component: Designator=SW5B(JS202011JCQN)
+Added Pin To Net: NetName=GND Pin=C12A-1
+Added Pin To Net: NetName=GND Pin=C12B-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=USART2 CTS Pin=P1-2
+Added Pin To Net: NetName=USART2 RTS Pin=P1-3
+Added Pin To Net: NetName=USART2 RX Pin=P1-4
+Added Pin To Net: NetName=USART2 TX Pin=P1-5
+Added Pin To Net: NetName=DETECT Pin=P1-6
+Added Pin To Net: NetName=3V3 Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=SPI1 SCK Pin=P2-2
+Added Pin To Net: NetName=SPI1 MISO Pin=P2-3
+Added Pin To Net: NetName=SPI1 MOSI Pin=P2-4
+Added Pin To Net: NetName=I2C2 SDA Pin=P2-6
+Added Pin To Net: NetName=I2C2 SCL Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=MOUDLE 2 Pin=P3-2
+Added Pin To Net: NetName=MODULE 1 Pin=P3-3
+Added Pin To Net: NetName=USART3 RX Pin=P3-4
+Added Pin To Net: NetName=USART3 TX Pin=P3-5
+Added Pin To Net: NetName=BACKUP Pin=P3-6
+Added Pin To Net: NetName=3V3 Pin=P3-7
+Added Pin To Net: NetName=GND Pin=P3-8
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=MODULE 3 Pin=P4-2
+Added Pin To Net: NetName=MODULE 4 Pin=P4-3
+Added Pin To Net: NetName=MODULE 5 Pin=P4-4
+Added Pin To Net: NetName=MODULE 6 Pin=P4-5
+Added Pin To Net: NetName=MODULE 7 Pin=P4-6
+Added Pin To Net: NetName=MODULE 8 Pin=P4-7
+Added Pin To Net: NetName=GND Pin=P4-8
+Added Pin To Net: NetName=3V3 Pin=R28-2
+Added Pin To Net: NetName=CAN2_N Pin=SW5A-2
+Added Pin To Net: NetName=CAN2_P Pin=SW5A-4
+Added Pin To Net: NetName=CAN1_N Pin=SW5B-2
+Added Pin To Net: NetName=CAN1_P Pin=SW5B-4
+Added Pin To Net: NetName=SD DAT1 Pin=U1-26
+Added Pin To Net: NetName=CAN FAULT Pin=R28-1
+Added Pin To Net: NetName=CAN FAULT Pin=U1-8
+Added Pin To Net: NetName=CAN FAULT Pin=U6A-5
+Added Pin To Net: NetName=CAN FAULT Pin=U6B-5
+Added Net: Name=CAN FAULT
+Added Pin To Net: NetName=NetC12A_2 Pin=C12A-2
+Added Pin To Net: NetName=NetC12A_2 Pin=R32A-1
+Added Pin To Net: NetName=NetC12A_2 Pin=R33A-2
+Added Net: Name=NetC12A_2
+Added Pin To Net: NetName=NetC12B_2 Pin=C12B-2
+Added Pin To Net: NetName=NetC12B_2 Pin=R32B-1
+Added Pin To Net: NetName=NetC12B_2 Pin=R33B-2
+Added Net: Name=NetC12B_2
+Added Pin To Net: NetName=NetR32A_2 Pin=R32A-2
+Added Pin To Net: NetName=NetR32A_2 Pin=SW5A-5
+Added Net: Name=NetR32A_2
+Added Pin To Net: NetName=NetR32B_2 Pin=R32B-2
+Added Pin To Net: NetName=NetR32B_2 Pin=SW5B-5
+Added Net: Name=NetR32B_2
+Added Pin To Net: NetName=NetR33A_1 Pin=R33A-1
+Added Pin To Net: NetName=NetR33A_1 Pin=SW5A-1
+Added Net: Name=NetR33A_1
+Added Pin To Net: NetName=NetR33B_1 Pin=R33B-1
+Added Pin To Net: NetName=NetR33B_1 Pin=SW5B-1
+Added Net: Name=NetR33B_1
+Added Pin To Net: NetName=SPI CS Pin=P2-5
+Added Pin To Net: NetName=SPI CS Pin=U1-2
+Added Net: Name=SPI CS
+Added Member To Class: ClassName=CANBUS1 Member=Component C12A (C12) 4n7
+Added Member To Class: ClassName=CANBUS2 Member=Component C12B (C12) 4n7
+Added Member To Class: ClassName=Micocontroller Member=Component R28 10k
+Added Member To Class: ClassName=CANBUS1 Member=Component R32A (R32) 60R4 1% 1210
+Added Member To Class: ClassName=CANBUS2 Member=Component R32B (R32) 60R4 1% 1210
+Added Member To Class: ClassName=CANBUS1 Member=Component R33A (R33) 60R4 1% 1210
+Added Member To Class: ClassName=CANBUS2 Member=Component R33B (R33) 60R4 1% 1210
+Added Member To Class: ClassName=CANBUS1 Member=Component SW5A (SW5A) JS202011JCQN
+Added Member To Class: ClassName=CANBUS2 Member=Component SW5B (SW5A) JS202011JCQN

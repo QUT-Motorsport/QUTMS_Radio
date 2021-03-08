@@ -1,0 +1,26 @@
+Added Component: Designator=SHIELD1(BMI-S-206-F)
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD1 BMI-S-206-F

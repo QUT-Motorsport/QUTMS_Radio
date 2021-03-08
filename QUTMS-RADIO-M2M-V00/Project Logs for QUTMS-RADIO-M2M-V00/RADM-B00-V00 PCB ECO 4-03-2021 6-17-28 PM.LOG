@@ -1,0 +1,9 @@
+Added Component: Designator=DS13(LED YELLOW 0603)
+Added Component: Designator=R42(Res_ThinFilm_0603)
+Added Pin To Net: NetName=GND Pin=DS13-2
+Added Pin To Net: NetName=CON RSSI Pin=R42-2
+Added Pin To Net: NetName=NetDS13_1 Pin=DS13-1
+Added Pin To Net: NetName=NetDS13_1 Pin=R42-1
+Added Net: Name=NetDS13_1
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS13 LED Yellow 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R42 1k

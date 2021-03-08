@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=U3V3 Pin=U3-14
+Added Component: Designator=R41(Res_ThinFilm_0603)
+Added Pin To Net: NetName=U3V3 Pin=R41-1
+Added Pin To Net: NetName=NGND Pin=SW1-1
+Added Pin To Net: NetName=XBEE RESET Pin=SW1-3
+Added Pin To Net: NetName=NGND Pin=SW2-1
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=SW2-3
+Added Pin To Net: NetName=NetR41_2 Pin=SW2-4
+Added Pin To Net: NetName=NetR41_2 Pin=U3-14
+Added Net: Name=NetR41_2
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component R41 10k

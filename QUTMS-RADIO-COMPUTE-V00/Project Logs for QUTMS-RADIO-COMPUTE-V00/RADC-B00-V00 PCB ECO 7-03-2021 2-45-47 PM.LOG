@@ -1,0 +1,35 @@
+Added Component: Designator=C14(Cap_Ceramic_0603)
+Added Component: Designator=D3(SC-47)
+Added Component: Designator=J8(3PinRightAngle)
+Added Component: Designator=R7(Res_ThinFilm_0603)
+Added Component: Designator=R8(Res_ThinFilm_0603)
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=USART1 RX P Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=USART1 TX P Pin=D3-3
+Added Pin To Net: NetName=USART1 TX P Pin=D3-4
+Added Pin To Net: NetName=3V3 Pin=D3-5
+Added Pin To Net: NetName=USART1 RX P Pin=D3-6
+Added Pin To Net: NetName=GND Pin=J4-A1
+Added Pin To Net: NetName=GND Pin=J4-A12
+Added Pin To Net: NetName=GND Pin=J4-B1
+Added Pin To Net: NetName=GND Pin=J4-B12
+Added Pin To Net: NetName=GND Pin=J4-S1
+Added Pin To Net: NetName=GND Pin=J4-S2
+Added Pin To Net: NetName=GND Pin=J4-S3
+Added Pin To Net: NetName=GND Pin=J4-S4
+Added Pin To Net: NetName=USART1 TX P Pin=J8-1
+Added Pin To Net: NetName=USART1 RX P Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=USART1 TX P Pin=R7-1
+Added Pin To Net: NetName=USART1 RX P Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=SD DAT1 Pin=U1-26
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(110, 255, 110)
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C14 1uF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component D3 PRTR5V0U4D
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component J8 PRPC003SBAN-M71RC
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R7 33R
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R8 33R

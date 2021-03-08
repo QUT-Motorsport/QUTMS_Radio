@@ -1,0 +1,4 @@
+Added Component: Designator=D?(FERRITEBEAD_0402)
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=XBEE RF Pin=D?-2
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component D? PESD0402-140

@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=DS1-2
+Removed Pin From Net: NetName=I2C2 SCL Pin=R5-1
+Removed Pin From Net: NetName=I2C2 SDA Pin=R6-1
+Removed Pin From Net: NetName=CAN FAULT Pin=R28-1
+Removed Pin From Net: NetName=3V3 Pin=R28-2
+Removed Pin From Net: NetName=3V3 Pin=SW2-2
+Removed Pin From Net: NetName=3V3 Pin=SW2-5
+Removed Member From Class: ClassName=Micocontroller Member=DS1
+Removed Member From Class: ClassName=Micocontroller Member=SW2
+Change Component Comment : Designator=R1 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R5 Old Comment=2k2 New Comment=33R
+Change Component Comment : Designator=R6 Old Comment=2k2 New Comment=33R
+Added Component: Designator=R37(Res_ThinFilm_0603)
+Added Component: Designator=R42(Res_ThinFilm_0603)
+Added Component: Designator=R43(Res_ThinFilm_0603)
+Added Component: Designator=T1(SOT23-3 - Transistor)
+Added Component: Designator=T2(SOT23-3 - Transistor)
+Added Pin To Net: NetName=CAN FAULT Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=I2C2 SCL Pin=R42-1
+Added Pin To Net: NetName=I2C2 SDA Pin=R43-1
+Added Pin To Net: NetName=3V3 Pin=T1-C
+Added Pin To Net: NetName=3V3 Pin=T2-C
+Added Pin To Net: NetName=MODULE 7 Pin=U1-26
+Change Net Name : Old Net Name=MCU LED AL New Net Name=NetDS2_1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Added Pin To Net: NetName=I2C2 EN SCL Pin=R5-1
+Added Pin To Net: NetName=I2C2 EN SCL Pin=R28-2
+Added Pin To Net: NetName=I2C2 EN SCL Pin=T1-B
+Added Net: Name=I2C2 EN SCL
+Added Pin To Net: NetName=I2C2 EN SDA Pin=R6-1
+Added Pin To Net: NetName=I2C2 EN SDA Pin=R37-2
+Added Pin To Net: NetName=I2C2 EN SDA Pin=T2-B
+Added Net: Name=I2C2 EN SDA
+Added Pin To Net: NetName=I2C2 EN Pin=R5-2
+Added Pin To Net: NetName=I2C2 EN Pin=R6-2
+Added Pin To Net: NetName=I2C2 EN Pin=U1-57
+Added Net: Name=I2C2 EN
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=T1-E
+Added Net: Name=NetR42_2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=T2-E
+Added Net: Name=NetR43_2
+Added Member To Class: ClassName=Micocontroller Member=Component R37 10k
+Added Member To Class: ClassName=Micocontroller Member=Component R42 2k2
+Added Member To Class: ClassName=Micocontroller Member=Component R43 2k2
+Added Member To Class: ClassName=Micocontroller Member=Component T1 MMBT3904-7-F
+Added Member To Class: ClassName=Micocontroller Member=Component T2 MMBT3904-7-F

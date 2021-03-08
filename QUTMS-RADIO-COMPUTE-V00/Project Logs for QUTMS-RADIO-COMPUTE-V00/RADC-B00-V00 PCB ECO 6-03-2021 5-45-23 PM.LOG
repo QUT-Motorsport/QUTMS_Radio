@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SD DAT1 Pin=U1-26
+Change Net Name : Old Net Name=I2C2 EN SCL New Net Name=I2C2 SCL EN
+Change Net Name : Old Net Name=I2C2 EN SDA New Net Name=I2C2 SDA EN

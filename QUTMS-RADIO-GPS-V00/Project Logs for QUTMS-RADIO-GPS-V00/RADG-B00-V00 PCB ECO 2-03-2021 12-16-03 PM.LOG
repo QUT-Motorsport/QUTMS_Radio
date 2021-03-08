@@ -1,0 +1,219 @@
+Added Component: Designator=SHIELD3(BMI-S-201-F)
+Added Component: Designator=SHIELD4(BMI-S-202-F)
+Added Component: Designator=SHIELD5(BMI-S-203-F)
+Added Component: Designator=SHIELD6(BMI-S-204-F)
+Added Component: Designator=SHIELD7(BMI-S-210-F)
+Added Component: Designator=SHIELD8(BMI-S-205-F)
+Added Component: Designator=SHIELD9(BMI-S-207-F)
+Added Component: Designator=SHIELD10(BMI-S-208-F)
+Added Component: Designator=SHIELD11(BMI-S-209-F)
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD3-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD4-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD5-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD6-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD7-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD8-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD9-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD10-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Pin To Net: NetName=GND Pin=SHIELD11-1
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD3 BMI-S-201-F
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD4 BMI-S-202-F
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD5 BMI-S-203-F
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD6 BMI-S-204-F
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD7 BMI-S-210-F
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD8 BMI-S-205-F
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD9 BMI-S-207-F
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD10 BMI-S-208-F
+Added Member To Class: ClassName=GPS Module RF Member=Component SHIELD11 BMI-S-209-F
+Added Room: Name=GPS Module
+Added Room: Name=GPS Module RF
+Added Room: Name=Power Supply
+Added Room: Name=RADG-Master-S00-V00
+Added Room: Name=USB

@@ -1,0 +1,28 @@
+Added Component: Designator=C14(Cap_Ceramic_0603)
+Added Component: Designator=C26(Cap_Ceramic_0603)
+Added Component: Designator=LOGO1(QUTMS LOGO 20MM)
+Added Component: Designator=R7(Res_ThinFilm_0603)
+Added Component: Designator=R8(Res_ThinFilm_0603)
+Added Component: Designator=U10(BMA456)
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=3V3 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=I2C1 SDA Pin=U10-2
+Added Pin To Net: NetName=3V3 Pin=U10-3
+Added Pin To Net: NetName=3V3 Pin=U10-7
+Added Pin To Net: NetName=GND Pin=U10-8
+Added Pin To Net: NetName=GND Pin=U10-9
+Added Pin To Net: NetName=3V3 Pin=U10-10
+Added Pin To Net: NetName=I2C1 SCL Pin=U10-12
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C14 100nF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component C26 100nF
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component LOGO1 20mm Wide QUTMS Logo
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R7 DNF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component R8 DNF
+Added Member To Class: ClassName=SD Card / LEDs / Screen Member=Component U10 BMA456

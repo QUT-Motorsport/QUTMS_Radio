@@ -1,0 +1,47 @@
+Added Component: Designator=R40(Res_ThinFilm_0603)
+Added Component: Designator=R41(Res_ThinFilm_0603)
+Added Component: Designator=R42(Res_ThinFilm_0603)
+Added Pin To Net: NetName=NGND Pin=P1-1
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=P1-4
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=P1-5
+Added Pin To Net: NetName=N3V3 Pin=P1-7
+Added Pin To Net: NetName=NGND Pin=P1-8
+Added Pin To Net: NetName=NGND Pin=P2-1
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=P2-2
+Added Pin To Net: NetName=CON RXD / SPI MOSI Pin=P2-3
+Added Pin To Net: NetName=CON TXD / SPI MISO Pin=P2-4
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=P2-5
+Added Pin To Net: NetName=CON SDA / SPI CS Pin=P2-6
+Added Pin To Net: NetName=CON SCL / SPI CLK Pin=P2-7
+Added Pin To Net: NetName=NGND Pin=P2-8
+Added Pin To Net: NetName=NGND Pin=P3-1
+Added Pin To Net: NetName=CON TX READY Pin=P3-2
+Added Pin To Net: NetName=CON GEOFENCE Pin=P3-3
+Added Pin To Net: NetName=CON TXD2 Pin=P3-4
+Added Pin To Net: NetName=CON RXD2 Pin=P3-5
+Added Pin To Net: NetName=BACKUP Pin=P3-6
+Added Pin To Net: NetName=N3V3 Pin=P3-7
+Added Pin To Net: NetName=NGND Pin=P3-8
+Added Pin To Net: NetName=NGND Pin=P4-1
+Added Pin To Net: NetName=CON RTK STAT Pin=P4-2
+Added Pin To Net: NetName=CON TIMEPULSE Pin=P4-3
+Added Pin To Net: NetName=CON SAFEBOOT Pin=P4-4
+Added Pin To Net: NetName=CON EXTINT Pin=P4-5
+Added Pin To Net: NetName=CON DSEL Pin=P4-6
+Added Pin To Net: NetName=CON RESET Pin=P4-7
+Added Pin To Net: NetName=NGND Pin=P4-8
+Added Pin To Net: NetName=N3V3 Pin=R40-1
+Added Pin To Net: NetName=NGND Pin=R42-2
+Added Pin To Net: NetName=DET REF B Pin=R41-2
+Added Pin To Net: NetName=DET REF B Pin=R42-1
+Added Net: Name=DET REF B
+Added Pin To Net: NetName=DET REF Pin=P1-6
+Added Pin To Net: NetName=DET REF Pin=R40-2
+Added Pin To Net: NetName=DET REF Pin=R41-1
+Added Net: Name=DET REF
+Added Member To Class: ClassName=Designator Member=Component P1 Header 8
+Added Member To Class: ClassName=Designator Member=Component P2 Header 8
+Added Member To Class: ClassName=Designator Member=Component R40 10k
+Added Member To Class: ClassName=Designator Member=Component R41 10k
+Added Member To Class: ClassName=Designator Member=Component R42 10k
+Added Member To Class: ClassName=GPS Module Member=Component SW1 JS202011JCQN

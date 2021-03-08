@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=MCU LED A New Net Name=MCU LED
+Change Net Name : Old Net Name=NetDS2_1 New Net Name=MCU LED A
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Added Member To Class: ClassName=RS4851 Member=Component U7A (U7) THVD1452DGSR

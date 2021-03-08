@@ -1,0 +1,34 @@
+Added Component: Designator=SHIELD1(BMI-S-207-F)
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Pin To Net: NetName=GND Pin=SHIELD1-1
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component SHIELD1 BMI-S-207-F

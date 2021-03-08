@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=CAN1L Pin=J2-1
+Removed Pin From Net: NetName=CAN1H Pin=J2-2
+Removed Pin From Net: NetName=CAN2L Pin=J2-7
+Removed Pin From Net: NetName=CAN2H Pin=J2-8
+Removed Pin From Net: NetName=CAN1L Pin=J3-1
+Removed Pin From Net: NetName=CAN1H Pin=J3-2
+Removed Pin From Net: NetName=CAN2L Pin=J3-7
+Removed Pin From Net: NetName=CAN2H Pin=J3-8
+Added Pin To Net: NetName=MODULE 7 Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-47
+Change Net Name : Old Net Name=CAN1H New Net Name=CAN1_P
+Change Net Name : Old Net Name=CAN1L New Net Name=CAN1_N
+Change Net Name : Old Net Name=CAN2H New Net Name=CAN2_P
+Change Net Name : Old Net Name=CAN2L New Net Name=CAN2_N
+Added Pin To Net: NetName=CAN1H Pin=J2-2
+Added Pin To Net: NetName=CAN1H Pin=J3-2
+Added Net: Name=CAN1H
+Added Pin To Net: NetName=CAN1L Pin=J2-1
+Added Pin To Net: NetName=CAN1L Pin=J3-1
+Added Net: Name=CAN1L
+Added Pin To Net: NetName=CAN2H Pin=J2-8
+Added Pin To Net: NetName=CAN2H Pin=J3-8
+Added Net: Name=CAN2H
+Added Pin To Net: NetName=CAN2L Pin=J2-7
+Added Pin To Net: NetName=CAN2L Pin=J3-7
+Added Net: Name=CAN2L
+Added Differential Pair: Name=CAN1
+Added Differential Pair: Name=CAN2

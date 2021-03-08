@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=3V3 Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=3V3 Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=C26
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=R7
+Removed Member From Class: ClassName=SD Card / LEDs / Screen Member=R8
+Added Component: Designator=LOGO1(QUTMS LOGO 20MM)
+Added Member To Class: ClassName=RADC-Master-S00-V00 Member=Component LOGO1 20mm Wide QUTMS Logo

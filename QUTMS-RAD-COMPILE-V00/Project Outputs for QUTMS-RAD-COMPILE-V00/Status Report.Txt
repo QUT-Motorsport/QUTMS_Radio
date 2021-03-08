@@ -1,0 +1,15 @@
+Source PCB Design RAD-B00-V00.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QUTMS-RAD-COMPILE-V00.PrjPcb]
+   Generated File[RAD-B00-V00-RoundHoles.TXT]
+   Generated File[RAD-B00-V00-SlotHoles.TXT]
+   Generated File[RAD-B00-V00.LDP]
+   Generated File[RAD-B00-V00.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:23:13 PM On 8/03/2021

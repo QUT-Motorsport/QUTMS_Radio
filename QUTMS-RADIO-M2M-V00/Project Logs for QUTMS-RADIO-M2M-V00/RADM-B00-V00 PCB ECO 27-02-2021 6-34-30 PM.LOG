@@ -1,0 +1,75 @@
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=C12
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=D1
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=DS5
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=DS5
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=DS6
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=DS6
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=R1
+Removed Member From Class: ClassName=Supporting Circuity (RSSI Indicator) Member=R2
+Removed Member From Class: ClassName=Power Supply (Filtering, Regulation) Member=R27
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R27
+Removed Member From Class: ClassName=Power Supply (Filtering, Regulation) Member=R29
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R29
+Removed Member From Class: ClassName=Power Supply (Filtering, Regulation) Member=R32
+Removed Member From Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=R32
+Removed Member From Class: ClassName=USB Connectivity (FTDI) Member=R32
+Added Component: Designator=FIL1(TAOGLAS 915MHZ FILTER)
+Added Component: Designator=FIL2(TAOGLAS 868MHZ FILTER)
+Added Pin To Net: NetName=XBEE RF Pin=FIL1-1
+Added Pin To Net: NetName=NetD1_K Pin=FIL1-2
+Added Pin To Net: NetName=GND Pin=FIL1-3
+Added Pin To Net: NetName=GND Pin=FIL1-4
+Added Pin To Net: NetName=GND Pin=FIL1-5
+Added Pin To Net: NetName=GND Pin=FIL1-6
+Added Pin To Net: NetName=NetD1_K Pin=FIL2-1
+Added Pin To Net: NetName=XBEE RF Pin=FIL2-2
+Added Pin To Net: NetName=GND Pin=FIL2-3
+Added Pin To Net: NetName=GND Pin=FIL2-4
+Added Pin To Net: NetName=GND Pin=FIL2-5
+Added Pin To Net: NetName=GND Pin=FIL2-6
+Added Pin To Net: NetName=CON CLK Pin=R7-1
+Added Pin To Net: NetName=CON TXD Pin=R9-1
+Added Pin To Net: NetName=CON RESET Pin=R10-1
+Added Pin To Net: NetName=CON RXD Pin=R11-1
+Added Pin To Net: NetName=CON ATTN Pin=R15-1
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component C11 1uF
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component C13 100nF
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component D2 PRTR5V0U4D
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS1 LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS2 LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS3 LED Yellow 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component DS4 LED Orange 0603
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component DS8 LED Blue 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS9 LED Red 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS10 LED Orange 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS11 LED Yellow 0603
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component DS12 LED Green 0603
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component FIL1 DBP.915.V.A.30
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component FIL2 DBP.868.U.A.30
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R1 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R2 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R3 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R4 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R5 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R6 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R8 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R9 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R10 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R12 10k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R13 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R16 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R17 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R19 33R
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R20 1k
+Added Member To Class: ClassName=Radio Module (Digi SX Radio 900Mhz) Member=Component R21 1k
+Added Member To Class: ClassName=Power Supply (Filtering, Regulation) Member=Component R22 1k
+Added Member To Class: ClassName=Power Supply (Filtering, Regulation) Member=Component R23 1k
+Added Member To Class: ClassName=Power Supply (Filtering, Regulation) Member=Component R24 0R
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component R25 1k
+Added Member To Class: ClassName=USB Connectivity (FTDI) Member=Component R28 22R
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R31 15k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R33 10k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R34 1k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R36 1k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R38 1k
+Added Member To Class: ClassName=Supporting Circuity (RSSI Indicator) Member=Component R39 39k

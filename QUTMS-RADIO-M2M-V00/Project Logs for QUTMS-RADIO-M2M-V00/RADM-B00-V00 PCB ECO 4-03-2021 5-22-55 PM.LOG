@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NGND Pin=Q1-S
+Added Pin To Net: NetName=GND Pin=Q1-S

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CAN2_P Pin=SW5A-4
+Removed Pin From Net: NetName=NetR32A_2 Pin=SW5A-5
+Removed Pin From Net: NetName=CAN1_P Pin=SW5B-4
+Removed Pin From Net: NetName=NetR32B_2 Pin=SW5B-5
+Added Pin To Net: NetName=NetR32A_2 Pin=SW5A-4
+Added Pin To Net: NetName=CAN2_P Pin=SW5A-5
+Added Pin To Net: NetName=NetR32B_2 Pin=SW5B-4
+Added Pin To Net: NetName=CAN1_P Pin=SW5B-5
+Added Pin To Net: NetName=MODULE 7 Pin=U1-26
+Change Net Name : Old Net Name=NetC12A_2 New Net Name=CAN SPLITA
+Change Net Name : Old Net Name=NetC12B_2 New Net Name=CAN SPLITB
